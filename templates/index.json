@@ -323,7 +323,7 @@
             "column_size": "3",
             "title": "Christophe",
             "heading_tag": "h4",
-            "content": "<p><strong>\"Parfait pour ne pas déranger mon partenaire. Mon conjoint ne supportait plus mes alarmes matinales, et ce bracelet a résolu le problème ! Je me réveille sans bruit, juste avec une vibration agréable.\"</strong></p>",
+            "content": "<p><strong>\"Parfait pour ne pas déranger mon partenaire. Ma compagne ne supportait plus mes alarmes matinales, et ce bracelet a résolu le problème ! Je me réveille sans bruit, juste avec une vibration agréable.\"</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -336,7 +336,7 @@
             "column_size": "3",
             "title": "Marie",
             "heading_tag": "h4",
-            "content": "<p><em><strong>\"</strong></em><strong>Le meilleur achat que j’ai fait cette année ! Simple, efficace et confortable à porter, ce bracelet m’a vraiment changé la vie. Je me réveille mieux et plus reposé.\"</strong><em><strong>\"</strong></em></p>",
+            "content": "<p><em><strong>\"</strong></em><strong>Le meilleur achat que j’ai fait cette année ! Simple, efficace et confortable à porter, ce bracelet m’a vraiment changé la vie. Je me réveille mieux et plus reposé.\"</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -647,7 +647,7 @@
             "column_size": "3",
             "title": "Un Réveil sans stress",
             "heading_tag": "h3",
-            "content": "<p>Stimulent la production de collagène pour une peau plus ferme et élastique. Réduisent l’apparence des ridules et des rides. Soutiennent la structure de la peau et lissent la texture.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -658,9 +658,9 @@
           "settings": {
             "image": "shopify://shop_images/Titel_3_kopie_e3d55d2c-b8e6-4bc8-8007-74b7ac9a163c.webp",
             "column_size": "3",
-            "title": "Élastine",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Complément naturel du collagène, elle assure souplesse et élasticité à la peau, prévenant le relâchement cutané et aidant à maintenir un teint rebondi et résilient face aux agressions extérieures.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -671,33 +671,9 @@
           "settings": {
             "image": "shopify://shop_images/Sans_titre_800_x_800_px_1.png",
             "column_size": "3",
-            "title": "Acide hyaluronique",
+            "title": "Fini les reveils bruyant",
             "heading_tag": "h4",
-            "content": "<p>Hydratation en profondeur. Favorise la réparation et la régénération de la peau. Repulpe la peau et réduit l’apparence des ridules et des rides.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_LV4cm8": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Glycérine",
-            "heading_tag": "h4",
-            "content": "<p>Renforce la barrière protectrice naturelle de la peau. Lisse et adoucit la peau. Protège contre la sécheresse et les irritations.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_6nijje": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Squalane",
-            "heading_tag": "h4",
-            "content": "<p>Un puissant émollient naturel qui restaure la barrière cutanée, nourrit intensément sans effet gras, protège contre la déshydratation et aide la peau à retrouver douceur et éclat naturel.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -707,9 +683,7 @@
       "block_order": [
         "item_xiaYUR",
         "item_QdbeiM",
-        "item_dPL9Rr",
-        "item_LV4cm8",
-        "item_6nijje"
+        "item_dPL9Rr"
       ],
       "settings": {
         "full_width": true,
