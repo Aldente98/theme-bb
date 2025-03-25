@@ -753,8 +753,8 @@
         "item_MTTrQt": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Peut-on régler l’intensité et la durée de la vibration ?",
+            "content": "<p>Non, le bracelet ne permet pas de réglages manuels, car il a été conçu et calibré pour offrir une intensité optimale. Son niveau de vibration a été étudié pour être suffisamment puissant pour réveiller efficacement sans être agressif.</p>"
           }
         }
       },
