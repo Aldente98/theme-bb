@@ -562,7 +562,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "",
-        "content": "<h2>Expérimentez un nouveau reveil   </h2>",
+        "content": "<h2>Découvrez la sérénité dès le matin.</h2>",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
@@ -645,9 +645,9 @@
           "settings": {
             "image": "shopify://shop_images/9_b5fa41d7-6e7d-44ee-a908-351cbb15db05.webp",
             "column_size": "3",
-            "title": "Un Réveil sans stress",
+            "title": "Réveil de bon humeur à 100%",
             "heading_tag": "h3",
-            "content": "",
+            "content": "<p>Fini la boule au ventre au réveil a</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -658,8 +658,8 @@
           "settings": {
             "image": "shopify://shop_images/Titel_3_kopie_e3d55d2c-b8e6-4bc8-8007-74b7ac9a163c.webp",
             "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
+            "title": "Améliorez la qualité de votre sommeil de 92 %",
+            "heading_tag": "h3",
             "content": "",
             "link_url": "",
             "link_text": "",
@@ -671,8 +671,8 @@
           "settings": {
             "image": "shopify://shop_images/Sans_titre_800_x_800_px_1.png",
             "column_size": "3",
-            "title": "Fini les reveils bruyant",
-            "heading_tag": "h4",
+            "title": "Fini les réveils bruyant",
+            "heading_tag": "h3",
             "content": "",
             "link_url": "",
             "link_text": "",
@@ -718,8 +718,8 @@
         "item_qfyPPE": {
           "type": "item",
           "settings": {
-            "title": "Quels sont les délais de livraison ?",
-            "content": "<p>Délai de traitement : 1 à 3 jours ouvrés<br/>Délai de livraison : 6 à 9 jours ouvrés</p>"
+            "title": "Comment fonctionne le bracelet vibrant pour le réveil ?",
+            "content": "<p>Le bracelet utilise une vibration douce mais efficace pour vous réveiller sans bruit. Il remplace les alarmes sonores classiques en vous réveillant de manière plus naturelle et progressive.</p>"
           }
         },
         "item_yDiwY9": {
