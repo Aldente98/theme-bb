@@ -722,6 +722,13 @@
             "content": "<p>Le bracelet utilise une <strong>vibration douce</strong> mais <strong>efficace </strong>pour vous r<strong>éveiller sans bruit</strong>. Il remplace les <strong>alarmes sonores </strong>classiques en vous réveillant de manière plus <strong>naturelle et progressive.</strong></p>"
           }
         },
+        "item_Qt9h7g": {
+          "type": "item",
+          "settings": {
+            "title": "La vibration est-elle assez puissante pour réveiller un gros dormeur ?",
+            "content": "<p>Oui ! <strong>La vibration est calibrée</strong> pour être suffisamment <strong>forte </strong>pour réveiller même les <strong>dormeurs profonds,</strong> tout en restant <strong>agréable et non agressive.</strong></p>"
+          }
+        },
         "item_yDiwY9": {
           "type": "item",
           "settings": {
@@ -733,22 +740,39 @@
           "type": "item",
           "settings": {
             "title": "Peut-on dormir à deux sans que la vibration réveille son partenaire ?",
-            "content": "<p>Oui ! Contrairement aux réveils sonores qui réveillent toute la pièce, la vibration du bracelet est localisée et ne <strong>dérangera pas </strong>votre partenaire.</p>"
+            "content": "<p><strong>Oui !</strong> Contrairement aux <strong>réveils sonores</strong> qui réveillent toute la pièce, la vibration du bracelet est localisée et ne <strong>dérangera pas votre partenaire</strong>.</p>"
           }
         },
-        "item_Qt9h7g": {
+        "item_7X6yH4": {
           "type": "item",
           "settings": {
-            "title": "Les têtes d'aiguille sont-elles réutilisables?",
-            "content": "<p><br/>Les têtes d'aiguille peuvent être utilisées jusqu'à 3 fois maximum. Il est essentiel de bien les nettoyer à l'eau et de les désinfecter entre chaque utilisation afin de garantir leur hygiène et l'efficacité du traitement. </p>"
+            "title": "Ce bracelet est-il confortable à porter toute la nuit ?",
+            "content": "<p>Absolument. Son <strong>design ergonomique</strong> et ses <strong>matériaux légers </strong>le rendent <strong>très confortable</strong>, au point que vous oublierez que vous le portez.</p>"
+          }
+        },
+        "item_dzgVKw": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_MTTrQt": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         }
       },
       "block_order": [
         "item_qfyPPE",
+        "item_Qt9h7g",
         "item_yDiwY9",
         "item_8yPykD",
-        "item_Qt9h7g"
+        "item_7X6yH4",
+        "item_dzgVKw",
+        "item_MTTrQt"
       ],
       "settings": {
         "full_width": true,
