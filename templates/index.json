@@ -729,11 +729,11 @@
             "content": "<p>Oui ! <strong>La vibration est calibrée</strong> pour être suffisamment <strong>forte </strong>pour réveiller même les <strong>dormeurs profonds,</strong> tout en restant <strong>agréable et non agressive.</strong></p>"
           }
         },
-        "item_yDiwY9": {
+        "item_7X6yH4": {
           "type": "item",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "Ce bracelet est-il confortable à porter toute la nuit ?",
+            "content": "<p>Absolument. Son <strong>design ergonomique</strong> et ses <strong>matériaux légers </strong>le rendent <strong>très confortable</strong>, au point que vous oublierez que vous le portez.</p>"
           }
         },
         "item_8yPykD": {
@@ -743,18 +743,11 @@
             "content": "<p><strong>Oui !</strong> Contrairement aux <strong>réveils sonores</strong> qui réveillent toute la pièce, la vibration du bracelet est localisée et ne <strong>dérangera pas votre partenaire</strong>.</p>"
           }
         },
-        "item_7X6yH4": {
-          "type": "item",
-          "settings": {
-            "title": "Ce bracelet est-il confortable à porter toute la nuit ?",
-            "content": "<p>Absolument. Son <strong>design ergonomique</strong> et ses <strong>matériaux légers </strong>le rendent <strong>très confortable</strong>, au point que vous oublierez que vous le portez.</p>"
-          }
-        },
         "item_dzgVKw": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Le bracelet est-il compatible avec une application mobile ?",
+            "content": "<p>Non, le bracelet n’est <strong>pas encore compatible </strong>avec u<strong>ne application mobile</strong>, mais nous y <strong>travaillons activement </strong>! Notre objectif est d’offrir <strong>bientôt une solution connectée</strong> pour encore plus de <strong>personnalisation</strong> et de <strong>fonctionnalités. </strong>Restez à l’affût des mises à jour !</p>"
           }
         },
         "item_MTTrQt": {
@@ -768,9 +761,8 @@
       "block_order": [
         "item_qfyPPE",
         "item_Qt9h7g",
-        "item_yDiwY9",
-        "item_8yPykD",
         "item_7X6yH4",
+        "item_8yPykD",
         "item_dzgVKw",
         "item_MTTrQt"
       ],
