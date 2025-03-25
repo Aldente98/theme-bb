@@ -111,7 +111,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir le bracelet innovateur Wake Up ?",
-            "heading_tag": "h4",
+            "heading_tag": "h3",
             "text_color": "#000000",
             "gradient": ""
           }
@@ -539,10 +539,11 @@
         "item_TGtPij": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "video": "shopify://files/videos/Download (2).mp4",
+            "column_size": "4",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -557,11 +558,11 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "small",
+        "gap": "x-large",
         "text_alignment": "center",
         "subheading": "",
         "title": "",
-        "content": "",
+        "content": "<h2>Expérimentez un nouveau reveil   </h2>",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
@@ -622,7 +623,7 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "button_text": "1",
+        "button_text": "",
         "button_url": "",
         "text_position": "center",
         "background": "#ffffff",
