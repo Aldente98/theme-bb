@@ -25,7 +25,7 @@
       ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Sans_titre_1200_x_1600_px_16.png",
@@ -136,50 +136,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Votre_texte_de_paragraphe_1929_x_1080_px_2.png",
+        "mobile_image": "shopify://shop_images/Votre_texte_de_paragraphe_1929_x_1080_px_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "rich_text_QXqMJ7": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_dCqXRR": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_gcwVkK": {
-          "type": "heading",
-          "settings": {
-            "text": "Un mode d'infusion innovant et indolore",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_kzMpxh": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_dCqXRR",
-        "heading_gcwVkK",
-        "richtext_kzMpxh"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "trust_pilot_reviews_AxNB3A": {
@@ -190,21 +153,21 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Nos clientes en parlent le mieux",
+        "heading": "Nos clients en parlent le mieux",
         "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
+        "heading_font": "montserrat_n4",
         "heading_size": 40,
         "heading_size_mobile": 24,
         "heading_height": 130,
         "rating_text": "Excellent",
         "rating_text_custom": false,
-        "rating_text_font": "josefin_sans_n4",
+        "rating_text_font": "montserrat_n4",
         "rating_text_size": 24,
         "rating_text_size_mobile": 20,
         "rating_text_height": 130,
         "rating_text_mt": 16,
         "rating_text_mt_mobile": 20,
-        "rating": 4.7,
+        "rating": 4.8,
         "rating_hide": false,
         "rating_text_hide": false,
         "stars_count": 5,
@@ -212,7 +175,7 @@
         "stars_size_mobile": 24,
         "text": "<p>basé sur +<strong>1 067</strong> avis</p>",
         "text_custom": false,
-        "text_font": "josefin_sans_n4",
+        "text_font": "montserrat_n4",
         "text_size": 20,
         "text_size_mobile": 16,
         "text_height": 130,
@@ -239,7 +202,7 @@
         "card_content_align_mobile": "center",
         "card_height": false,
         "card_heading_custom": false,
-        "card_heading_font": "josefin_sans_n4",
+        "card_heading_font": "montserrat_n4",
         "card_heading_size": 24,
         "card_heading_size_mobile": 20,
         "card_heading_height": 130,
@@ -300,7 +263,7 @@
         "stars_bg_color": "#00b67a",
         "stars_color": "#ffffff",
         "text_color": "#000000",
-        "background_color": "#f0f0f0",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 16,
@@ -321,6 +284,7 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/a24fceb0-41ba-4b9f-be5b-2041aef030bd_1.webp",
             "column_size": "3",
             "title": "Laura",
             "heading_tag": "h4",
@@ -333,10 +297,24 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/f2a4f936-24ab-479a-a4e2-7f61f52c9a24_1.webp",
             "column_size": "3",
             "title": "Marie",
             "heading_tag": "h4",
             "content": "<p><em>\"J'avais peur que ce soit douloureux, mais pas du tout ! Je ne supportais plus mes rides du front et pensais à un traitement en clinique, puis j’ai essayé Ceralyne. Je suis tellement heureuse !\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MwJML3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/469607458_122132667008446970_6221014111882693902_n.jpg",
+            "column_size": "3",
+            "title": "Mélanie",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Dès la première application, j’ai remarqué que les ridules autour de mes lèvres commençaient à s’estomper. Après environ un mois, mes lèvres étaient plus lisses et repulpées.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -353,90 +331,13 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_MwJML3": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Mélanie",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Dès la première application, j’ai remarqué que les ridules autour de mes lèvres commençaient à s’estomper. Après environ un mois, mes lèvres étaient plus lisses et repulpées.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_p6MkDp": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Sylvie",
-            "heading_tag": "h4",
-            "content": "<p><em>\"C’est incroyable ! Je n’aurais jamais cru que mes pattes d’oie disparaîtraient aussi rapidement et que l’application serait si simple\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_4yzaE8": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Brigitte",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Je détestais les rides et la peau relâchée sur mon cou, et le seul produit qui a vraiment fait la différence, c’est celui-ci. Ma peau est tellement lisse et ferme que le résultat est bluffant !\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_EwNkYx": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Estelle",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Les pattes d’oie autour de mes yeux étaient mon plus grand complexe, mais en quelques semaines, elles ont pratiquement disparu. Je le recommande à toute mes familles\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yViHK3": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Tiphaine",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Depuis que j'utilise ce produit, ma peau a été transformée. Les résultats sont visibles rapidement, et je ne peux plus m’en passer. C’est devenu un indispensable dans ma routine beauté\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_JUW7xR": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Christelle",
-            "heading_tag": "h4",
-            "content": "<p><em>\"À 71 ans, je pensais qu’il n’y avait plus rien à faire pour les rides sur mon décolleté. Mais ce produit a fait des merveilles\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_7BdeiK",
         "item_JJLm4U",
-        "item_GECyWQ",
         "item_MwJML3",
-        "item_p6MkDp",
-        "item_4yzaE8",
-        "item_EwNkYx",
-        "item_yViHK3",
-        "item_JUW7xR"
+        "item_GECyWQ"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
@@ -1035,7 +936,6 @@
     "logo_list_4BjWGF",
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
-    "rich_text_QXqMJ7",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
