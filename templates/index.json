@@ -28,8 +28,8 @@
         "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Sans_titre_1200_x_1600_px_16.png",
-        "mobile_image": "shopify://shop_images/Sans_titre_1200_x_1600_px_16.png",
+        "image": "shopify://shop_images/Sans_titre_1200_x_1600_px_17.png",
+        "mobile_image": "shopify://shop_images/Sans_titre_1200_x_1600_px_17.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -110,9 +110,9 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir la Micro Infusion Anti-âge ceralyne ?",
+            "text": "Pourquoi choisir le bracelet innovateur Wake Up ?",
             "heading_tag": "h3",
-            "text_color": "",
+            "text_color": "#000000",
             "gradient": ""
           }
         }
@@ -143,6 +143,28 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "before_after_image_iJ3N4z": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "trust_pilot_reviews_AxNB3A": {
@@ -286,9 +308,9 @@
           "settings": {
             "image": "shopify://shop_images/a24fceb0-41ba-4b9f-be5b-2041aef030bd_1.webp",
             "column_size": "3",
-            "title": "Laura",
+            "title": "Christophe",
             "heading_tag": "h4",
-            "content": "<p><em>\"Pour celles qui se demandent, ce n'est pas douloureux ! En seulement quatre applications, j’ai l’impression d’avoir retrouvé la peau de mes 30 ans ! Mon teint est lumineux, ma peau est plus lisse et plus ferme. Je suis ravie\"</em></p>",
+            "content": "<p>Depuis que j’utilise le bracelet Wake Up depuis 2 mois, mes matinées sont bien plus agréables. Fini le réveil brutal avec une sonnerie stridente : je me réveille en douceur grâce à une légère vibration, plus naturelle et moins agressive.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -307,22 +329,10 @@
             "link_style": "link"
           }
         },
-        "item_MwJML3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/469607458_122132667008446970_6221014111882693902_n.jpg",
-            "column_size": "3",
-            "title": "Mélanie",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Dès la première application, j’ai remarqué que les ridules autour de mes lèvres commençaient à s’estomper. Après environ un mois, mes lèvres étaient plus lisses et repulpées.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_GECyWQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_12.png",
             "column_size": "3",
             "title": "Agathe",
             "heading_tag": "h4",
@@ -336,7 +346,6 @@
       "block_order": [
         "item_7BdeiK",
         "item_JJLm4U",
-        "item_MwJML3",
         "item_GECyWQ"
       ],
       "custom_css": [
@@ -564,9 +573,10 @@
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Peptides de collagène",
-            "heading_tag": "h4",
+            "image": "shopify://shop_images/Titel_3_kopie.webp",
+            "column_size": "4",
+            "title": "Un Réveil sans stress",
+            "heading_tag": "h3",
             "content": "<p>Stimulent la production de collagène pour une peau plus ferme et élastique. Réduisent l’apparence des ridules et des rides. Soutiennent la structure de la peau et lissent la texture.</p>",
             "link_url": "",
             "link_text": "",
@@ -576,6 +586,7 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sans_titre_800_x_800_px_1.png",
             "column_size": "3",
             "title": "Élastine",
             "heading_tag": "h4",
@@ -588,6 +599,7 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/9_b5fa41d7-6e7d-44ee-a908-351cbb15db05.webp",
             "column_size": "3",
             "title": "Acide hyaluronique",
             "heading_tag": "h4",
@@ -635,7 +647,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Basé sur",
+        "title": "",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -673,55 +685,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "how_to_use_sambal_mtLn7y": {
-      "type": "how-to-use-sambal",
-      "blocks": {
-        "step_7q9JWB": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Ouvrez le flacon et remplissez-le avec le sérum. Refermez sans forcer pour une application optimale.",
-            "alignment": "left"
-          }
-        },
-        "step_VCbrVx": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Retournez le flacon et laissez-le à l’envers pendant 2 minutes afin que les micro-aiguilles s’imprègnent parfaitement du sérum.",
-            "alignment": "left"
-          }
-        },
-        "step_QxA9A8": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Tapotez délicatement votre peau (visage, lèvres, cou, etc.). Répétez 2 à 3 fois pour des résultats visibles plus rapidement",
-            "alignment": "left"
-          }
-        },
-        "step_rTyP7G": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Massez l’excédent de sérum sur votre peau et laissez-le agir toute la nuit. Pour une routine complète, appliquez ensuite vos soins habituels.",
-            "alignment": "left"
-          }
-        }
-      },
-      "block_order": [
-        "step_7q9JWB",
-        "step_VCbrVx",
-        "step_QxA9A8",
-        "step_rTyP7G"
-      ],
-      "custom_css": [],
-      "settings": {}
     },
     "faq_MQHPPV": {
       "type": "faq",
@@ -936,13 +899,13 @@
     "logo_list_4BjWGF",
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
+    "before_after_image_iJ3N4z",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
     "tabs_Waa9zt",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
-    "how_to_use_sambal_mtLn7y",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]
