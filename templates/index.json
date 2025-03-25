@@ -111,7 +111,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir le bracelet innovateur Wake Up ?",
-            "heading_tag": "h3",
+            "heading_tag": "h4",
             "text_color": "#000000",
             "gradient": ""
           }
@@ -150,8 +150,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "title": "",
+        "content": "",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "top",
@@ -465,6 +465,10 @@
             "alignment": "center",
             "max_width": 500
           }
+        },
+        "separator_3bbcL4": {
+          "type": "separator",
+          "settings": {}
         }
       },
       "block_order": [
@@ -482,7 +486,8 @@
         "variant-picker",
         "quantity-selector",
         "buy-buttons",
-        "image_NnVtjL"
+        "image_NnVtjL",
+        "separator_3bbcL4"
       ],
       "settings": {
         "full_width": false,
@@ -500,6 +505,135 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "multi_column_xr3ENP": {
+      "type": "multi-column",
+      "blocks": {
+        "item_gEwhGi": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/065ccc2c603c4545ab7886c51d9a8971 (1).mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7zBYY8": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/90f42b62038341ce8dbd865b59aff796.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TGtPij": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_gEwhGi",
+        "item_7zBYY8",
+        "item_TGtPij"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "accordion_content_AEztYQ": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_WqdXnF": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Question 1",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
+          }
+        },
+        "item_tFKfxa": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Question 2",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
+          }
+        },
+        "item_JdLijD": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Question 3",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
+          }
+        },
+        "item_Qi99k7": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_WqdXnF",
+        "item_tFKfxa",
+        "item_JdLijD",
+        "item_Qi99k7"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "1",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     },
     "multi_column_wTJTNc": {
@@ -684,6 +818,8 @@
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
+    "multi_column_xr3ENP",
+    "accordion_content_AEztYQ",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
     "faq_MQHPPV",
