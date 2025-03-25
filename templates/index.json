@@ -502,79 +502,14 @@
         "input_text_color": ""
       }
     },
-    "tabs_Waa9zt": {
-      "type": "tabs",
-      "blocks": {
-        "tab_kNhjBC": {
-          "type": "tab",
-          "settings": {
-            "title": "Contenu du Kit Micro-Infusion Sérum Lift Pro",
-            "content": "<p>Chaque kit de Micro-Infusion est conçu pour un nombre précis de traitements. Les embouts à micro-aiguilles sont <strong>stériles et utilisables 3 fois maximum, ils doivent être nettoyer et desinfecté entre chaque utilisation</strong>, garantissant une hygiène irréprochable et des résultats optimaux.</p><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 1 embouts stériles + 2 flacons de sérum (2 traitements)</li><li><strong>Cure de 2 mois</strong> : 2 embouts stériles + 4 flacons de sérum (4 traitements)</li><li><strong>Cure de 3 mois</strong> : 3 embouts stériles + 6 flacons de sérum (6 traitements)</li></ul><p></p>",
-            "page": ""
-          }
-        },
-        "tab_qpeWfc": {
-          "type": "tab",
-          "settings": {
-            "title": "Composition Sérum Peptide Ceralyne",
-            "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>",
-            "page": ""
-          }
-        },
-        "tab_GUd9zE": {
-          "type": "tab",
-          "settings": {
-            "title": "Est-ce indolore et sans danger ?",
-            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong> ! La plupart des utilisateurs ressentent simplement un léger picotement.</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>",
-            "page": ""
-          }
-        },
-        "tab_aQDKUA": {
-          "type": "tab",
-          "settings": {
-            "title": "30 jours Satisfait ou Remboursé",
-            "content": "<p>Essayer le kit anti âge ceralyne sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le retourner et vous recevrez <strong>un remboursement</strong>.</p>",
-            "page": ""
-          }
-        },
-        "tab_dkjrUh": {
-          "type": "tab",
-          "settings": {
-            "title": "Service Client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@ceralyne.fr</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_kNhjBC",
-        "tab_qpeWfc",
-        "tab_GUd9zE",
-        "tab_aQDKUA",
-        "tab_dkjrUh"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "text_alignment": "center",
-        "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "multi_column_wTJTNc": {
       "type": "multi-column",
       "blocks": {
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titel_3_kopie.webp",
-            "column_size": "4",
+            "image": "shopify://shop_images/Titel_3_kopie_e3d55d2c-b8e6-4bc8-8007-74b7ac9a163c.webp",
+            "column_size": "3",
             "title": "Un Réveil sans stress",
             "heading_tag": "h3",
             "content": "<p>Stimulent la production de collagène pour une peau plus ferme et élastique. Réduisent l’apparence des ridules et des rides. Soutiennent la structure de la peau et lissent la texture.</p>",
@@ -586,7 +521,7 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Sans_titre_800_x_800_px_1.png",
+            "image": "shopify://shop_images/9_b5fa41d7-6e7d-44ee-a908-351cbb15db05.webp",
             "column_size": "3",
             "title": "Élastine",
             "heading_tag": "h4",
@@ -599,7 +534,7 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/9_b5fa41d7-6e7d-44ee-a908-351cbb15db05.webp",
+            "image": "shopify://shop_images/Sans_titre_800_x_800_px.png",
             "column_size": "3",
             "title": "Acide hyaluronique",
             "heading_tag": "h4",
@@ -903,7 +838,6 @@
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
-    "tabs_Waa9zt",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
     "faq_MQHPPV",
