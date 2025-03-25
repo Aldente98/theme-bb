@@ -733,7 +733,7 @@
           "type": "item",
           "settings": {
             "title": "Peut-on dormir à deux sans que la vibration réveille son partenaire ?",
-            "content": "<p>Oui ! Contrairement aux réveils sonores qui réveillent toute la pièce, la vibration du bracelet est localisée et ne dérangera pas votre partenaire.</p>"
+            "content": "<p>Oui ! Contrairement aux réveils sonores qui réveillent toute la pièce, la vibration du bracelet est localisée et ne <strong>dérangera pas </strong>votre partenaire.</p>"
           }
         },
         "item_Qt9h7g": {
