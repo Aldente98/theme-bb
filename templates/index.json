@@ -319,9 +319,9 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/f2a4f936-24ab-479a-a4e2-7f61f52c9a24_1.webp",
+            "image": "shopify://shop_images/a24fceb0-41ba-4b9f-be5b-2041aef030bd_1.webp",
             "column_size": "3",
-            "title": "Marie",
+            "title": "Christophe",
             "heading_tag": "h4",
             "content": "<p><strong>\"Parfait pour ne pas déranger mon partenaire. Mon conjoint ne supportait plus mes alarmes matinales, et ce bracelet a résolu le problème ! Je me réveille sans bruit, juste avec une vibration agréable.\"</strong></p>",
             "link_url": "",
@@ -332,9 +332,9 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/a24fceb0-41ba-4b9f-be5b-2041aef030bd_1.webp",
+            "image": "shopify://shop_images/f2a4f936-24ab-479a-a4e2-7f61f52c9a24_1.webp",
             "column_size": "3",
-            "title": "Christophe",
+            "title": "Marie",
             "heading_tag": "h4",
             "content": "<p><em><strong>\"</strong></em><strong>Le meilleur achat que j’ai fait cette année ! Simple, efficace et confortable à porter, ce bracelet m’a vraiment changé la vie. Je me réveille mieux et plus reposé.\"</strong><em><strong>\"</strong></em></p>",
             "link_url": "",
