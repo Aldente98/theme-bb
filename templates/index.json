@@ -110,7 +110,7 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi ne pas améliorer votre sommeil et vos matins sereins ?",
+            "text": "",
             "heading_tag": "h3",
             "text_color": "#000000",
             "gradient": ""
@@ -175,7 +175,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "\"L’accessoire ultime pour un réveil naturel et une vie plus saine !\"",
+        "heading": "\"L’accessoire ultime pour une vie plus saine !\"",
         "heading_custom": false,
         "heading_font": "montserrat_n4",
         "heading_size": 40,
