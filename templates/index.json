@@ -44,7 +44,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/2025_E-Tech_logo-qny0txymi032at2ncs6dqr61mpaa4wdju1oeltdxa8.png",
-            "logo_width": 190,
+            "logo_width": 300,
             "link": ""
           }
         },
@@ -67,7 +67,7 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/a656e553-6eed-41a0-8ea9-c0006fd60c1d.jpg",
+            "logo": "shopify://shop_images/06b9199c-0d96-4883-94f8-fba4d33ae60e.png",
             "logo_width": 300,
             "link": ""
           }
@@ -175,7 +175,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "\"L’accessoire ultime pour une vie plus saine !\"",
+        "heading": "\"L’accessoire ultime pour une vie plus saine et performante !\"",
         "heading_custom": false,
         "heading_font": "montserrat_n4",
         "heading_size": 40,
