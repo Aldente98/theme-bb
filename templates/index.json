@@ -599,7 +599,7 @@
             "video": "shopify://files/videos/Download (2).mp4",
             "column_size": "4",
             "title": "",
-            "heading_tag": "h4",
+            "heading_tag": "h6",
             "content": "",
             "link_url": "",
             "link_text": "",
@@ -631,7 +631,6 @@
         "slide_De7gEc": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Boostez_vos_performances_1400_x_1400_px_1400_x_1400_px_7.png",
             "navigation_label": "Après 1 semaine",
             "subheading": "",
             "title": "Plus d’énergie et de vitalité toute la journée",
@@ -641,7 +640,6 @@
         "slide_xyHXHD": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/pexels-photo-7556638.webp",
             "navigation_label": "Après 2 semaine",
             "subheading": "",
             "title": "Vous ne dérangez plus votre entourage",
