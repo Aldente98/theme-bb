@@ -631,28 +631,30 @@
         "slide_De7gEc": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Boostez_vos_performances_1400_x_1400_px_1400_x_1400_px_7.png",
             "navigation_label": "Après 1 semaine",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "subheading": "",
+            "title": "Plus d’énergie et de vitalité toute la journée",
+            "content": "<p>Grâce à un réveil en douceur et naturel, vous débordez d'énergie dès le matin, prêt à être efficace et performant. </p><p>Vous ressentez la satisfaction d’être actif, dynamique, et positif dès le début de la journée.</p>"
           }
         },
         "slide_xyHXHD": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/pexels-photo-7556638.webp",
             "navigation_label": "Après 2 semaine",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "subheading": "",
+            "title": "Vous ne dérangez plus votre entourage",
+            "content": "<p>Grâce à Wake Up, vous vous réveillez discrètement, sans jamais réveiller votre partenaire, vos enfants ou vos colocataires.</p><p>Vous êtes soulagé, plus serein, et vous ne ressentez plus de culpabilité en vous levant tôt.</p>"
           }
         },
         "slide_yWLkpg": {
           "type": "slide",
           "settings": {
             "navigation_label": "Après 3 semaine",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "subheading": "",
+            "title": "Votre quotidien devient plus simple et plus pratique",
+            "content": "<p>Vous éliminez le besoin de votre téléphone pour vous réveiller, favorisant ainsi un sommeil profond, sain et sans distraction.</p><p>Vous vous sentez libéré, plus détendu, et vous améliorez votre qualité de vie jour après jour.</p>"
           }
         }
       },
