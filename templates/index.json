@@ -514,7 +514,7 @@
             "icon": "picto-smart-watch",
             "icon_width": 20,
             "title": "Fonctions",
-            "content": "<p>📳 Réveil par vibration</p><p><br/>👣 Compteur de pas</p><p><br/>🔥 Suivi des calories</p><p><br/>🖥️ Écran simple</p><p><br/>🔋 Batterie longue durée</p><p><br/>🎽 Ultra confortable</p>",
+            "content": "<p>📳 Réveil par vibration</p><p><br/>👣 Compteur de pas</p><p><br/>🔥 Suivi des calories</p><p><br/>❌Pas d'écran, pas de distraction</p><p><br/>🔋 Batterie longue durée</p><p><br/>🎽 Ultra confortable</p>",
             "page": ""
           }
         },
