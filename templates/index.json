@@ -358,7 +358,7 @@
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/9_b5fa41d7-6e7d-44ee-a908-351cbb15db05.webp",
+            "image": "shopify://shop_images/4_9ad06d27-75bf-4523-86dd-15341bedc5b8.png",
             "column_size": "3",
             "title": "Plus de vitalité, de motivation et une humeur positive continue.",
             "heading_tag": "h3",
@@ -371,7 +371,7 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Votre_texte_de_paragraphe_31.png",
+            "image": "shopify://shop_images/3_c5993196-6586-4509-bc67-47545a331e64.png",
             "column_size": "3",
             "title": "Régule le sommeil et le stress, améliore la récupération.",
             "heading_tag": "h3",
@@ -384,7 +384,7 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Votre_texte_de_paragraphe_32.png",
+            "image": "shopify://shop_images/2_c1777a66-2464-497f-af5f-b8929087a469.png",
             "column_size": "3",
             "title": "Augmente la performance",
             "heading_tag": "h3",
@@ -680,15 +680,6 @@
     "timeline_JLd98H": {
       "type": "timeline",
       "blocks": {
-        "slide_De7gEc": {
-          "type": "slide",
-          "settings": {
-            "navigation_label": "Après 1 semaine",
-            "subheading": "",
-            "title": "Plus d’énergie et de vitalité toute la journée",
-            "content": "<p>Grâce à un réveil en douceur et naturel, vous débordez d'énergie dès le matin, prêt à être efficace et performant. </p><p>Vous ressentez la satisfaction d’être actif, dynamique, et positif dès le début de la journée.</p>"
-          }
-        },
         "slide_xyHXHD": {
           "type": "slide",
           "settings": {
@@ -696,6 +687,15 @@
             "subheading": "",
             "title": "Vous ne dérangez plus votre entourage",
             "content": "<p>Grâce à Wake Up, vous vous réveillez discrètement, sans jamais réveiller votre partenaire, vos enfants ou vos colocataires.</p><p>Vous êtes soulagé, plus serein, et vous ne ressentez plus de culpabilité en vous levant tôt.</p>"
+          }
+        },
+        "slide_De7gEc": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "Après 1 semaine",
+            "subheading": "",
+            "title": "Plus d’énergie et de vitalité toute la journée",
+            "content": "<p>Grâce à un réveil en douceur et naturel, vous débordez d'énergie dès le matin, prêt à être efficace et performant. </p><p>Vous ressentez la satisfaction d’être actif, dynamique, et positif dès le début de la journée.</p>"
           }
         },
         "slide_yWLkpg": {
@@ -709,8 +709,8 @@
         }
       },
       "block_order": [
-        "slide_De7gEc",
         "slide_xyHXHD",
+        "slide_De7gEc",
         "slide_yWLkpg"
       ],
       "settings": {
