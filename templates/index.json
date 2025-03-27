@@ -298,7 +298,7 @@
             "column_size": "3",
             "title": "Christophe",
             "heading_tag": "h4",
-            "content": "<p><strong>\"Parfait pour ne pas déranger mon partenaire. Ma compagne ne supportait plus mes alarmes matinales, et ce bracelet a résolu le problème ! Je me réveille sans bruit, juste avec une vibration agréable.\"</strong></p>",
+            "content": "<p><strong>\"Parfait pour ne pas déranger mon partenaire. Ma compagne ne supportait plus mes alarmes matinales, et ce bracelet a résolu le problème ! Je me réveille sans bruit, je suis plus productif et en meilleur forme\"  </strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -514,7 +514,7 @@
             "icon": "picto-smart-watch",
             "icon_width": 20,
             "title": "Fonctions",
-            "content": "<p>📳 Réveil par vibration</p><p><br/>👣 Compteur de pas</p><p><br/>🔥 Suivi des calories</p><p><br/>❌Pas d'écran, pas de distraction</p><p><br/>🔋 Batterie longue durée (7 jours)</p><p><br/>🎽 Ultra confortable</p>",
+            "content": "<p>📳 Réveil par vibration pour un réveil sans stress</p><p><br/>👣 Compteur de pas pour rester actif</p><p><br/>🔥 Suivi des calories</p><p><br/>❌Pas d'écran, pas de distraction </p><p><br/>🔋 Batterie longue durée (7 jours)</p><p><br/>🎽 Ultra confortable avec un design ergonomique</p>",
             "page": ""
           }
         },
@@ -524,7 +524,7 @@
             "icon": "picto-target",
             "icon_width": 20,
             "title": "Résultats",
-            "content": "<p>📈+86% de mouvement quotidien en moyenne</p><p>✔ Réveil plus doux</p><p>✔ Plus de mouvement au quotidien</p><p>✔ Conscience de votre activité</p><p>✔ Énergie et forme boostées</p>",
+            "content": "<p>📈+86% de mouvement quotidien en moyenne</p><p>✔ +90% de performance journalière </p><p>✔ Plus de mouvement au quotidien</p><p>✔ Conscience de votre activité</p><p>✔ Énergie et forme boostées</p>",
             "page": ""
           }
         },
@@ -657,7 +657,7 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Sans_titre_800_x_800_px_1.png",
+            "image": "shopify://shop_images/Boostez_vos_performances_1400_x_1400_px_1400_x_1400_px_7.png",
             "column_size": "3",
             "title": "Dites adieu aux réveils bruyants et vivez des matins plus sereins.",
             "heading_tag": "h3",
