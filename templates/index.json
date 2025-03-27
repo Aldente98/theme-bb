@@ -680,15 +680,6 @@
     "timeline_JLd98H": {
       "type": "timeline",
       "blocks": {
-        "slide_xyHXHD": {
-          "type": "slide",
-          "settings": {
-            "navigation_label": "Après 2 semaine",
-            "subheading": "",
-            "title": "Vous ne dérangez plus votre entourage",
-            "content": "<p>Grâce à Wake Up, vous vous réveillez discrètement, sans jamais réveiller votre partenaire, vos enfants ou vos colocataires.</p><p>Vous êtes soulagé, plus serein, et vous ne ressentez plus de culpabilité en vous levant tôt.</p>"
-          }
-        },
         "slide_De7gEc": {
           "type": "slide",
           "settings": {
@@ -696,6 +687,15 @@
             "subheading": "",
             "title": "Plus d’énergie et de vitalité toute la journée",
             "content": "<p>Grâce à un réveil en douceur et naturel, vous débordez d'énergie dès le matin, prêt à être efficace et performant. </p><p>Vous ressentez la satisfaction d’être actif, dynamique, et positif dès le début de la journée.</p>"
+          }
+        },
+        "slide_xyHXHD": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "Après 2 semaine",
+            "subheading": "",
+            "title": "Vous ne dérangez plus votre entourage",
+            "content": "<p>Grâce à Wake Up, vous vous réveillez discrètement, sans jamais réveiller votre partenaire, vos enfants ou vos colocataires.</p><p>Vous êtes soulagé, plus serein, et vous ne ressentez plus de culpabilité en vous levant tôt.</p>"
           }
         },
         "slide_yWLkpg": {
@@ -709,8 +709,8 @@
         }
       },
       "block_order": [
-        "slide_xyHXHD",
         "slide_De7gEc",
+        "slide_xyHXHD",
         "slide_yWLkpg"
       ],
       "settings": {
