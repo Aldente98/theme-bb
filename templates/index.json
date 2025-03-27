@@ -25,7 +25,7 @@
         "allow_transparent_header": true,
         "autoplay": true,
         "video_size": "auto",
-        "video": "shopify://files/videos/0327 (1)(1).mp4",
+        "video": "shopify://files/videos/0327 (1).mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -290,19 +290,6 @@
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
-        "item_7BdeiK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_12.png",
-            "column_size": "3",
-            "title": "Sarah",
-            "heading_tag": "h4",
-            "content": "<p><strong>\"Depuis que j’utilise le bracelet Wake Up                                                                  mes matinées sont bien plus agréables. Fini le réveil brutal avec une sonnerie stridente : je me réveille en douceur grâce à une légère vibration, plus naturelle et moins agressive.\"</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_JJLm4U": {
           "type": "item",
           "settings": {
@@ -311,6 +298,19 @@
             "title": "Christophe",
             "heading_tag": "h4",
             "content": "<p><strong>\"Parfait pour ne pas déranger mon partenaire. Ma compagne ne supportait plus mes alarmes matinales, et ce bracelet a résolu le problème ! Je me réveille sans bruit, juste avec une vibration agréable.\"</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7BdeiK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_12.png",
+            "column_size": "3",
+            "title": "Sarah",
+            "heading_tag": "h4",
+            "content": "<p><strong>\"Depuis que j’utilise le bracelet Wake Up                                                                  mes matinées sont bien plus agréables. Fini le réveil brutal avec une sonnerie stridente : je me réveille en douceur grâce à une légère vibration, plus naturelle et moins agressive.\"</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -331,8 +331,8 @@
         }
       },
       "block_order": [
-        "item_7BdeiK",
         "item_JJLm4U",
+        "item_7BdeiK",
         "item_GECyWQ"
       ],
       "custom_css": [
