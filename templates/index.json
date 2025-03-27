@@ -373,7 +373,7 @@
           "settings": {
             "image": "shopify://shop_images/Titel_3_kopie_e3d55d2c-b8e6-4bc8-8007-74b7ac9a163c.webp",
             "column_size": "3",
-            "title": "Régule le sommeil et le stress, améliore la récupération",
+            "title": "Régule le sommeil et le stress, améliore la récupération.",
             "heading_tag": "h3",
             "content": "",
             "link_url": "",
@@ -565,7 +565,7 @@
           "settings": {
             "icon": "picto-smart-watch",
             "icon_width": 20,
-            "title": "Fonctions",
+            "title": "Fonctionnalité",
             "content": "<p>📳 Réveil par vibration pour un réveil sans stress.</p><p><br/>👣 Compteur de pas pour rester actif.</p><p><br/>🔥 Suivi des calories pour toujours être au top de sa forme.</p><p><br/>❌Pas d'écran, pas de distraction. </p><p><br/>🔋 Batterie longue durée (7 jours) pour plus de liberté.</p><p><br/>🎽 Ultra confortable avec un design ergonomique.</p>",
             "page": ""
           }
