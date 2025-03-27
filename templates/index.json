@@ -524,7 +524,7 @@
             "icon": "picto-target",
             "icon_width": 20,
             "title": "Résultats",
-            "content": "<ul><li>Réveil plus doux</li><li>Plus de mouvement au quotidien</li><li>Conscience de votre activité</li><li> Énergie et forme boostées</li></ul>",
+            "content": "<p>✔Réveil plus doux</p><p>✔Plus de mouvement au quotidien</p><p>✔Conscience de votre activité</p><p>✔ Énergie et forme boostées</p>",
             "page": ""
           }
         },
