@@ -501,7 +501,7 @@
         "item_gEwhGi": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/065ccc2c603c4545ab7886c51d9a8971 (1).mp4",
+            "video": "shopify://files/videos/f400ca4d234c47ddb2074bf1516b3db2.mp4",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -564,8 +564,8 @@
           "settings": {
             "icon": "picto-validation",
             "icon_width": 20,
-            "title": "Question 1",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "title": "Description",
+            "content": "<p>Un bracelet malin qui vous réveille sans stress, compte vos pas et vos calories, et vous motive à bouger chaque jour. Léger, discret, facile à utiliser : il vous accompagne du matin au soir.</p>",
             "page": ""
           }
         },
@@ -574,8 +574,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Question 2",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "title": "Fonctions",
+            "content": "<ul><li>Réveil par vibration</li><li>Compteur de pas</li><li>Suivi des calories</li><li>Pas d'écran pas de distraction    </li><li>Batterie longue durée (7 jours)</li><li>Ultra confortable</li></ul>",
             "page": ""
           }
         },
@@ -584,8 +584,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Question 3",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "title": "Résultats",
+            "content": "<ul><li>Réveil plus doux</li><li>Plus de mouvement au quotidien</li><li>Conscience de votre activité</li><li> Énergie et forme boostées</li></ul>",
             "page": ""
           }
         },
@@ -594,8 +594,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "title": "Comment l’utiliser ?",
+            "content": "<ol><li>Chargez-le</li><li>Réglez l’heure du réveil</li><li>Portez-le chaque jour</li><li>Laissez-le faire le suivi</li><li>Consultez vos stats quand vous voulez</li></ol>",
             "page": ""
           }
         }
