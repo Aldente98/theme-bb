@@ -625,6 +625,49 @@
         "text_color": ""
       }
     },
+    "timeline_JLd98H": {
+      "type": "timeline",
+      "blocks": {
+        "slide_De7gEc": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "Après 1 semaine",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "slide_xyHXHD": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "Après 2 semaine",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "slide_yWLkpg": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "Après 3 semaine",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_De7gEc",
+        "slide_xyHXHD",
+        "slide_yWLkpg"
+      ],
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_wTJTNc": {
       "type": "multi-column",
       "blocks": {
@@ -798,6 +841,7 @@
     "featured-product",
     "accordion_content_AEztYQ",
     "multi_column_xr3ENP",
+    "timeline_JLd98H",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
     "faq_MQHPPV",
