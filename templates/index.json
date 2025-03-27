@@ -352,6 +352,67 @@
         "text_color": ""
       }
     },
+    "multi_column_wTJTNc": {
+      "type": "multi-column",
+      "blocks": {
+        "item_xiaYUR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/9_b5fa41d7-6e7d-44ee-a908-351cbb15db05.webp",
+            "column_size": "3",
+            "title": "Plus de vitalité, de motivation et une humeur positive continue.",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QdbeiM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titel_3_kopie_e3d55d2c-b8e6-4bc8-8007-74b7ac9a163c.webp",
+            "column_size": "3",
+            "title": "Régule le sommeil et le stress",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dPL9Rr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Boostez_vos_performances_1400_x_1400_px_1400_x_1400_px_7.png",
+            "column_size": "3",
+            "title": "Augmente la performance",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_xiaYUR",
+        "item_QdbeiM",
+        "item_dPL9Rr"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -668,67 +729,6 @@
         "text_color": ""
       }
     },
-    "multi_column_wTJTNc": {
-      "type": "multi-column",
-      "blocks": {
-        "item_xiaYUR": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/9_b5fa41d7-6e7d-44ee-a908-351cbb15db05.webp",
-            "column_size": "3",
-            "title": "Plus de vitalité, de motivation et une humeur positive continue.",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_QdbeiM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Titel_3_kopie_e3d55d2c-b8e6-4bc8-8007-74b7ac9a163c.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_dPL9Rr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Boostez_vos_performances_1400_x_1400_px_1400_x_1400_px_7.png",
-            "column_size": "3",
-            "title": "+89%",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_xiaYUR",
-        "item_QdbeiM",
-        "item_dPL9Rr"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "rich_text_JEkECK": {
       "type": "rich-text",
       "custom_css": [
@@ -838,11 +838,11 @@
     "image_with_text_overlay_pjaxby",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
+    "multi_column_wTJTNc",
     "featured-product",
     "accordion_content_AEztYQ",
     "multi_column_xr3ENP",
     "timeline_JLd98H",
-    "multi_column_wTJTNc",
     "rich_text_JEkECK",
     "faq_MQHPPV",
     "17359565654f612dcd"
