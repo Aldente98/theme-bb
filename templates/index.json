@@ -495,6 +495,75 @@
         "input_text_color": ""
       }
     },
+    "accordion_content_AEztYQ": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_WqdXnF": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-comment",
+            "icon_width": 20,
+            "title": "Description",
+            "content": "<p>Un bracelet malin qui vous réveille sans stress, compte vos pas et vos calories, et vous motive à bouger chaque jour. Léger, discret, facile à utiliser : il vous accompagne du matin au soir.</p>",
+            "page": ""
+          }
+        },
+        "item_tFKfxa": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-smart-watch",
+            "icon_width": 20,
+            "title": "Fonctions",
+            "content": "<p>📳 Réveil par vibration</p><p><br/>👣 Compteur de pas</p><p><br/>🔥 Suivi des calories</p><p><br/>🖥️ Écran simple</p><p><br/>🔋 Batterie longue durée</p><p><br/>🎽 Ultra confortable</p>",
+            "page": ""
+          }
+        },
+        "item_JdLijD": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-target",
+            "icon_width": 20,
+            "title": "Résultats",
+            "content": "<ul><li>Réveil plus doux</li><li>Plus de mouvement au quotidien</li><li>Conscience de votre activité</li><li> Énergie et forme boostées</li></ul>",
+            "page": ""
+          }
+        },
+        "item_Qi99k7": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-question",
+            "icon_width": 20,
+            "title": "Comment l’utiliser ?",
+            "content": "<ol><li>Chargez-le</li><li>Réglez l’heure du réveil</li><li>Portez-le chaque jour</li><li>Laissez-le faire le suivi</li><li>Consultez vos stats quand vous voulez</li></ol>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_WqdXnF",
+        "item_tFKfxa",
+        "item_JdLijD",
+        "item_Qi99k7"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "#ffb74a",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "multi_column_xr3ENP": {
       "type": "multi-column",
       "blocks": {
@@ -554,75 +623,6 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "accordion_content_AEztYQ": {
-      "type": "accordion-content",
-      "blocks": {
-        "item_WqdXnF": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-validation",
-            "icon_width": 20,
-            "title": "Description",
-            "content": "<p>Un bracelet malin qui vous réveille sans stress, compte vos pas et vos calories, et vous motive à bouger chaque jour. Léger, discret, facile à utiliser : il vous accompagne du matin au soir.</p>",
-            "page": ""
-          }
-        },
-        "item_tFKfxa": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Fonctions",
-            "content": "<ul><li>Réveil par vibration</li><li>Compteur de pas</li><li>Suivi des calories</li><li>Pas d'écran pas de distraction    </li><li>Batterie longue durée (7 jours)</li><li>Ultra confortable</li></ul>",
-            "page": ""
-          }
-        },
-        "item_JdLijD": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Résultats",
-            "content": "<ul><li>Réveil plus doux</li><li>Plus de mouvement au quotidien</li><li>Conscience de votre activité</li><li> Énergie et forme boostées</li></ul>",
-            "page": ""
-          }
-        },
-        "item_Qi99k7": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Comment l’utiliser ?",
-            "content": "<ol><li>Chargez-le</li><li>Réglez l’heure du réveil</li><li>Portez-le chaque jour</li><li>Laissez-le faire le suivi</li><li>Consultez vos stats quand vous voulez</li></ol>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_WqdXnF",
-        "item_tFKfxa",
-        "item_JdLijD",
-        "item_Qi99k7"
-      ],
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "#ffb74a",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
       }
     },
     "multi_column_wTJTNc": {
@@ -796,8 +796,8 @@
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
-    "multi_column_xr3ENP",
     "accordion_content_AEztYQ",
+    "multi_column_xr3ENP",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
     "faq_MQHPPV",
