@@ -384,7 +384,7 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2_c1777a66-2464-497f-af5f-b8929087a469.png",
+            "image": "shopify://shop_images/Votre_texte_de_paragraphe_38.png",
             "column_size": "3",
             "title": "Augmente la performance",
             "heading_tag": "h3",
@@ -510,6 +510,12 @@
         "separator_3bbcL4": {
           "type": "separator",
           "settings": {}
+        },
+        "kaching_bundles_app_block_dwLaTi": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
         }
       },
       "block_order": [
@@ -527,7 +533,8 @@
         "quantity-selector",
         "buy-buttons",
         "image_NnVtjL",
-        "separator_3bbcL4"
+        "separator_3bbcL4",
+        "kaching_bundles_app_block_dwLaTi"
       ],
       "settings": {
         "full_width": false,
@@ -683,7 +690,6 @@
         "slide_De7gEc": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Votre_texte_de_paragraphe_34.png",
             "navigation_label": "Après 1 semaine",
             "subheading": "",
             "title": "Plus d’énergie et de vitalité toute la journée",
@@ -693,7 +699,6 @@
         "slide_xyHXHD": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Votre_texte_de_paragraphe_37_e39c6315-7c98-47d4-bff8-6a6ec63348cd.png",
             "navigation_label": "Après 2 semaine",
             "subheading": "",
             "title": "Vous ne dérangez plus votre entourage",
@@ -703,6 +708,7 @@
         "slide_yWLkpg": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Votre_texte_de_paragraphe_27.png",
             "navigation_label": "Après 3 semaine",
             "subheading": "",
             "title": "Votre quotidien devient plus simple et plus pratique",
