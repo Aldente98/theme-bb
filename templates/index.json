@@ -532,7 +532,7 @@
             "icon": "picto-question",
             "icon_width": 20,
             "title": "Comment l’utiliser ?",
-            "content": "<ol><li>Chargez-le</li><li>Réglez l’heure du réveil</li><li>Portez-le chaque jour</li><li>Laissez-le faire le suivi</li><li>Consultez vos stats quand vous voulez</li></ol>",
+            "content": "<ol><li>Chargez-le</li><li>Réglez l’heure du réveil</li><li>Portez-le chaque jour</li><li>Laissez-le faire le suivi</li><li>Consultez la quand vous voulez</li></ol>",
             "page": ""
           }
         }
