@@ -352,67 +352,6 @@
         "text_color": ""
       }
     },
-    "multi_column_wTJTNc": {
-      "type": "multi-column",
-      "blocks": {
-        "item_xiaYUR": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4_9ad06d27-75bf-4523-86dd-15341bedc5b8.png",
-            "column_size": "3",
-            "title": "Plus de vitalité, de motivation et une humeur positive continue.",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_QdbeiM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3_c5993196-6586-4509-bc67-47545a331e64.png",
-            "column_size": "3",
-            "title": "Régule le sommeil et le stress, améliore la récupération.",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_dPL9Rr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Votre_texte_de_paragraphe_38.png",
-            "column_size": "3",
-            "title": "Augmente la performance",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_xiaYUR",
-        "item_QdbeiM",
-        "item_dPL9Rr"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -573,7 +512,7 @@
             "icon": "picto-smart-watch",
             "icon_width": 20,
             "title": "Fonctionnalité",
-            "content": "<p>📳 Réveil par vibration pour un réveil sans stress.</p><p><br/>👣 Compteur de pas pour rester actif.</p><p><br/>🔥 Suivi des calories pour toujours être au top de sa forme.</p><p><br/>❌Pas d'écran, pas de distraction. </p><p><br/>🔋 Batterie longue durée (7 jours) pour plus de liberté.</p><p><br/>🎽 Ultra confortable avec un design ergonomique.</p>",
+            "content": "<p>📳 Réveil par vibration pour un réveil <strong>sans stress.</strong></p><p><br/>👣 Compteur de pas pour <strong>rester actif.</strong></p><p><br/>🔥 Suivi des calories pour toujours être au <strong>top de sa forme.</strong></p><p><br/>❌Pas <strong>d'écran, </strong>pas de <strong>distraction. </strong></p><p><br/>🔋 Batterie longue durée (7 jours) pour <strong>plus de liberté.</strong></p><p><br/>🎽 Ultra <strong>confortable</strong> avec un design <strong>ergonomique.</strong></p>",
             "page": ""
           }
         },
@@ -583,7 +522,7 @@
             "icon": "picto-target",
             "icon_width": 20,
             "title": "Résultats",
-            "content": "<p>📈 Réveil doux, naturel et sans stress.</p><p>📈 Plus d'énergie et d’efficacité dès le matin.</p><p>📈 </p><p>📈 </p><p>📈</p>",
+            "content": "<p>📈 Réveil <strong>doux, naturel et sans stress.</strong></p><p>📈 Plus<strong> d'énergie</strong> et <strong>d’efficacité</strong> dès le matin.</p><p>📈 Une <strong>routine </strong>ancrée, <strong>sans alarme</strong>, <strong>sans téléphone.</strong></p><p>📈 </p><p>📈</p>",
             "page": ""
           }
         },
@@ -621,6 +560,67 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
+      }
+    },
+    "multi_column_wTJTNc": {
+      "type": "multi-column",
+      "blocks": {
+        "item_xiaYUR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_9ad06d27-75bf-4523-86dd-15341bedc5b8.png",
+            "column_size": "3",
+            "title": "Plus de vitalité, de motivation et une humeur positive continue.",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QdbeiM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_c5993196-6586-4509-bc67-47545a331e64.png",
+            "column_size": "3",
+            "title": "Régule le sommeil et le stress, améliore la récupération.",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dPL9Rr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Votre_texte_de_paragraphe_38.png",
+            "column_size": "3",
+            "title": "Augmente la performance",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_xiaYUR",
+        "item_QdbeiM",
+        "item_dPL9Rr"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multi_column_xr3ENP": {
@@ -839,9 +839,9 @@
     "image_with_text_overlay_pjaxby",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
-    "multi_column_wTJTNc",
     "featured-product",
     "accordion_content_AEztYQ",
+    "multi_column_wTJTNc",
     "multi_column_xr3ENP",
     "timeline_JLd98H",
     "rich_text_JEkECK",
