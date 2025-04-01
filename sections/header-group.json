@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "OFFRES D’HIVER JUSQU’À -50%",
+            "text": "OFFRES PRINTEMPS JUSQU’À -50%",
             "url": ""
           }
         },
@@ -48,9 +48,9 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#000000",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#d4af37"
       }
     },
     "header": {

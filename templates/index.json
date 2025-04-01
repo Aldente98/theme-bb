@@ -374,19 +374,16 @@
         },
         "badges": {
           "type": "badges",
-          "disabled": true,
           "settings": {}
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
         },
         "image_pRggRB": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "alignment": "center",
             "max_width": 500
@@ -710,15 +707,6 @@
             "content": "<p>Grâce à Wake Up, vous vous réveillez discrètement, sans jamais réveiller votre partenaire, vos enfants ou vos colocataires.</p><p>Vous êtes soulagé, plus serein, et vous ne ressentez plus de culpabilité en vous levant tôt.</p>"
           }
         },
-        "slide_3WWK3f": {
-          "type": "slide",
-          "settings": {
-            "navigation_label": "label",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
         "slide_yWLkpg": {
           "type": "slide",
           "settings": {
@@ -733,7 +721,6 @@
       "block_order": [
         "slide_De7gEc",
         "slide_xyHXHD",
-        "slide_3WWK3f",
         "slide_yWLkpg"
       ],
       "settings": {
