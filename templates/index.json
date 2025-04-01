@@ -457,18 +457,18 @@
             "payment_button_text_color": ""
           }
         },
-        "image_c9eVYU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_6-removebg-preview.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
         "image_paMCfA": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/icon_trust.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_c9eVYU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_6-removebg-preview.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -490,8 +490,8 @@
         "image_EimmFe",
         "liquid_UQkfbx",
         "buy_buttons_n3Dmik",
-        "image_c9eVYU",
-        "image_paMCfA"
+        "image_paMCfA",
+        "image_c9eVYU"
       ],
       "settings": {
         "full_width": false,
