@@ -515,7 +515,7 @@
             "icon": "picto-smart-watch",
             "icon_width": 20,
             "title": "Fonctionnalité",
-            "content": "<p>📳 Réveil par vibration pour un réveil <strong>sans stress.</strong></p><p><br/>👣 Compteur de pas pour <strong>rester actif.</strong></p><p><br/>🔥 Suivi des calories pour toujours être au <strong>top de sa forme.</strong></p><p><br/>❌Pas <strong>d'écran, </strong>pas de <strong>distraction. </strong></p><p><br/>🔋 Batterie longue durée (7 jours) pour <strong>plus de liberté.</strong></p><p><br/>🎽 Ultra <strong>confortable</strong> avec un design <strong>ergonomique.</strong></p>",
+            "content": "<p>📳 Réveil par vibration pour un réveil <strong>sans stress.</strong></p><p><br/>👣 Compteur de pas pour <strong>rester actif.</strong></p><p><br/>🔥 Suivi des calories pour toujours être au <strong>top de sa forme.</strong></p><p><br/>❌Pas <strong>d'écran, </strong>pas de <strong>distraction. </strong></p><p><br/>🔋<strong> Batterie longue durée </strong>(7 jours) pour <strong>plus de liberté.</strong></p><p><br/>🎽 Ultra <strong>confortable</strong> avec un design <strong>ergonomique.</strong></p>",
             "page": ""
           }
         },
@@ -525,7 +525,7 @@
             "icon": "picto-target",
             "icon_width": 20,
             "title": "Résultats",
-            "content": "<p>📈 <strong>Réduction de 83% du stress perçu au réveil.</strong></p><p>📈 <strong>92% des utilisateurs ont supprimé le réveil de leur téléphone.</strong></p><p>📈<strong> Estime de soi renforcée chaque matin.</strong></p><p><strong>📈 Réduction de 79% du temps passé sur le téléphone au réveil.</strong></p><p><strong>📈 Réveil silencieux. 0 décibel. 100% efficacité.</strong></p><p><strong>📈Vous vous levez avant le bruit du monde.</strong></p><p><strong>📈</strong></p>",
+            "content": "<p>📈 <strong>Réduction de 83% du stress perçu au réveil.</strong></p><p>📈 <strong>92% des utilisateurs ont supprimé le réveil de leur téléphone.</strong></p><p>📈<strong> Estime de soi renforcée chaque matin.</strong></p><p><strong>📈 Réduction de 79% du temps passé sur le téléphone au réveil.</strong></p><p><strong>📈 Réveil silencieux. 0 décibel. 100% efficacité.</strong></p><p><strong>📈Vous vous levez avant le bruit du monde.</strong></p><p><strong>📈Vous gagnez du temps, vous vous respectez, vous avancez. Chaque matin compte.</strong></p>",
             "page": ""
           }
         },
@@ -710,6 +710,15 @@
             "content": "<p>Grâce à Wake Up, vous vous réveillez discrètement, sans jamais réveiller votre partenaire, vos enfants ou vos colocataires.</p><p>Vous êtes soulagé, plus serein, et vous ne ressentez plus de culpabilité en vous levant tôt.</p>"
           }
         },
+        "slide_3WWK3f": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "label",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
         "slide_yWLkpg": {
           "type": "slide",
           "settings": {
@@ -724,6 +733,7 @@
       "block_order": [
         "slide_De7gEc",
         "slide_xyHXHD",
+        "slide_3WWK3f",
         "slide_yWLkpg"
       ],
       "settings": {
