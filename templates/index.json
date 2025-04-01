@@ -505,7 +505,7 @@
             "icon": "picto-file",
             "icon_width": 20,
             "title": "Description",
-            "content": "<p>Un bracelet malin qui vous réveille sans stress, compte vos pas et vos calories, et vous motive à bouger chaque jour. Léger, discret, facile à utiliser : il vous accompagne du matin au soir.</p>",
+            "content": "<p>Un bracelet malin qui vous réveille s<strong>ans stress</strong>, <strong>compte vos pas et vos calories</strong>, et vous<strong> motive </strong>à bouger chaque jour. <strong>Léger, discret, facile à utiliser</strong> : il vous accompagne <strong>du matin au soir</strong>.</p>",
             "page": ""
           }
         },
