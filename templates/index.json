@@ -157,6 +157,20 @@
     },
     "trust_pilot_reviews_AxNB3A": {
       "type": "Trust_Pilot_Reviews",
+      "blocks": {
+        "item_fREbQi": {
+          "type": "item",
+          "settings": {
+            "stars_count": 5,
+            "heading": "",
+            "text": "",
+            "author_date": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_fREbQi"
+      ],
       "custom_css": [
         "h2 {font-weight: bold;}"
       ],
@@ -184,6 +198,7 @@
         "stars_size": 28,
         "stars_size_mobile": 24,
         "text": "<p>basé sur +<strong>1 067</strong> avis</p>",
+        "text_right_image": "shopify://shop_images/Trustpilot_new_logo.png",
         "text_custom": false,
         "text_font": "montserrat_n4",
         "text_size": 20,
