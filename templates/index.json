@@ -157,20 +157,6 @@
     },
     "trust_pilot_reviews_AxNB3A": {
       "type": "Trust_Pilot_Reviews",
-      "blocks": {
-        "item_fREbQi": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "",
-            "text": "",
-            "author_date": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_fREbQi"
-      ],
       "custom_css": [
         "h2 {font-weight: bold;}"
       ],
