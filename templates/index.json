@@ -821,6 +821,13 @@
             "title": "Peut-on régler l’intensité et la durée de la vibration ?",
             "content": "<p>Non, et c’est justement <strong>ce qui fait sa force ! </strong>Ce bracelet a été <strong>minutieusement étudié </strong>et <strong>conçu avec précision </strong>pour offrir un <strong>réveil parfaitement calibré.</strong> Grâce à une <strong>technologie avancée, </strong>l’intensité de la vibration a été o<strong>ptimisée pour réveiller</strong> efficacement, s<strong>ans stress ni inconfort</strong>. <strong>Aucun réglage </strong>n’est nécessaire : il vous garantit un réveil en douceur, à la fois <strong>naturel et efficace, jour après jour.</strong></p>"
           }
+        },
+        "item_7GAfde": {
+          "type": "item",
+          "settings": {
+            "title": "Le chargeur est il inclus dans la boite ?",
+            "content": "<p><strong>Non, le chargeur n’est pas inclus dans la boîte pour le moment.</strong><br/><br/>Cependant, le bracelet WAKEUP™ peut être <strong>chargé facilement via n’importe quel port USB</strong>, que ce soit :</p><p>sur un ordinateur,<br/>une batterie externe,<br/>ou une prise murale équipée d’un port USB.</p><p>Nous travaillons actuellement à inclure un chargeur dédié dans les prochaines séries, afin d’offrir une expérience encore plus complète à nos clients.<br/><br/>Nous vous tiendrons informés dès que cette évolution sera en place.</p>"
+          }
         }
       },
       "block_order": [
@@ -829,7 +836,8 @@
         "item_7X6yH4",
         "item_8yPykD",
         "item_dzgVKw",
-        "item_MTTrQt"
+        "item_MTTrQt",
+        "item_7GAfde"
       ],
       "settings": {
         "full_width": true,
