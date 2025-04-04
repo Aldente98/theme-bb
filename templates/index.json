@@ -581,6 +581,48 @@
         "accordion_text_color": ""
       }
     },
+    "image_with_text_overlay_zqNQVw": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_YEjTqh": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_6Mie8Y": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_RyiDCp": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_YEjTqh",
+        "heading_6Mie8Y",
+        "richtext_RyiDCp"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": true,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Bracelet_WakeUP.png",
+        "mobile_image": "shopify://shop_images/Bracelet_WakeUP.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "multi_column_wTJTNc": {
       "type": "multi-column",
       "blocks": {
@@ -640,48 +682,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_zqNQVw": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_YEjTqh": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_6Mie8Y": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_RyiDCp": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_YEjTqh",
-        "heading_6Mie8Y",
-        "richtext_RyiDCp"
-      ],
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": true,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Bracelet_WakeUP.png",
-        "mobile_image": "shopify://shop_images/Bracelet_WakeUP.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "multi_column_xr3ENP": {
@@ -910,8 +910,8 @@
     "multi_column_BKPLPt",
     "featured-product",
     "accordion_content_AEztYQ",
-    "multi_column_wTJTNc",
     "image_with_text_overlay_zqNQVw",
+    "multi_column_wTJTNc",
     "multi_column_xr3ENP",
     "timeline_JLd98H",
     "rich_text_JEkECK",
