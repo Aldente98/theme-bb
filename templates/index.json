@@ -280,6 +280,47 @@
         "lazy": true
       }
     },
+    "slideshow_APkXip": {
+      "type": "slideshow",
+      "blocks": {
+        "image_A6Ezbh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TRUSTPILOT_AVIS_1500_8a166611-bd20-46b4-ac7d-d77bb3260cc2.png",
+            "content_max_width": 1200,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h5",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_A6Ezbh"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#ffffff",
+        "background_gradient": ""
+      }
+    },
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
@@ -961,6 +1002,7 @@
     "rich_text_acgM4b",
     "image_with_text_overlay_pjaxby",
     "trust_pilot_reviews_AxNB3A",
+    "slideshow_APkXip",
     "multi_column_BKPLPt",
     "featured-product",
     "accordion_content_AEztYQ",
