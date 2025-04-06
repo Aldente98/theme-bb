@@ -321,6 +321,19 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sans_titre_1400_x_1400_px_800_x_800_px_1929_x_1080_px_1000_x_1500_px_1400_x_1400_px_1000_x_1400_px_1929_x_1080_px_1536_x_2048_px_1.png",
+            "column_size": "3",
+            "title": "Marie",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HVGDnw": {
+          "type": "item",
+          "settings": {
             "image": "shopify://shop_images/f2a4f936-24ab-479a-a4e2-7f61f52c9a24_1.webp",
             "column_size": "3",
             "title": "Marie",
@@ -331,21 +344,10 @@
             "link_style": "link"
           }
         },
-        "item_HVGDnw": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_TUhMPe": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Affdb155721ba48b497354e8fcf5bef0em.jpg__1.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -358,6 +360,7 @@
         "item_jNkWLj": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_20.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
