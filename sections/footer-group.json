@@ -92,8 +92,8 @@
           "type": "newsletter",
           "settings": {
             "image_width": 150,
-            "heading_size": "h3",
-            "title": "Inscrivez-vous pour recevoir nos offres et actualités",
+            "heading_size": "h5",
+            "title": "Inscrivez-vous à la newsletter et recevez nos meilleures astuces pour améliorer votre sommeil et vos matins !",
             "content": ""
           }
         },
