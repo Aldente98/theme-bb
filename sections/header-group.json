@@ -34,12 +34,20 @@
             "text": "SATISFAIT OU REMBOURSÉ",
             "url": ""
           }
+        },
+        "message_fmnkC9": {
+          "type": "message",
+          "settings": {
+            "text": "LIVRAISON OFFERTE",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
         "message_h3JjH9",
-        "message_XbYwYf"
+        "message_XbYwYf",
+        "message_fmnkC9"
       ],
       "settings": {
         "enable_sticky": false,
