@@ -292,27 +292,27 @@
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
-        "item_JJLm4U": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/a24fceb0-41ba-4b9f-be5b-2041aef030bd_1.webp",
-            "column_size": "3",
-            "title": "Christophe",
-            "heading_tag": "h4",
-            "content": "<p><strong>\"Parfait pour ne pas déranger ma partenaire. Ma compagne ne supportait plus mes alarmes matinales, et ce bracelet a résolu le problèm. Je me réveille sans bruit, je suis plus productif et en meilleur forme\"  </strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_7BdeiK": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_12.png",
             "column_size": "3",
-            "title": "Sarah",
+            "title": "Sarah.E",
             "heading_tag": "h4",
             "content": "<p><strong>\"Depuis que j’utilise le bracelet Wake Up                                                                  mes matinées sont bien plus agréables. Fini le réveil brutal avec une sonnerie stridente : je me réveille en douceur grâce à une légère vibration, plus naturelle et moins agressive.\"</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JJLm4U": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/a24fceb0-41ba-4b9f-be5b-2041aef030bd_1.webp",
+            "column_size": "3",
+            "title": "Christophe.D",
+            "heading_tag": "h4",
+            "content": "<p><strong>\"Parfait pour ne pas déranger ma partenaire. Ma compagne ne supportait plus mes alarmes matinales, et ce bracelet a résolu le problèm. Je me réveille sans bruit, je suis plus productif et en meilleur forme\"  </strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -323,7 +323,7 @@
           "settings": {
             "image": "shopify://shop_images/Sans_titre_1400_x_1400_px_800_x_800_px_1929_x_1080_px_1000_x_1500_px_1400_x_1400_px_1000_x_1400_px_1929_x_1080_px_1536_x_2048_px_1.png",
             "column_size": "3",
-            "title": "Marie",
+            "title": "",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
@@ -336,7 +336,7 @@
           "settings": {
             "image": "shopify://shop_images/f2a4f936-24ab-479a-a4e2-7f61f52c9a24_1.webp",
             "column_size": "3",
-            "title": "Marie",
+            "title": "Marie.A",
             "heading_tag": "h4",
             "content": "<p><em><strong>\"</strong></em><strong>Le meilleur achat que j’ai fait cette année ! Simple, efficace et confortable à porter, ce bracelet m’a vraiment changé la vie. Je me réveille mieux et plus reposé.\"</strong></p>",
             "link_url": "",
@@ -362,9 +362,9 @@
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_20.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Thomas G.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><br/>Fini les 4 alarmes qui sonnent dans le vide. Je me réveille vraiment, sans bruit, et sans déranger ma femme. C’est bluffant.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -372,8 +372,8 @@
         }
       },
       "block_order": [
-        "item_JJLm4U",
         "item_7BdeiK",
+        "item_JJLm4U",
         "item_GECyWQ",
         "item_HVGDnw",
         "item_TUhMPe",
