@@ -97,20 +97,20 @@
             "content": ""
           }
         },
+        "text_NFWGEM": {
+          "type": "text",
+          "settings": {
+            "title": "Notre mission",
+            "content": "<p>Notre mission est simple: Vous offrir un      réveil <strong>plus doux, un sommeil plus réparateur, </strong>et <strong>une meilleure qualité de vie pour vous, votre couple et votre famille.</strong></p>",
+            "enable_follow_on_shop": true
+          }
+        },
         "links": {
           "type": "links",
           "settings": {
             "menu": "footer",
             "show_menu_title": true,
             "menu_title": ""
-          }
-        },
-        "text_NFWGEM": {
-          "type": "text",
-          "settings": {
-            "title": "About our store",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
           }
         },
         "text": {
@@ -124,8 +124,8 @@
       },
       "block_order": [
         "newsletter",
-        "links",
         "text_NFWGEM",
+        "links",
         "text"
       ],
       "settings": {
