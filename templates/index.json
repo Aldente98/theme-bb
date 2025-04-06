@@ -729,19 +729,6 @@
     "multi_column_xr3ENP": {
       "type": "multi-column",
       "blocks": {
-        "item_gEwhGi": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/SnapTik-dot-Kim-5f013e62d3b831e268a3e4d8bdba1fa1.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_7zBYY8": {
           "type": "item",
           "settings": {
@@ -767,12 +754,39 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_Y9rVw8": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0401 (2)(1).mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_gEwhGi": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/SnapTik-dot-Kim-5f013e62d3b831e268a3e4d8bdba1fa1.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
-        "item_gEwhGi",
         "item_7zBYY8",
-        "item_TGtPij"
+        "item_TGtPij",
+        "item_Y9rVw8",
+        "item_gEwhGi"
       ],
       "settings": {
         "full_width": true,
