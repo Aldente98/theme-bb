@@ -510,9 +510,15 @@
         "image_EimmFe": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/aldente.png",
+            "image": "shopify://shop_images/aldente_223e7160-c48f-4c09-8fb9-49943ffca842.png",
             "alignment": "center",
             "max_width": 500
+          }
+        },
+        "gsc_countdown_timer_countdown_VtDLKn": {
+          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
+          "settings": {
+            "widget_id": "GSC-BAR-tpgbsBgkGQDF"
           }
         },
         "buy_buttons_n3Dmik": {
@@ -540,12 +546,6 @@
             "max_width": 500
           }
         },
-        "gsc_countdown_timer_countdown_VtDLKn": {
-          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
-          "settings": {
-            "widget_id": "GSC-LARGE-XUtOznYDXwxL"
-          }
-        },
         "image_paMCfA": {
           "type": "image",
           "settings": {
@@ -569,10 +569,10 @@
         "image_NnVtjL",
         "kaching_bundles_app_block_dwLaTi",
         "image_EimmFe",
+        "gsc_countdown_timer_countdown_VtDLKn",
         "buy_buttons_n3Dmik",
         "liquid_UQkfbx",
         "image_c9eVYU",
-        "gsc_countdown_timer_countdown_VtDLKn",
         "image_paMCfA"
       ],
       "settings": {
