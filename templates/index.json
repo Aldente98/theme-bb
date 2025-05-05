@@ -724,6 +724,32 @@
         "button_text_color": ""
       }
     },
+    "rich_text_tyyKGM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hgmKDg": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir WakeUp ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_hgmKDg"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_zqNQVw": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -1069,6 +1095,7 @@
     "featured-product",
     "accordion_content_AEztYQ",
     "impact_text_HK7pjk",
+    "rich_text_tyyKGM",
     "image_with_text_overlay_zqNQVw",
     "multi_column_wTJTNc",
     "multi_column_xr3ENP",
