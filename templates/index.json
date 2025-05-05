@@ -121,9 +121,12 @@
         "heading_8ffJ8X",
         "richtext_JmgUVG"
       ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
       "settings": {
-        "full_width": true,
-        "content_width": "small",
+        "full_width": false,
+        "content_width": "medium",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
