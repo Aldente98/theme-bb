@@ -686,7 +686,7 @@
             "button_text": "",
             "button_url": "",
             "animate_impact_text": true,
-            "animate_impact_text_duration": 1.3
+            "animate_impact_text_duration": 3.2
           }
         },
         "item_gHmTnH": {
@@ -698,7 +698,7 @@
             "button_text": "",
             "button_url": "",
             "animate_impact_text": true,
-            "animate_impact_text_duration": 1.3
+            "animate_impact_text_duration": 3
           }
         }
       },
