@@ -155,7 +155,8 @@
     "trust_pilot_reviews_AxNB3A": {
       "type": "Trust_Pilot_Reviews",
       "custom_css": [
-        "h2 {font-weight: bold;}"
+        "h2 {font-weight: bold;}",
+        ".section-full {padding-top: 0px;}"
       ],
       "settings": {
         "content_align": "center",
