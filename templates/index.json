@@ -582,6 +582,9 @@
         "image_c9eVYU",
         "image_paMCfA"
       ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
       "settings": {
         "full_width": false,
         "product": "bracelet-connecte-wake-up",
@@ -713,6 +716,9 @@
         "item_nfFAnH",
         "item_KA94ed",
         "item_gHmTnH"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
       ],
       "name": "Impact text",
       "settings": {
