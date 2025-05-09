@@ -102,7 +102,7 @@
           "settings": {
             "title": "Notre mission",
             "content": "<p>Notre mission est simple: Vous offrir un      réveil <strong>plus doux, un sommeil plus réparateur, </strong>et <strong>une meilleure qualité de vie pour vous, votre couple et votre famille.</strong></p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         },
         "links": {
