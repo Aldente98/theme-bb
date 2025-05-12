@@ -171,6 +171,67 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_wTJTNc": {
+      "type": "multi-column",
+      "blocks": {
+        "item_xiaYUR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_9ad06d27-75bf-4523-86dd-15341bedc5b8.png",
+            "column_size": "3",
+            "title": "Plus de vitalité, de motivation et une humeur positive continue.",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QdbeiM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_c5993196-6586-4509-bc67-47545a331e64.png",
+            "column_size": "3",
+            "title": "Régule le sommeil et le stress, améliore la récupération.",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dPL9Rr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Votre_texte_de_paragraphe_38.png",
+            "column_size": "3",
+            "title": "Augmente la performance",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_xiaYUR",
+        "item_QdbeiM",
+        "item_dPL9Rr"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "trust_pilot_reviews_AxNB3A": {
       "type": "Trust_Pilot_Reviews",
       "custom_css": [
@@ -762,67 +823,6 @@
         "overlay_opacity": 0
       }
     },
-    "multi_column_wTJTNc": {
-      "type": "multi-column",
-      "blocks": {
-        "item_xiaYUR": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4_9ad06d27-75bf-4523-86dd-15341bedc5b8.png",
-            "column_size": "3",
-            "title": "Plus de vitalité, de motivation et une humeur positive continue.",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_QdbeiM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3_c5993196-6586-4509-bc67-47545a331e64.png",
-            "column_size": "3",
-            "title": "Régule le sommeil et le stress, améliore la récupération.",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_dPL9Rr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Votre_texte_de_paragraphe_38.png",
-            "column_size": "3",
-            "title": "Augmente la performance",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_xiaYUR",
-        "item_QdbeiM",
-        "item_dPL9Rr"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "multi_column_xr3ENP": {
       "type": "multi-column",
       "blocks": {
@@ -1087,6 +1087,7 @@
     "logo_list_4BjWGF",
     "rich_text_acgM4b",
     "image_with_text_overlay_pjaxby",
+    "multi_column_wTJTNc",
     "trust_pilot_reviews_AxNB3A",
     "slideshow_APkXip",
     "multi_column_BKPLPt",
@@ -1094,7 +1095,6 @@
     "accordion_content_AEztYQ",
     "rich_text_tyyKGM",
     "image_with_text_overlay_zqNQVw",
-    "multi_column_wTJTNc",
     "multi_column_xr3ENP",
     "timeline_JLd98H",
     "rich_text_JEkECK",
