@@ -9,6 +9,19 @@
  */
 {
   "sections": {
+    "custom_html_9HXxaL": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<div id=\"produit-wakeup\"></div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow_JxbaVF": {
       "type": "slideshow",
       "blocks": {
@@ -1100,6 +1113,7 @@
     "trust_pilot_reviews_AxNB3A",
     "slideshow_APkXip",
     "multi_column_BKPLPt",
+    "custom_html_9HXxaL",
     "featured-product",
     "accordion_content_AEztYQ",
     "multi_column_xr3ENP",
