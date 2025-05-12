@@ -9,28 +9,47 @@
  */
 {
   "sections": {
-    "video_wGyfFc": {
-      "type": "video",
+    "slideshow_JxbaVF": {
+      "type": "slideshow",
       "blocks": {
-        "play_8Db4kj": {
-          "type": "play",
-          "settings": {}
+        "image_dEHrUd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sans_titre_1200_x_1600_px_522fc7b2-1dbe-472e-95c3-2d8f42d09641.png",
+            "mobile_image": "shopify://shop_images/Sans_titre_1200_x_1600_px_522fc7b2-1dbe-472e-95c3-2d8f42d09641.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
         }
       },
       "block_order": [
-        "play_8Db4kj"
+        "image_dEHrUd"
       ],
+      "name": "Slideshow",
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/0327 (1)(5).mp4",
-        "mobile_video": "shopify://files/videos/0327 (1)(5).mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
       }
     },
     "logo_list_4BjWGF": {
@@ -1109,7 +1128,7 @@
             "hide_thumbnails": false,
             "product_handle": "",
             "aggregated": true,
-            "data-limit": 5,
+            "data-limit": 20,
             "maxwidth": 1080,
             "is_sample": true
           }
@@ -1129,7 +1148,7 @@
     }
   },
   "order": [
-    "video_wGyfFc",
+    "slideshow_JxbaVF",
     "logo_list_4BjWGF",
     "rich_text_acgM4b",
     "image_with_text_overlay_pjaxby",
