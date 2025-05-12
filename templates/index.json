@@ -347,71 +347,6 @@
         "background_gradient": ""
       }
     },
-    "impact_text_HK7pjk": {
-      "type": "impact-text",
-      "blocks": {
-        "item_nfFAnH": {
-          "type": "item",
-          "settings": {
-            "title": "89%",
-            "subheading": "des utilisateurs affirment que leurs matins ont changé dès la première utilisation.",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 3.1
-          }
-        },
-        "item_KA94ed": {
-          "type": "item",
-          "settings": {
-            "title": "96%",
-            "subheading": "des utilisateurs  on adopté WakeUp a leur vie quotidienne",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 3.2
-          }
-        },
-        "item_gHmTnH": {
-          "type": "item",
-          "settings": {
-            "title": "92%",
-            "subheading": "des utilisateurs ont remplacé leur réveil classique par WakeUp.",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 3
-          }
-        }
-      },
-      "block_order": [
-        "item_nfFAnH",
-        "item_KA94ed",
-        "item_gHmTnH"
-      ],
-      "custom_css": [
-        ".section-full {padding-top: 0px;}"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
@@ -1154,7 +1089,6 @@
     "image_with_text_overlay_pjaxby",
     "trust_pilot_reviews_AxNB3A",
     "slideshow_APkXip",
-    "impact_text_HK7pjk",
     "multi_column_BKPLPt",
     "featured-product",
     "accordion_content_AEztYQ",
