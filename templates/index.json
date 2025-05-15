@@ -9,19 +9,6 @@
  */
 {
   "sections": {
-    "custom_html_9HXxaL": {
-      "type": "custom-html",
-      "name": "Custom HTML",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "html": "<div id=\"produit-wakeup\"></div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "slideshow_JxbaVF": {
       "type": "slideshow",
       "blocks": {
@@ -36,7 +23,7 @@
             "subheading": "",
             "title": "",
             "heading_tag": "h3",
-            "button_text": "Essayez-le dès ce soir",
+            "button_text": "RUPTURE DE STOCK",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "#f0c417",
@@ -522,6 +509,19 @@
         "subheading": "",
         "title": "",
         "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_html_9HXxaL": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<div id=\"produit-wakeup\"></div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
