@@ -11,28 +11,18 @@
   "sections": {
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Rides visibles ? Effacez-les définitivement !",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-1"
-      ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Design_sans_titre_5.png",
+        "mobile_image": "shopify://shop_images/Design_sans_titre_5.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "logo_list_4BjWGF": {
@@ -109,7 +99,7 @@
           "type": "heading",
           "settings": {
             "text": "Des Résultats                        Visibles &Concrets",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -134,7 +124,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Comble_les_creux_Elimine_les_poches_et_les_cernes_offrant_un_regard_frais_et_repose_4.png",
+        "image": "shopify://shop_images/Comble_les_creux_Elimine_les_poches_et_les_cernes_offrant_un_regard_frais_et_repose_3_f1601a04-1bf9-4777-bffc-f8a486f08eb6.png",
+        "mobile_image": "shopify://shop_images/Comble_les_creux_Elimine_les_poches_et_les_cernes_offrant_un_regard_frais_et_repose_3_f1601a04-1bf9-4777-bffc-f8a486f08eb6.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -454,6 +445,16 @@
             "alignment": "center",
             "max_width": 500
           }
+        },
+        "collapsible_text_7JpyM7": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "picto-love",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -471,7 +472,8 @@
         "variant-picker",
         "quantity-selector",
         "buy-buttons",
-        "image_NnVtjL"
+        "image_NnVtjL",
+        "collapsible_text_7JpyM7"
       ],
       "settings": {
         "full_width": false,
@@ -489,6 +491,71 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "tabs_Waa9zt": {
+      "type": "tabs",
+      "blocks": {
+        "tab_kNhjBC": {
+          "type": "tab",
+          "settings": {
+            "title": "Contenu du Kit Micro-Infusion Sérum Lift Pro",
+            "content": "<p>Chaque kit de Micro-Infusion est conçu pour un nombre précis de traitements. Les embouts à micro-aiguilles sont <strong>stériles et utilisables 3 fois maximum, ils doivent être nettoyer et desinfecté entre chaque utilisation</strong>, garantissant une hygiène irréprochable et des résultats optimaux.</p><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 1 embouts stériles + 2 flacons de sérum (2 traitements)</li><li><strong>Cure de 2 mois</strong> : 2 embouts stériles + 4 flacons de sérum (4 traitements)</li><li><strong>Cure de 3 mois</strong> : 3 embouts stériles + 6 flacons de sérum (6 traitements)</li></ul><p></p>",
+            "page": ""
+          }
+        },
+        "tab_qpeWfc": {
+          "type": "tab",
+          "settings": {
+            "title": "Composition Sérum Peptide Ceralyne",
+            "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_GUd9zE": {
+          "type": "tab",
+          "settings": {
+            "title": "Est-ce indolore et sans danger ?",
+            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong> ! La plupart des utilisateurs ressentent simplement un léger picotement.</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>",
+            "page": ""
+          }
+        },
+        "tab_aQDKUA": {
+          "type": "tab",
+          "settings": {
+            "title": "30 jours Satisfait ou Remboursé",
+            "content": "<p>Essayer le kit anti âge ceralyne sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le retourner et vous recevrez <strong>un remboursement</strong>.</p>",
+            "page": ""
+          }
+        },
+        "tab_dkjrUh": {
+          "type": "tab",
+          "settings": {
+            "title": "Service Client 7J/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@ceralyne.fr</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_kNhjBC",
+        "tab_qpeWfc",
+        "tab_GUd9zE",
+        "tab_aQDKUA",
+        "tab_dkjrUh"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "trust_pilot_reviews_yEVK9q": {
@@ -684,71 +751,6 @@
         "content_width": 120,
         "border_thickness": 0,
         "lazy": true
-      }
-    },
-    "tabs_Waa9zt": {
-      "type": "tabs",
-      "blocks": {
-        "tab_kNhjBC": {
-          "type": "tab",
-          "settings": {
-            "title": "Contenu du Kit Micro-Infusion Sérum Lift Pro",
-            "content": "<p>Chaque kit de Micro-Infusion est conçu pour un nombre précis de traitements. Les embouts à micro-aiguilles sont <strong>stériles et utilisables 3 fois maximum, ils doivent être nettoyer et desinfecté entre chaque utilisation</strong>, garantissant une hygiène irréprochable et des résultats optimaux.</p><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 1 embouts stériles + 2 flacons de sérum (2 traitements)</li><li><strong>Cure de 2 mois</strong> : 2 embouts stériles + 4 flacons de sérum (4 traitements)</li><li><strong>Cure de 3 mois</strong> : 3 embouts stériles + 6 flacons de sérum (6 traitements)</li></ul><p></p>",
-            "page": ""
-          }
-        },
-        "tab_qpeWfc": {
-          "type": "tab",
-          "settings": {
-            "title": "Composition Sérum Peptide Ceralyne",
-            "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>",
-            "page": ""
-          }
-        },
-        "tab_GUd9zE": {
-          "type": "tab",
-          "settings": {
-            "title": "Est-ce indolore et sans danger ?",
-            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong> ! La plupart des utilisateurs ressentent simplement un léger picotement.</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>",
-            "page": ""
-          }
-        },
-        "tab_aQDKUA": {
-          "type": "tab",
-          "settings": {
-            "title": "30 jours Satisfait ou Remboursé",
-            "content": "<p>Essayer le kit anti âge ceralyne sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le retourner et vous recevrez <strong>un remboursement</strong>.</p>",
-            "page": ""
-          }
-        },
-        "tab_dkjrUh": {
-          "type": "tab",
-          "settings": {
-            "title": "Service Client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@ceralyne.fr</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_kNhjBC",
-        "tab_qpeWfc",
-        "tab_GUd9zE",
-        "tab_aQDKUA",
-        "tab_dkjrUh"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "text_alignment": "center",
-        "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "multi_column_wTJTNc": {
@@ -1102,7 +1104,7 @@
         "button_url": "",
         "text_position": "center",
         "background": "",
-        "background_gradient": "",
+        "background_gradient": "linear-gradient(320deg, rgba(98, 40, 215, 1) 16%, rgba(203, 68, 194, 1) 52%, rgba(253, 190, 76, 1) 87%)",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
@@ -1132,8 +1134,8 @@
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
-    "trust_pilot_reviews_yEVK9q",
     "tabs_Waa9zt",
+    "trust_pilot_reviews_yEVK9q",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
     "how_to_use_sambal_mtLn7y",
