@@ -853,7 +853,7 @@
         "richtext_t6DjJt": {
           "type": "richtext",
           "settings": {
-            "content": "<h2><strong>U</strong>ne peau rajeunie<strong> en seulement 4 étapes</strong></h2>"
+            "content": "<h2><strong>U</strong>ne renaissance de votre corps<strong> en seulement 4 étapes</strong></h2>"
           }
         },
         "richtext_x7NCKi": {
@@ -879,53 +879,49 @@
         "text_color": ""
       }
     },
-    "how_to_use_sambal_mtLn7y": {
-      "type": "how-to-use-sambal",
+    "timeline_hPy3D9": {
+      "type": "timeline",
       "blocks": {
-        "step_7q9JWB": {
-          "type": "step",
+        "slide_RffHK6": {
+          "type": "slide",
           "settings": {
-            "video": "",
-            "title": "",
-            "description": "Ouvrez le flacon et remplissez-le avec le sérum. Refermez sans forcer pour une application optimale.",
-            "alignment": "left"
+            "navigation_label": "1953",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
-        "step_VCbrVx": {
-          "type": "step",
+        "slide_Eg3kJm": {
+          "type": "slide",
           "settings": {
-            "video": "",
-            "title": "",
-            "description": "Retournez le flacon et laissez-le à l’envers pendant 2 minutes afin que les micro-aiguilles s’imprègnent parfaitement du sérum.",
-            "alignment": "left"
+            "navigation_label": "1960",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
-        "step_QxA9A8": {
-          "type": "step",
+        "slide_RVcH7K": {
+          "type": "slide",
           "settings": {
-            "video": "",
-            "title": "",
-            "description": "Tapotez délicatement votre peau (visage, lèvres, cou, etc.). Répétez 2 à 3 fois pour des résultats visibles plus rapidement",
-            "alignment": "left"
-          }
-        },
-        "step_rTyP7G": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Massez l’excédent de sérum sur votre peau et laissez-le agir toute la nuit. Pour une routine complète, appliquez ensuite vos soins habituels.",
-            "alignment": "left"
+            "navigation_label": "1966",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "step_7q9JWB",
-        "step_VCbrVx",
-        "step_QxA9A8",
-        "step_rTyP7G"
+        "slide_RffHK6",
+        "slide_Eg3kJm",
+        "slide_RVcH7K"
       ],
-      "settings": {}
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     },
     "faq_MQHPPV": {
       "type": "faq",
@@ -1146,7 +1142,7 @@
     "trust_pilot_reviews_yEVK9q",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
-    "how_to_use_sambal_mtLn7y",
+    "timeline_hPy3D9",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]
