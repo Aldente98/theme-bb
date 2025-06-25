@@ -719,25 +719,27 @@
     "multi_column_wTJTNc": {
       "type": "multi-column",
       "blocks": {
-        "item_xiaYUR": {
+        "item_QdbeiM": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/17_4274972a-edd8-47f2-97cb-81672b3e9fa9.png",
             "column_size": "3",
-            "title": "Peptides de collagène",
+            "title": "SOD B Dimpless®                                              (extrait de melon anti-cellulite)",
             "heading_tag": "h4",
-            "content": "<p>Stimulent la production de collagène pour une peau plus ferme et élastique. Réduisent l’apparence des ridules et des rides. Soutiennent la structure de la peau et lissent la texture.</p>",
+            "content": "<p><strong>SOD B Dimpless®</strong> est un extrait de melon breveté, cliniquement prouvé pour <strong>réduire la cellulite dès 28 jours</strong>. Il protège les fibres de collagène, <strong>raffermit la peau</strong>, stimule le drainage et aide à lisser visiblement les zones comme les cuisses, les fesses et le ventre.<br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_QdbeiM": {
+        "item_xiaYUR": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/16_932320fc-52ed-4b11-9c35-da5487b8d51e.png",
             "column_size": "3",
-            "title": "Élastine",
+            "title": "Collagène multi-types",
             "heading_tag": "h4",
-            "content": "<p>Complément naturel du collagène, elle assure souplesse et élasticité à la peau, prévenant le relâchement cutané et aidant à maintenir un teint rebondi et résilient face aux agressions extérieures.</p>",
+            "content": "<p>Le collagène est la protéine qui maintient la peau ferme, élastique et dense.<br/>En combinant 5 types différents <strong>(I, II, III, V, X)</strong>, cette formule agit sur la <strong>peau, les articulations, les cheveux et les ongles</strong>.<br/><strong>Raffermit la peau</strong>, réduit la <strong>cellulite</strong>, aide à retrouver une <strong>silhouette tonique</strong>.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -746,10 +748,11 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/19_95a9761d-30b4-41c7-ba80-88ac98638f84.png",
             "column_size": "3",
             "title": "Acide hyaluronique",
             "heading_tag": "h4",
-            "content": "<p>Hydratation en profondeur. Favorise la réparation et la régénération de la peau. Repulpe la peau et réduit l’apparence des ridules et des rides.</p>",
+            "content": "<p>Naturellement présent dans la peau, il retient jusqu’à 1 000 fois son poids en eau.<br/> <strong>Hydrate en profondeur</strong>, améliore <strong>l’élasticité</strong> et donne un effet <strong>repulpé</strong> visible, combiné au autres ingrédients elle nourrit en profondeur la peau <strong>atteinte de la cellulites</strong> et bien plus.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -758,10 +761,11 @@
         "item_LV4cm8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/elimine_la_cellulite_1.png",
             "column_size": "3",
-            "title": "Glycérine",
+            "title": "Fucoxanthine",
             "heading_tag": "h4",
-            "content": "<p>Renforce la barrière protectrice naturelle de la peau. Lisse et adoucit la peau. Protège contre la sécheresse et les irritations.</p>",
+            "content": "<p>Pigment naturel extrait d’algues brunes.<br/>Connu pour stimuler la <strong>thermogenèse</strong> et activer la <strong>perte de graisse abdominale</strong>.<br/> Brûleur efficace, surtout pour la <strong>graisse viscérale et rebelle</strong>.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -770,10 +774,11 @@
         "item_6nijje": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/21_ace6b3ec-3408-42d9-9670-2d7664d960f6.png",
             "column_size": "3",
-            "title": "Squalane",
+            "title": "Sensoril® (ashwagandha)",
             "heading_tag": "h4",
-            "content": "<p>Un puissant émollient naturel qui restaure la barrière cutanée, nourrit intensément sans effet gras, protège contre la déshydratation et aide la peau à retrouver douceur et éclat naturel.</p>",
+            "content": "<p>Plante adaptogène standardisée, utilisée pour <strong>réguler le stress</strong> et l’appétit.<br/>Réduit le <strong>cortisol</strong>, apaise les <strong>fringales émotionnelles</strong>, améliore l’<strong>équilibre hormonal</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -781,8 +786,8 @@
         }
       },
       "block_order": [
-        "item_xiaYUR",
         "item_QdbeiM",
+        "item_xiaYUR",
         "item_dPL9Rr",
         "item_LV4cm8",
         "item_6nijje"
@@ -793,7 +798,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Ingrédients testés cliniquement",
+        "title": "Ingrédients testés et etudiés en laboratoire",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -812,7 +817,7 @@
         "richtext_x7NCKi": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Les dermatologues recommandent <strong>un traitement toutes les 2 semaines</strong> pour des résultats optimaux.</p>"
+            "content": "<p>Nos spécialistes recommandent <strong>un cure minimal de 1 mois</strong> pour des résultats optimaux.</p>"
           }
         }
       },
@@ -878,7 +883,6 @@
         "step_QxA9A8",
         "step_rTyP7G"
       ],
-      "custom_css": [],
       "settings": {}
     },
     "faq_MQHPPV": {
