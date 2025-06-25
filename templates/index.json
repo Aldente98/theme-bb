@@ -804,7 +804,20 @@
             "column_size": "3",
             "title": "Grains de Paradis",
             "heading_tag": "h4",
-            "content": "<p>Épice thermogénique riche en composés bioactifs.<br/> Active la <strong>dépense calorique</strong>, aide à <strong>réduire la masse grasse</strong> en douceur.<br/><br/></p>",
+            "content": "<p>Épice thermogénique riche en composés bioactifs. Active la <strong>dépense calorique</strong>, aide à <strong>réduire la masse grasse</strong> en douceur.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wLHJfB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/20_1df98ab5-5244-4ca4-9125-73e37abec62f.png",
+            "column_size": "3",
+            "title": "Vitamine C",
+            "heading_tag": "h4",
+            "content": "<p>Essentielle à la production naturelle de collagène. <strong>Protège les cellules</strong>, améliore la <strong>fermeté</strong> et l’<strong>éclat</strong> de la peau.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -818,7 +831,8 @@
         "item_LV4cm8",
         "item_6nijje",
         "item_XDL4dD",
-        "item_T7yCKr"
+        "item_T7yCKr",
+        "item_wLHJfB"
       ],
       "settings": {
         "full_width": true,
