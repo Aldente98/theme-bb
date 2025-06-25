@@ -879,39 +879,10 @@
         "text_color": ""
       }
     },
-    "timeline_hPy3D9": {
-      "type": "timeline",
-      "blocks": {
-        "slide_Eg3kJm": {
-          "type": "slide",
-          "settings": {
-            "navigation_label": "1960",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "slide_RVcH7K": {
-          "type": "slide",
-          "settings": {
-            "navigation_label": "1966",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "slide_Eg3kJm",
-        "slide_RVcH7K"
-      ],
-      "name": "Timeline",
-      "settings": {
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
+    "how_to_use_sambal_Q4kPNG": {
+      "type": "how-to-use-sambal",
+      "name": "How to Use",
+      "settings": {}
     },
     "faq_MQHPPV": {
       "type": "faq",
@@ -1132,7 +1103,7 @@
     "trust_pilot_reviews_yEVK9q",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
-    "timeline_hPy3D9",
+    "how_to_use_sambal_Q4kPNG",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]
