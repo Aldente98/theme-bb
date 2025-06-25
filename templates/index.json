@@ -544,7 +544,7 @@
             "stars_count": 5,
             "heading": "Hyper simple",
             "text": "Je le mélange direct dans mon café le matin, ça ne change ni le goût ni la texture. Franchement, c’est facile à prendre, et pas de goût bizarre comme certains compléments. Je ne saute jamais ma dose, c’est devenu un petit rituel.",
-            "author_date": "Sarah",
+            "author_date": "Véronique",
             "author_image": "shopify://shop_images/19.png"
           }
         },
@@ -577,15 +577,6 @@
             "author_date": "Josiane",
             "author_image": "shopify://shop_images/8ca6726d-c49a-4d24-9b15-6555e4359080.webp"
           }
-        },
-        "item_eMmm6r": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "",
-            "text": "",
-            "author_date": ""
-          }
         }
       },
       "block_order": [
@@ -594,8 +585,7 @@
         "item_xzFPXP",
         "item_9YbzCc",
         "item_AnFPdt",
-        "item_qJrynn",
-        "item_eMmm6r"
+        "item_qJrynn"
       ],
       "name": "SS - Testimonial #16",
       "settings": {
