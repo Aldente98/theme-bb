@@ -155,13 +155,13 @@
         "rating_text_height": 130,
         "rating_text_mt": 16,
         "rating_text_mt_mobile": 20,
-        "rating": 4.7,
+        "rating": 4.8,
         "rating_hide": false,
         "rating_text_hide": false,
         "stars_count": 5,
         "stars_size": 28,
         "stars_size_mobile": 24,
-        "text": "<p>basé sur +<strong>1 067</strong> avis</p>",
+        "text": "<p>basé sur + <strong>5 429 avis</strong></p>",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
@@ -449,10 +449,30 @@
         "collapsible_text_7JpyM7": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-love",
+            "icon": "picto-question",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Comment l'utiliser ?",
+            "content": "<h3>🗓️ <strong>Routine quotidienne :</strong></h3><p>• Mélanger <strong>1 dose (environ 10g)</strong> de Collanova dans un grand verre d’eau ou une boisson de votre choix<br/><br/>• À consommer <strong>de préférence le matin</strong> ou <strong>avant une activité physique</strong></p><h3>✅ <strong>Pour des résultats visibles :</strong></h3><p>• Prendre <strong>tous les jours sans interruption pendant au moins 30 jours</strong><br/><br/>• Les premiers effets sont généralement ressentis <strong>dès 2 à 3 semaines</strong>, mais les résultats optimaux apparaissent <strong>entre 6 et 12 semaines</strong></p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_FXtB8P": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "picto-box",
+            "icon_width": 20,
+            "title": "Détails du produit",
+            "content": "<h2>🧴 <strong>DÉTAIL DU PRODUIT</strong></h2><p>🍑 <strong>Ce que contient chaque portion :</strong><br/><br/>• 5 000 mg de collagène hydrolysé multi-types (I, II, III, V, X)<br/><br/>• 100 mg d’acide hyaluronique pur<br/><br/>• 250 mg de SOD B Dimpless® (extrait de melon anti-cellulite)<br/><br/>• 100 mg de fucoxanthine (brûleur naturel d’origine marine)<br/><br/>• 150 mg d’extrait de thé vert décaféiné<br/><br/>• 50 mg de Grains de Paradis (thermogénique naturel)<br/><br/>• 125 mg de Sensoril® (ashwagandha pour le stress et les fringales)<br/><br/>• 80 mg de vitamine C naturelle<br/><br/>• Arôme naturel (fruits rouges ou citron selon la version)</p><p>💪 <strong>Bienfaits :</strong><br/><br/>• Lisse visiblement la peau et réduit l’aspect de la cellulite<br/><br/>• Stimule la combustion naturelle des graisses<br/><br/>• Redonne tonicité et fermeté à la silhouette<br/><br/>• Favorise l’élasticité, l’hydratation et l’éclat de la peau<br/><br/>• Améliore la récupération musculaire et articulaire<br/><br/>• Réduit le stress et les envies de grignotage</p><p>🌿 <strong>Qualité garantie :</strong><br/><br/>• Sans OGM, sans gluten, sans sucre ajouté<br/><br/>• Sans conservateurs ni agents de remplissage<br/><br/>• Testé en laboratoire pour sa pureté<br/><br/>• Formule concentrée, plus puissante que la moyenne<br/><br/>• Fabriqué dans l’Union Européenne, selon les normes strictes<br/><br/>• Convient aux régimes keto & low-carb</p><p>📦 <strong>Stockage :</strong><br/><br/>• À conserver dans un endroit frais et sec<br/><br/>• Ne nécessite pas de réfrigération<br/><br/>• Refermer soigneusement après chaque utilisation</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_AMhQ3X": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "picto-happy",
+            "icon_width": 20,
+            "title": "Avantages clés",
+            "content": "<p>🌟 <strong>Peau raffermie & lissée</strong> :<br/><br/>• Aide à améliorer l’élasticité de la peau et à réduire visiblement l’apparence de la cellulite</p><p>🔥 <strong>Brûleur de graisse naturel</strong> :<br/><br/>• Stimule la thermogenèse et favorise la combustion des graisses stockées, même au repos</p><p>💧 <strong>Hydratation & éclat</strong> :<br/><br/>• L’acide hyaluronique et le collagène agissent en synergie pour repulper, hydrater et illuminer la peau de l’intérieur</p><p>🧘‍♀️ <strong>Réduction du stress & des fringales</strong> :<br/><br/>• Grâce à l’ashwagandha Sensoril®, réduit le cortisol, apaise les envies compulsives et aide à réguler l’appétit</p><p>🔋 <strong>Énergie et vitalité</strong> :<br/><br/>• Contribue à un regain d’énergie naturelle, sans caféine, idéal pour les femmes fatiguées ou en période de régime</p><p>🦴 <strong>Soutien articulaire & musculaire</strong> :<br/><br/>• Apporte des peptides essentiels à la réparation du tissu conjonctif et au confort articulaire</p><p>🛡️ <strong>Détox & drainage</strong> :<br/><br/>• Aide à l’élimination des toxines et favorise un meilleur équilibre digestif et métabolique</p><p>🍃 <strong>Beauté clean & efficacité prouvée</strong> :<br/><br/>• Actifs cliniquement étudiés (SOD B Dimpless®, Sensoril®), sans OGM, sans sucre, fabriqué en UE</p>",
             "page": ""
           }
         }
@@ -473,7 +493,9 @@
         "quantity-selector",
         "buy-buttons",
         "image_NnVtjL",
-        "collapsible_text_7JpyM7"
+        "collapsible_text_7JpyM7",
+        "collapsible_text_FXtB8P",
+        "collapsible_text_AMhQ3X"
       ],
       "settings": {
         "full_width": false,
@@ -491,71 +513,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "tabs_Waa9zt": {
-      "type": "tabs",
-      "blocks": {
-        "tab_kNhjBC": {
-          "type": "tab",
-          "settings": {
-            "title": "Contenu du Kit Micro-Infusion Sérum Lift Pro",
-            "content": "<p>Chaque kit de Micro-Infusion est conçu pour un nombre précis de traitements. Les embouts à micro-aiguilles sont <strong>stériles et utilisables 3 fois maximum, ils doivent être nettoyer et desinfecté entre chaque utilisation</strong>, garantissant une hygiène irréprochable et des résultats optimaux.</p><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 1 embouts stériles + 2 flacons de sérum (2 traitements)</li><li><strong>Cure de 2 mois</strong> : 2 embouts stériles + 4 flacons de sérum (4 traitements)</li><li><strong>Cure de 3 mois</strong> : 3 embouts stériles + 6 flacons de sérum (6 traitements)</li></ul><p></p>",
-            "page": ""
-          }
-        },
-        "tab_qpeWfc": {
-          "type": "tab",
-          "settings": {
-            "title": "Composition Sérum Peptide Ceralyne",
-            "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>",
-            "page": ""
-          }
-        },
-        "tab_GUd9zE": {
-          "type": "tab",
-          "settings": {
-            "title": "Est-ce indolore et sans danger ?",
-            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong> ! La plupart des utilisateurs ressentent simplement un léger picotement.</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>",
-            "page": ""
-          }
-        },
-        "tab_aQDKUA": {
-          "type": "tab",
-          "settings": {
-            "title": "30 jours Satisfait ou Remboursé",
-            "content": "<p>Essayer le kit anti âge ceralyne sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le retourner et vous recevrez <strong>un remboursement</strong>.</p>",
-            "page": ""
-          }
-        },
-        "tab_dkjrUh": {
-          "type": "tab",
-          "settings": {
-            "title": "Service Client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@ceralyne.fr</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_kNhjBC",
-        "tab_qpeWfc",
-        "tab_GUd9zE",
-        "tab_aQDKUA",
-        "tab_dkjrUh"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "text_alignment": "center",
-        "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "trust_pilot_reviews_yEVK9q": {
@@ -628,7 +585,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Our customers tell it better than we do!",
+        "heading": "98% de satisfaction clients",
         "heading_custom": false,
         "heading_font": "dm_sans_n4",
         "heading_size": 40,
@@ -648,7 +605,7 @@
         "stars_count": 5,
         "stars_size": 28,
         "stars_size_mobile": 24,
-        "text": "<p>based on <strong>1 067</strong> reviews</p>",
+        "text": "<p>basé sur + <strong>5429</strong> avis</p>",
         "text_custom": false,
         "text_font": "dm_sans_n4",
         "text_size": 20,
@@ -1134,7 +1091,6 @@
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
-    "tabs_Waa9zt",
     "trust_pilot_reviews_yEVK9q",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
