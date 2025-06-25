@@ -783,6 +783,19 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_XDL4dD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/24_20f852d6-a52b-49c6-bbe2-92631918f14f.png",
+            "column_size": "3",
+            "title": "Thé vert décaféiné",
+            "heading_tag": "h4",
+            "content": "<p>Source naturelle de catéchines, sans les effets excitants de la caféine.<br/> Favorise le <strong>drainage</strong>, aide à <strong>éliminer les toxines</strong> et <strong>stimule le métabolisme</strong>.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
@@ -790,7 +803,8 @@
         "item_xiaYUR",
         "item_dPL9Rr",
         "item_LV4cm8",
-        "item_6nijje"
+        "item_6nijje",
+        "item_XDL4dD"
       ],
       "settings": {
         "full_width": true,
