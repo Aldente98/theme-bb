@@ -853,7 +853,7 @@
         "richtext_t6DjJt": {
           "type": "richtext",
           "settings": {
-            "content": "<h2><strong>U</strong>ne renaissance<strong> en seulement 3 étapes</strong></h2>"
+            "content": "<h2><strong>U</strong>ne renaissance<strong> de votre corps en seulement 3 étapes</strong></h2>"
           }
         },
         "richtext_x7NCKi": {
@@ -874,6 +874,40 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "timeline_hPy3D9": {
+      "type": "timeline",
+      "blocks": {
+        "slide_Eg3kJm": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "1960",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "slide_RVcH7K": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "1966",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Eg3kJm",
+        "slide_RVcH7K"
+      ],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -1098,6 +1132,7 @@
     "trust_pilot_reviews_yEVK9q",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
+    "timeline_hPy3D9",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]
