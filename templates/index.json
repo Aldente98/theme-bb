@@ -967,15 +967,15 @@
         "item_RKyzeA": {
           "type": "item",
           "settings": {
-            "title": "Ce produit est-il automatiquement renouvelé et expédié chaque mois ?",
-            "content": "<p><strong>Non</strong>, le Micro Infusion Kit ne fait pas partie d’un programme de renouvellement automatique ou d’abonnement mensuel.<br/><br/>Chaque achat est une transaction unique, et les produits sont expédiés en fonction de cette commande.<br/><br/>Si vous souhaitez recevoir des kits supplémentaires à l'avenir, vous devrez passer une nouvelle commande à chaque fois.</p>"
+            "title": "Pourquoi pas juste une crème ou un massage ?",
+            "content": "<p>La <strong>cellulite vient de l’intérieur</strong>. Collanova agit <strong>là où les crèmes ne vont pas.</strong></p>"
           }
         },
         "item_MihJ8p": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ce produit aide à atténuer les rides très profondes ?",
-            "content": "<p>Oui, le Micro Infusion Kit peut améliorer l'apparence des rides profondes en stimulant la production de collagène et en hydratant la peau.<br/><br/>Cependant, il est important de noter que les résultats pour les rides très profondes peuvent mettre plus de temps à se manifester, généralement autour de 3 à 6 mois d’utilisation régulière.<br/><br/>La patience et des traitements constants sont essentiels pour observer des améliorations notables.</p>"
+            "title": "Est-ce que c’est vraiment naturel ?",
+            "content": "<p>Oui. <strong>Sans sucre, sans OGM, sans toxines.</strong> Clean & efficace.</p>"
           }
         },
         "item_GWJTCQ": {
