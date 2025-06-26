@@ -999,39 +999,11 @@
             "content": "<p>C’est mieux. Tu <strong>nourris ta peau de l’intérieur</strong>, naturellement.</p>"
           }
         },
-        "item_3EBPbR": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je utiliser le Micro Infusion Kit si j'ai déjà eu des injections cosmétiques?",
-            "content": "<p>Oui, vous pouvez utiliser le Micro Infusion Kit même si vous avez déjà eu des injections cosmétiques.</p><p>Cependant, il est préférable d'attendre au moins deux semaines après vos injections avant d'utiliser le kit.</p><p>Cela permet au produit injecté de se stabiliser et évite toute interférence potentielle avec les résultats.</p>"
-          }
-        },
         "item_D3yQPm": {
           "type": "item",
           "settings": {
             "title": "Quels sont les ingrédients ?",
-            "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>"
-          }
-        },
-        "item_8eKwAt": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je l'utiliser avec mon propre sérum ?",
-            "content": "<p>Nous ne recommandons pas d'utiliser le Micro Infusion Kit avec des sérums autres que celui fourni.</p><p>Le sérum inclus est spécialement formulé pour fonctionner en harmonie avec la technologie de microneedling du dispositif, garantissant une absorption et une efficacité optimales.</p>"
-          }
-        },
-        "item_V4HbrJ": {
-          "type": "item",
-          "settings": {
-            "title": "La Micro-infusion ceralyne peut-elle être utilisée en combinaison avec la thérapie par lumière rouge et les lasers RF ?",
-            "content": "<p>Oui, la Micro-Infusion ceralyne peut être combinée en toute sécurité avec des traitements comme la thérapie par lumière rouge ou la thérapie au laser RF.<br/><br/>Cependant, il est important de prévoir une période de récupération d’au moins deux nuits après l’utilisation de la Mincro-infusion ceralyne avant d’introduire ces thérapies. Cela permet à votre peau de se régénérer et optimise les bienfaits de tous les traitements.</p>"
-          }
-        },
-        "item_Bme77T": {
-          "type": "item",
-          "settings": {
-            "title": "Quelle surface couvre un traitement ? Est-ce suffisant pour le visage et le cou ?",
-            "content": "<p>Oui, il y a largement assez de sérum pour couvrir à la fois le visage et le cou lors de chaque traitement.<br/><br/>En fait, vous aurez probablement un peu de sérum excédentaire, que vous pourrez appliquer doucement sur votre visage ou votre cou après le traitement pour maximiser l'hydratation et l'absorption.</p>"
+            "content": "<p><br/>• 5 000 mg de collagène hydrolysé multi-types (I, II, III, V, X)<br/>• 100 mg d’acide hyaluronique pur<br/>• 250 mg de SOD B Dimpless® (extrait de melon anti-cellulite)<br/>• 100 mg de fucoxanthine (brûleur naturel d’origine marine)<br/>• 150 mg d’extrait de thé vert décaféiné<br/>• 50 mg de Grains de Paradis (thermogénique naturel)<br/>• 125 mg de Sensoril® (ashwagandha pour le stress et les fringales)<br/>• 80 mg de vitamine C naturelle<br/>• Arôme naturel (fruits rouges ou citron selon la version bientôt disponible)<br/><br/><strong>Notre cure est :</strong><br/>• Sans sucre ajouté<br/>• Sans OGM<br/>• Sans gluten<br/>• <strong>Sans additifs ni conservateurs artificiels</strong><br/>• <strong>100 % d’origine naturelle</strong><br/>• Arômes naturels uniquement<br/>• <strong>Non testée sur les animaux</strong><br/>• <strong>Convient aux régimes keto et low-carb</strong></p>"
           }
         }
       },
@@ -1052,11 +1024,7 @@
         "item_GWJTCQ",
         "item_DAfyn3",
         "item_VnHdN7",
-        "item_3EBPbR",
-        "item_D3yQPm",
-        "item_8eKwAt",
-        "item_V4HbrJ",
-        "item_Bme77T"
+        "item_D3yQPm"
       ],
       "settings": {
         "full_width": true,
