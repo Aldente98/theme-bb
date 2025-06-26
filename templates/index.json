@@ -988,8 +988,8 @@
         "item_DAfyn3": {
           "type": "item",
           "settings": {
-            "title": "Est-ce facile à utiliser ? Y a-t-il de bonnes instructions ?",
-            "content": "<p>Oui, le Micro Infusion Kit est simple et facile à utiliser, et chaque traitement ne prend que 5 à 10 minutes.<br/><br/>Chaque commande est accompagnée d'instructions vidéo claires et d'un manuel détaillé pour vous guider tout au long du processus, afin de vous assurer d'obtenir les meilleurs résultats.<br/><br/>Les instructions couvrent tout, de la préparation du dispositif à l'application du sérum et aux soins après traitement.<br/><br/>Même si vous êtes novice en matière de ce type de soin, vous trouverez les étapes faciles à suivre.</p>"
+            "title": "Et si j’arrête, tout revient ?",
+            "content": "<p>Non. Les <strong>effets sont cumulatifs</strong>. Mais comme tout, la régularité maximise les résultats.</p>"
           }
         },
         "item_VnHdN7": {
