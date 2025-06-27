@@ -98,7 +98,7 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "Des Résultats                        Visibles &Concrets",
+            "text": "Des Résultats Visibles & Concrets",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -352,9 +352,9 @@
           "settings": {
             "image": "shopify://shop_images/24.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Julie, 42 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>J’ai toujours eu de la cellulite, même à 58 kg et en faisant du sport.<br/>J’ai testé Collanova sans trop y croire… et en 3 semaines, mes cuisses ont changé.<br/>La peau est plus ferme, moins bosselée. J’ai osé remettre une jupe.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -441,6 +441,46 @@
         "item_dNgzJf": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/25.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TabBYC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/26.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_T6Qy7K": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/28.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rLiWb9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/27.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -459,7 +499,10 @@
         "item_th6UMT",
         "item_wjGGPg",
         "item_yWBJCJ",
-        "item_dNgzJf"
+        "item_dNgzJf",
+        "item_TabBYC",
+        "item_T6Qy7K",
+        "item_rLiWb9"
       ],
       "name": "Multi-column",
       "settings": {
