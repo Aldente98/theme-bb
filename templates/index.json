@@ -729,20 +729,51 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
+            "custom_icon": "shopify://shop_images/4_5d306d83-c07f-41bf-bc02-26259a8781cf.png",
+            "mobile_icon_width": 80,
+            "icon_width": 120,
+            "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
+            "title": "",
+            "content": "<h4><strong>Sans sucre</strong></h4>"
+          }
+        },
+        "item_CyzRPJ": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/5_bf1feea5-af95-4794-9369-6149b018faf2.png",
+            "mobile_icon_width": 80,
+            "icon_width": 120,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<h4><strong>Sans lactose</strong></h4>"
+          }
+        },
+        "item_h7LXCF": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/6_be564879-99c8-4899-ad8f-280c89d7bd5e.png",
+            "mobile_icon_width": 80,
+            "icon_width": 120,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<h4><strong>Sans OGM</strong></h4>"
           }
         }
       },
       "block_order": [
         "item_XmCCA8",
         "item_KyzEUc",
-        "item_XzJjcx"
+        "item_XzJjcx",
+        "item_CyzRPJ",
+        "item_h7LXCF"
       ],
       "name": "Text with icons",
       "settings": {
