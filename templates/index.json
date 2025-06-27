@@ -613,6 +613,10 @@
             "payment_button_text_color": ""
           }
         },
+        "payment_terms_JfKhQt": {
+          "type": "payment_terms",
+          "settings": {}
+        },
         "image_NnVtjL": {
           "type": "image",
           "settings": {
@@ -666,6 +670,7 @@
         "variant-picker",
         "quantity-selector",
         "buy-buttons",
+        "payment_terms_JfKhQt",
         "image_NnVtjL",
         "collapsible_text_7JpyM7",
         "collapsible_text_FXtB8P",
@@ -687,6 +692,69 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "text_with_icons_CrKgLK": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_XmCCA8": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Design_sans_titre_11.png",
+            "mobile_icon_width": 80,
+            "icon_width": 120,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<h4><strong>Sans caféine</strong><br/><br/></h4>"
+          }
+        },
+        "item_KyzEUc": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Design_sans_titre_12.png",
+            "mobile_icon_width": 80,
+            "icon_width": 120,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<h4><strong>sans gluten</strong></h4>"
+          }
+        },
+        "item_XzJjcx": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_XmCCA8",
+        "item_KyzEUc",
+        "item_XzJjcx"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "trust_pilot_reviews_yEVK9q": {
@@ -1243,6 +1311,7 @@
     "multi_column_BKPLPt",
     "multi_column_tDiATx",
     "featured-product",
+    "text_with_icons_CrKgLK",
     "trust_pilot_reviews_yEVK9q",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
