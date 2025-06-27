@@ -430,9 +430,9 @@
           "settings": {
             "image": "shopify://shop_images/23.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Isabelle, 53 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je pensais que c’était trop tard pour améliorer ma peau.<br/>Mais ma fille m’a parlé du collagène… j’ai testé Collanova.<br/>Résultat : peau plus ferme, moins fripée, et un visage plus lumineux.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
