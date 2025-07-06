@@ -1132,42 +1132,75 @@
         "text_color": ""
       }
     },
-    "rich_text_JEkECK": {
-      "type": "rich-text",
+    "media_with_text_TDQaKM": {
+      "type": "media-with-text",
       "blocks": {
-        "richtext_t6DjJt": {
-          "type": "richtext",
+        "image_tHcQLa": {
+          "type": "image",
           "settings": {
-            "content": "<h2><strong>U</strong>ne renaissance<strong> de votre corps en seulement 3 étapes</strong></h2>"
-          }
-        },
-        "richtext_x7NCKi": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Nos spécialistes recommandent <strong>un cure minimal de 1 mois</strong> pour des résultats optimaux.</p>"
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "richtext_t6DjJt",
-        "richtext_x7NCKi"
+        "image_tHcQLa"
       ],
-      "custom_css": [
-        ".section-full {padding-bottom: 0px;}"
-      ],
+      "name": "Media with text",
       "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
       }
     },
-    "how_to_use_sambal_Q4kPNG": {
-      "type": "how-to-use-sambal",
-      "name": "How to Use",
-      "settings": {}
+    "media_with_text_RbytT8": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_Wfebfq": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Wfebfq"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
     },
     "faq_MQHPPV": {
       "type": "faq",
@@ -1357,8 +1390,8 @@
     "text_with_icons_CrKgLK",
     "trust_pilot_reviews_yEVK9q",
     "multi_column_wTJTNc",
-    "rich_text_JEkECK",
-    "how_to_use_sambal_Q4kPNG",
+    "media_with_text_TDQaKM",
+    "media_with_text_RbytT8",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]
