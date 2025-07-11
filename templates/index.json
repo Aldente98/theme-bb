@@ -1258,7 +1258,7 @@
           "type": "item",
           "settings": {
             "title": "Comment je dois le prendre ?",
-            "content": "<p><strong>1 dose/jour</strong> dans ton café, jus ou eau. Facile, sans contrainte.</p>"
+            "content": "<p><strong>2 à 3 gélules/jour</strong> avec ton café, jus ou eau. Facile, sans contrainte.</p>"
           }
         },
         "item_6cJAWF": {
@@ -1300,7 +1300,7 @@
           "type": "item",
           "settings": {
             "title": "Ça a un goût bizarre ?",
-            "content": "<p>Non. Goût <strong>léger et agréable</strong>. Zéro arrière-goût.</p>"
+            "content": "<p>Non. pas de goût, gélules facile à avaler. Zéro arrière-goût.</p>"
           }
         },
         "item_DAfyn3": {
