@@ -939,22 +939,22 @@
         "item_mrg8b4": {
           "type": "item",
           "settings": {
-            "title": "Pourquoi ce prix ?",
-            "content": "<p>Chaque ingrédient est <strong>premium, breveté, dosé en laboratoire</strong>. Zéro remplissage inutile.</p>"
+            "title": "Quelle est la taille de la figurine ?",
+            "content": "<p>Environ <strong>8 à 10 cm</strong> (selon le modèle), facilement transportable dans un sac ou posée sur un bureau.</p>"
           }
         },
         "item_K9EhFR": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ça marche à mon âge (30,40, 50, 60+) ?",
-            "content": "<p>Justement. C’est là que <strong>le collagène et le métabolisme chutent</strong>. Collanova compense.</p>"
+            "title": "Peut-on offrir la box à quelqu’un ?",
+            "content": "<p>Oui ! Le packaging est soigné et prêt à offrir. Tu peux même laisser un message dans ta commande.</p>"
           }
         },
         "item_XY77ii": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que je vais perdre du poids ?",
-            "content": "<p>Tu perds <strong>du volume, de la rétention, de la graisse ciblée</strong>. Sans régime extrême.</p>"
+            "title": "Comment savoir si j’ai reçu un modèle rare ?",
+            "content": "<p>Chaque modèle est unique, mais certains sont édités en très petites quantités.</p>"
           }
         },
         "item_P6yRzh": {
