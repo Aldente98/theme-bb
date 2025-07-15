@@ -960,15 +960,15 @@
         "item_P6yRzh": {
           "type": "item",
           "settings": {
-            "title": "Comment je dois le prendre ?",
-            "content": "<p><strong>2 à 3 gélules/jour</strong> avec ton café, jus ou eau. Facile, sans contrainte.</p>"
+            "title": "Puis-je faire un retour si je n’aime pas le modèle ?",
+            "content": "<p>Non. Étant donné le principe de surprise et de rareté, <strong>aucun retour n’est accepté sauf produit endommagé</strong>.</p>"
           }
         },
         "item_6cJAWF": {
           "type": "item",
           "settings": {
-            "title": "Je peux le prendre avec d'autres compléments ?",
-            "content": "<p> Oui, sauf avis médical contraire. Formule <strong>douce et non stimulante</strong>.</p>"
+            "title": "Comment sont fabriquées les figurines ?",
+            "content": "<p>Nos créatures sont conçues en <strong>PVC doux</strong> ou en tissu peluche (selon les modèles), avec une finition soignée.<br/><br/>La production est réalisée en petite série avec nos partenaires en Asie.</p>"
           }
         },
         "item_3ydTfx": {
