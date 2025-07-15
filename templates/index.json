@@ -277,6 +277,46 @@
         "lazy": true
       }
     },
+    "rich_text_JAypN7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_URMLrQ": {
+          "type": "heading",
+          "settings": {
+            "text": "Vous + Labubu Stitch 💕",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "subheading_wrDgPY": {
+          "type": "subheading",
+          "settings": {
+            "text": "Merci pour votre confiance"
+          }
+        },
+        "richtext_tyJfHe": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Chaque jour des Labubu Stitch sont adopté par leur nouvelles familles, nous espérons que vous en prendrez le plus grand soin.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_URMLrQ",
+        "subheading_wrDgPY",
+        "richtext_tyJfHe"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
@@ -392,169 +432,6 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_tDiATx": {
-      "type": "multi-column",
-      "blocks": {
-        "item_M8GDaa": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Julie, 42 ans",
-            "heading_tag": "h4",
-            "content": "<p>J’ai toujours eu de la cellulite, même à 58 kg et en faisant du sport.<br/>J’ai testé Collanova sans trop y croire… et en 3 semaines, mes cuisses ont changé.<br/>La peau est plus ferme, moins bosselée. J’ai osé remettre une jupe.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Uw3PYf": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Amélie, 37 ans",
-            "heading_tag": "h4",
-            "content": "<p>Je grignotais dès que j’étais stressée. Résultat : ventre gonflé et moral à plat.<br/>Avec Collanova, je me sens plus stable, plus calme, et je mange plus sainement.<br/>Mon ventre est moins gonflé, mon énergie plus constante.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_6xwnfd": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Céline, 48 ans",
-            "heading_tag": "h4",
-            "content": "<p>Je me réveillais lourde, gonflée, les jambes comme remplies d’eau.<br/>En 2 semaines, j’ai vu la différence. Drainage, digestion, légèreté.<br/>Je me sens mieux dans mes pantalons, même sans régime.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_hXUTUn": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Claire, 51 ans",
-            "heading_tag": "h4",
-            "content": "<p>La ménopause a tout changé : relâchement, fatigue, silhouette floue.<br/>J’ai cherché une solution douce et naturelle. Collanova m’a bluffée.<br/>Ma peau est plus tonique, mon énergie est revenue, et je me sens revivre.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_th6UMT": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Elodie, 39 ans",
-            "heading_tag": "h4",
-            "content": "<p>J’en avais marre des compléments qui promettent tout.<br/>Mais Collanova… c’est la première fois que je vois un vrai résultat.<br/>Ma peau, mes ongles, mes cheveux : tout est reparti de zéro, mais en mieux.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_wjGGPg": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Vanessa, 45 ans",
-            "heading_tag": "h4",
-            "content": "<p>Je suis mince mais j’avais toujours cette cellulite visible sur les fesses.<br/>Depuis Collanova, ma peau est plus dense, plus tendue.<br/>J’ai enfin arrêté de cacher mes jambes tout l’été.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yWBJCJ": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Isabelle, 53 ans",
-            "heading_tag": "h4",
-            "content": "<p>Je pensais que c’était trop tard pour améliorer ma peau.<br/>Mais ma fille m’a parlé du collagène… j’ai testé Collanova.<br/>Résultat : peau plus ferme, moins fripée, et un visage plus lumineux.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_dNgzJf": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Sabrina, 36 ans",
-            "heading_tag": "h4",
-            "content": "<p>Je me sentais éteinte. Gonflée, fatiguée, stressée du matin au soir.<br/>En un mois, Collanova a changé ma routine. J’ai retrouvé un vrai élan.<br/>Ma peau respire, mon ventre est plat, et mon mental est plus clair.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_TabBYC": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Aurélie, 41 ans",
-            "heading_tag": "h4",
-            "content": "<p>Je perdais mes cheveux à la poignée, mes ongles se dédoublaient.<br/>Collanova a été un déclic. En 4 semaines, tout s’est renforcé.<br/>Je sens que mon corps est nourri de l’intérieur.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_T6Qy7K": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Karine, 46 ans",
-            "heading_tag": "h4",
-            "content": "<p>J’avais honte de mes jambes, même en été.<br/>Aujourd’hui, après 6 semaines avec Collanova, je les assume enfin.<br/>Ma peau est lissée, mon reflet me fait moins peur.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_rLiWb9": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Nathalie, 50 ans",
-            "heading_tag": "h4",
-            "content": "<p>J’étais sceptique, comme toujours. Mais je voulais essayer une dernière fois.<br/>Aujourd’hui, j’ai gagné en fermeté, en confiance, et en bien-être.<br/>C’est discret, mais profond. Et ça change tout.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_M8GDaa",
-        "item_Uw3PYf",
-        "item_6xwnfd",
-        "item_hXUTUn",
-        "item_th6UMT",
-        "item_wjGGPg",
-        "item_yWBJCJ",
-        "item_dNgzJf",
-        "item_TabBYC",
-        "item_T6Qy7K",
-        "item_rLiWb9"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "Vous + Labubu Stitch 💕",
-        "content": "<h4><strong>Votre confiance est notre plus belle récompense.</strong></h4><h5><br/>Merci à toutes celles qui transforment leur routine avec Collanova, jour après jour.<br/><br/></h5>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -963,6 +840,7 @@
         "image_tHcQLa": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Labubu-Stitch-4-510x510.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -1209,8 +1087,8 @@
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
     "trust_pilot_reviews_AxNB3A",
+    "rich_text_JAypN7",
     "multi_column_BKPLPt",
-    "multi_column_tDiATx",
     "featured-product",
     "text_with_icons_CrKgLK",
     "trust_pilot_reviews_yEVK9q",
