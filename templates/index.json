@@ -377,7 +377,7 @@
           "settings": {
             "image": "shopify://shop_images/10.png",
             "column_size": "3",
-            "title": "Caroline,32 ans",
+            "title": "Caroline, 32 ans",
             "heading_tag": "h4",
             "content": "<p>“Ma fille a inventé une histoire entière autour de sa petite créature. Elle ne la lâche plus. C’est mignon, ça stimule l’imagination, et le packaging est adorable.”</p>",
             "link_url": "",
@@ -390,7 +390,7 @@
           "settings": {
             "image": "shopify://shop_images/13.png",
             "column_size": "3",
-            "title": "Marie",
+            "title": "Marie, 33ans",
             "heading_tag": "h4",
             "content": "<p><em>“J’avoue, c’était censé être un cadeau pour mon fils. Mais j’ai craqué moi aussi. On a ouvert la boîte ensemble, et c’était un vrai moment complice. Trop cute.”</em></p>",
             "link_url": "",
