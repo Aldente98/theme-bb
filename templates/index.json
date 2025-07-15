@@ -555,7 +555,7 @@
           "settings": {
             "icon": "picto-question",
             "icon_width": 20,
-            "title": "Comment l'utiliser ?",
+            "title": "Pourquoi l’adopter ?",
             "content": "<h3>🗓️ <strong>Routine quotidienne (Format Capsules)</strong></h3><p><strong>• Prendre 2 capsules par jour</strong> avec un grand verre d’eau, de préférence le matin ou avant une activité physique.</p><h3>✅ <strong>Pour des résultats visibles :</strong></h3><p><strong>• À consommer quotidiennement sans interruption pendant au moins 30 jours</strong><br/><br/><strong>• Les premiers effets sont souvent ressentis entre 2 et 3 semaines</strong><br/><br/><strong>• Les résultats les plus visibles apparaissent entre 6 et 12 semaines</strong></p>",
             "page": ""
           }
@@ -840,7 +840,7 @@
         "image_tHcQLa": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Labubu-Stitch-4-510x510.jpg",
+            "image": "shopify://shop_images/Untitled_design_1.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -876,6 +876,7 @@
         "image_Wfebfq": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Untitled_design_2.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",

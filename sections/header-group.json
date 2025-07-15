@@ -41,13 +41,21 @@
             "text": "LIVRAISON OFFERTE",
             "url": ""
           }
+        },
+        "message_HLwFgX": {
+          "type": "message",
+          "settings": {
+            "text": "SEULEMENT 500 EXEMPLAIRES",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
         "message_h3JjH9",
         "message_XbYwYf",
-        "message_fmnkC9"
+        "message_fmnkC9",
+        "message_HLwFgX"
       ],
       "settings": {
         "enable_sticky": false,
@@ -66,7 +74,6 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/OFFRE_LIMIT_800_x_800_px_300_x_76_px_4.png",
         "logo_max_width": 220,
         "logo_mobile_max_width": 135,
         "menu": "main-menu",
