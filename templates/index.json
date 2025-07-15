@@ -851,14 +851,14 @@
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
-            "icon": "none",
+            "icon": "picto-jewelry",
             "icon_width": 48,
             "subheading": "",
             "title": "",
             "content": "<h4><br/>Une pièce de collection, pas un simple objet<br/><br/></h4><h6><br/>Chaque modèle est sélectionné à l’aveugle, pour recréer l’excitation de la découverte.<br/><br/>Ce n’est pas une peluche. Ce n’est pas un jouet.<br/><br/>C’est une édition limitée, pensée pour ceux qui veulent posséder ce que les autres n’ont pas.<br/><br/></h6>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#ff94cc",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
@@ -880,21 +880,21 @@
     "media_with_text_RbytT8": {
       "type": "media-with-text",
       "blocks": {
-        "image_Wfebfq": {
+        "image_XpN6fd": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Untitled_design_2.webp",
             "media_width": 50,
-            "media_position": "end",
+            "media_position": "start",
             "text_position": "place-self-center text-center",
-            "icon": "none",
+            "icon": "picto-love",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Laissez vous surprendre",
+            "content": "<p>Vous ne savez pas laquelle vous recevrez. Et c’est ce qui rend l’expérience unique.</p><p> Chaque créature est rare, imprévisible, et pourtant… dès qu’elle arrive, elle trouve sa place.<br/></p>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#ff94cc",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
@@ -904,7 +904,7 @@
         }
       },
       "block_order": [
-        "image_Wfebfq"
+        "image_XpN6fd"
       ],
       "name": "Media with text",
       "settings": {
