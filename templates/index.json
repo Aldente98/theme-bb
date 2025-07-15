@@ -970,62 +970,6 @@
             "title": "Comment sont fabriquées les figurines ?",
             "content": "<p>Nos créatures sont conçues en <strong>PVC doux</strong> ou en tissu peluche (selon les modèles), avec une finition soignée.<br/><br/>La production est réalisée en petite série avec nos partenaires en Asie.</p>"
           }
-        },
-        "item_3ydTfx": {
-          "type": "item",
-          "settings": {
-            "title": "Je suis en périménopause/menopause, c’est compatible ?",
-            "content": "<p>Oui, c’est <strong>parfaitement adapté</strong> : peau, fatigue, cellulites, hormones, fringales.</p>"
-          }
-        },
-        "item_QbyjD9": {
-          "type": "item",
-          "settings": {
-            "title": "Et si je suis fatiguée, stressée, ballonnée ?",
-            "content": "<p>Collanova agit aussi là-dessus : <strong>moins de cortisol, ventre plus plat, plus d’énergie.</strong></p>"
-          }
-        },
-        "item_RKyzeA": {
-          "type": "item",
-          "settings": {
-            "title": "Pourquoi pas juste une crème ou un massage ?",
-            "content": "<p>La <strong>cellulite vient de l’intérieur</strong>. Collanova agit <strong>là où les crèmes ne vont pas.</strong></p>"
-          }
-        },
-        "item_MihJ8p": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que c’est vraiment naturel ?",
-            "content": "<p>Oui. <strong>Sans sucre, sans OGM, sans toxines.</strong> Clean & efficace.</p>"
-          }
-        },
-        "item_GWJTCQ": {
-          "type": "item",
-          "settings": {
-            "title": "Ça a un goût bizarre ?",
-            "content": "<p>Non. pas de goût, gélules facile à avaler. Zéro arrière-goût.</p>"
-          }
-        },
-        "item_DAfyn3": {
-          "type": "item",
-          "settings": {
-            "title": "Et si j’arrête, tout revient ?",
-            "content": "<p>Non. Les <strong>effets sont cumulatifs</strong>. Mais comme tout, la régularité maximise les résultats.</p>"
-          }
-        },
-        "item_VnHdN7": {
-          "type": "item",
-          "settings": {
-            "title": "Ça remplace une routine beauté ?",
-            "content": "<p>C’est mieux. Tu <strong>nourris ta peau de l’intérieur</strong>, naturellement.</p>"
-          }
-        },
-        "item_D3yQPm": {
-          "type": "item",
-          "settings": {
-            "title": "Quels sont les ingrédients ?",
-            "content": "<p><br/>• 5 000 mg de collagène hydrolysé multi-types (I, II, III, V, X)<br/>• 100 mg d’acide hyaluronique pur<br/>• 250 mg de SOD B Dimpless® (extrait de melon anti-cellulite)<br/>• 100 mg de fucoxanthine (brûleur naturel d’origine marine)<br/>• 150 mg d’extrait de thé vert décaféiné<br/>• 50 mg de Grains de Paradis (thermogénique naturel)<br/>• 125 mg de Sensoril® (ashwagandha pour le stress et les fringales)<br/>• 80 mg de vitamine C naturelle<br/>• Arôme naturel (fruits rouges ou citron selon la version bientôt disponible)<br/><br/><strong>Notre cure est :</strong><br/>• Sans sucre ajouté<br/>• Sans OGM<br/>• Sans gluten<br/>• <strong>Sans additifs ni conservateurs artificiels</strong><br/>• <strong>100 % d’origine naturelle</strong><br/>• Arômes naturels uniquement<br/>• <strong>Non testée sur les animaux</strong><br/>• <strong>Convient aux régimes keto et low-carb</strong></p>"
-          }
         }
       },
       "block_order": [
@@ -1037,15 +981,7 @@
         "item_K9EhFR",
         "item_XY77ii",
         "item_P6yRzh",
-        "item_6cJAWF",
-        "item_3ydTfx",
-        "item_QbyjD9",
-        "item_RKyzeA",
-        "item_MihJ8p",
-        "item_GWJTCQ",
-        "item_DAfyn3",
-        "item_VnHdN7",
-        "item_D3yQPm"
+        "item_6cJAWF"
       ],
       "settings": {
         "full_width": true,
