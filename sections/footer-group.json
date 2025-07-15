@@ -93,15 +93,15 @@
           "settings": {
             "image_width": 140,
             "heading_size": "h5",
-            "title": "Inscrivez-vous à la newsletter et recevez nos meilleures astuces pour améliorer votre sommeil et vos matins !",
+            "title": "Inscrivez-vous à la newsletter !",
             "content": ""
           }
         },
         "text_NFWGEM": {
           "type": "text",
           "settings": {
-            "title": "Notre mission",
-            "content": "<h6>Notre mission est simple: Vous offrir un      réveil <strong>plus doux, un sommeil plus réparateur, </strong>et <strong>une meilleure qualité de vie pour vous, votre couple et votre famille.</strong></h6>",
+            "title": "",
+            "content": "<h6>Nous ne sommes pas affilié à Pop Mart ni a Disney.</h6>",
             "enable_follow_on_shop": false
           }
         },
