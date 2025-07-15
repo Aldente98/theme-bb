@@ -425,7 +425,7 @@
         ".section-full {padding-top: 0px;}"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
@@ -534,15 +534,15 @@
             "product": "{{section.settings.product}}"
           }
         },
-        "buy-buttons": {
+        "buy_buttons_KQgEUN": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#803cee",
-            "atc_button_text_color": "#1a1a1a",
-            "payment_button_background": "#f0c417",
-            "payment_button_text_color": ""
+            "atc_button_background": "#1a1a1a",
+            "atc_button_text_color": "#803cee",
+            "payment_button_background": "#803cee",
+            "payment_button_text_color": "#803cee"
           }
         },
         "liquid_NnNFhj": {
@@ -609,7 +609,7 @@
         "variant-picker",
         "quantity-selector",
         "kaching_bundles_app_block_Wrb9bG",
-        "buy-buttons",
+        "buy_buttons_KQgEUN",
         "liquid_NnNFhj",
         "payment_terms_JfKhQt",
         "image_NnVtjL",
