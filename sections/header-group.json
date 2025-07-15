@@ -64,8 +64,8 @@
     "header": {
       "type": "header",
       "settings": {
-        "enable_sticky": false,
-        "hide_on_scroll": false,
+        "enable_sticky": true,
+        "hide_on_scroll": true,
         "logo_max_width": 220,
         "logo_mobile_max_width": 135,
         "menu": "main-menu",
@@ -79,7 +79,7 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
-        "transparent_header_text_color": "rgba(0,0,0,0)",
+        "transparent_header_text_color": "#1a1a1a",
         "reduce_padding": false,
         "background_opacity": 0,
         "background_blur_radius": 0
