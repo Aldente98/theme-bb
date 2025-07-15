@@ -15,7 +15,7 @@
         "heading_MhViyM": {
           "type": "heading",
           "settings": {
-            "text": "Une  créature qui vous choisit !",
+            "text": "Gagnez un compagnon pour la vie !",
             "heading_tag": "h1"
           }
         }
@@ -33,7 +33,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_opacity": 14
       }
     },
     "logo_list_4BjWGF": {
