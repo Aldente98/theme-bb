@@ -569,10 +569,10 @@
         "collapsible_text_FXtB8P": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-box",
+            "icon": "picto-love",
             "icon_width": 20,
             "title": "Ce qui le rend unique",
-            "content": "",
+            "content": "<p>💎 Chaque figurine est rare et différente<br/><br/>🧬 Aucune n’est choisie à l’avance, elles sont toutes surprises<br/><br/>📦 Le plaisir de recevoir un objet attachant, sans savoir lequel</p>",
             "page": ""
           }
         },
@@ -581,8 +581,8 @@
           "settings": {
             "icon": "picto-happy",
             "icon_width": 20,
-            "title": "Avantages clés",
-            "content": "<p>🌟 <strong>Peau raffermie & lissée</strong> :<br/><br/>• Aide à améliorer l’élasticité de la peau et à réduire visiblement l’apparence de la cellulite</p><p>🔥 <strong>Brûleur de graisse naturel</strong> :<br/><br/>• Stimule la thermogenèse et favorise la combustion des graisses stockées, même au repos</p><p>💧 <strong>Hydratation & éclat</strong> :<br/><br/>• L’acide hyaluronique et le collagène agissent en synergie pour repulper, hydrater et illuminer la peau de l’intérieur</p><p>🧘‍♀️ <strong>Réduction du stress & des fringales</strong> :<br/><br/>• Grâce à l’ashwagandha Sensoril®, réduit le cortisol, apaise les envies compulsives et aide à réguler l’appétit</p><p>🔋 <strong>Énergie et vitalité</strong> :<br/><br/>• Contribue à un regain d’énergie naturelle, sans caféine, idéal pour les femmes fatiguées ou en période de régime</p><p>🦴 <strong>Soutien articulaire & musculaire</strong> :<br/><br/>• Apporte des peptides essentiels à la réparation du tissu conjonctif et au confort articulaire</p><p>🛡️ <strong>Détox & drainage</strong> :<br/><br/>• Aide à l’élimination des toxines et favorise un meilleur équilibre digestif et métabolique</p><p>🍃 <strong>Beauté clean & efficacité prouvée</strong> :<br/><br/>• Actifs cliniquement étudiés (SOD B Dimpless®, Sensoril®), sans OGM, sans sucre, fabriqué en UE</p>",
+            "title": "Pourquoi vous allez l’aimer ?",
+            "content": "<ul><li>Parce qu’elle ne se choisit pas… et c’est justement ce qui crée le lien.</li><li>Parce qu’elle est mignonne, différente de tout ce que tu possèdes</li><li>Parce qu’elle est rare, douce et silencieuse  comme un secret bien gardé</li><li>Parce qu’elle n’est pas parfaite  elle est bizarre, touchante, et c’est ça qui la rend unique.<br/><br/></li></ul><p><br/></p><p></p>",
             "page": ""
           }
         }
