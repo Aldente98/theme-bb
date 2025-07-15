@@ -280,25 +280,25 @@
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
-        "item_7BdeiK": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Julie, 37 ans",
-            "heading_tag": "h4",
-            "content": "<p>\"Chaque année, la même angoisse : plage, maillots, jambes découvertes. Je passais des heures à me camoufler, à fuir les miroirs. J’en avais honte. J’ai testé ce produit sans trop y croire… et pourtant. En un mois, j’ai vu ma peau changer. Pour la première fois depuis 15 ans, j’ai porté un short sans pleurer avant.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_JJLm4U": {
           "type": "item",
           "settings": {
             "column_size": "3",
             "title": "Aurélie, 28 ans",
             "heading_tag": "h4",
-            "content": "<p>\"Mon ex me disait que j’avais une peau de grand-mère<br/>Ça m’a détruite. J’évitais la lumière, je mettais des collants même l’été. J’avais tout essayé. Ce collagène a changé quelque chose que je croyais irréversible. Ma peau est plus lisse, je la touche sans dégoût. Ce n’est pas qu’un produit, c’est une délivrance.\"</p>",
+            "content": "<p>“J’ai commandé pour ma fille mais… j’en ai pris un pour moi aussi 😅. C’est trop mignon, on s’est amusées à les ouvrir ensemble comme un rituel. Très belle surprise.”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7BdeiK": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Julie, 37 ans",
+            "heading_tag": "h4",
+            "content": "<p>“Je l’ai offert à mon fils qui adore Stitch… il a dormi avec dès le premier soir ! La qualité est top, et il a adoré l’effet surprise de la boîte mystère.”</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -310,7 +310,7 @@
             "column_size": "3",
             "title": "Sophie, 40 ans",
             "heading_tag": "h4",
-            "content": "<p><em>\"Je ne me supportais plus. Les creux, les bosses, la texture flasque… J’étais jeune, mais je me sentais vieille dans mon corps. Depuis 6 semaines, je vois une vraie différence. Ma cellulite fond à vue d’œil. Et surtout, je recommence à me regarder avec tendresse.\"</em></p>",
+            "content": "<p>Je m’attendais à un gadget, mais non. C’est bien fait, doux, et ça me rassure le soir. J’ai même nommé le mien 'Nubi'. Je recommande grave.”</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -330,8 +330,8 @@
         }
       },
       "block_order": [
-        "item_7BdeiK",
         "item_JJLm4U",
+        "item_7BdeiK",
         "item_GECyWQ",
         "item_MwJML3"
       ],
@@ -700,66 +700,6 @@
     },
     "text_with_icons_CrKgLK": {
       "type": "text-with-icons",
-      "blocks": {
-        "item_KyzEUc": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 80,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": "<h4><strong>sans gluten</strong></h4>"
-          }
-        },
-        "item_XzJjcx": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 80,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": "<h4><strong>Sans sucre</strong></h4>"
-          }
-        },
-        "item_CyzRPJ": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 80,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": "<h4><strong>Sans lactose</strong></h4>"
-          }
-        },
-        "item_h7LXCF": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 80,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": "<h4><strong>Sans OGM</strong></h4>"
-          }
-        }
-      },
-      "block_order": [
-        "item_KyzEUc",
-        "item_XzJjcx",
-        "item_CyzRPJ",
-        "item_h7LXCF"
-      ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
       ],
