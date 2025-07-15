@@ -11,13 +11,24 @@
   "sections": {
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_MhViyM": {
+          "type": "heading",
+          "settings": {
+            "text": "Une  créature qui vous choisit !",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MhViyM"
+      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/FACILITE_LA_PERTE_DE_POIDS_1.png",
-        "mobile_image": "shopify://shop_images/FACILITE_LA_PERTE_DE_POIDS_1.png",
+        "image": "shopify://shop_images/Ontwerp_zonder_titel_7.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,23 +42,23 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.webp",
-            "logo_width": 170,
+            "logo": "shopify://shop_images/1.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.webp",
-            "logo_width": 200,
+            "logo": "shopify://shop_images/3.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-seo.webp",
+            "logo": "shopify://shop_images/2.png",
             "logo_width": 160,
             "link": ""
           }
@@ -55,7 +66,7 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.webp",
+            "logo": "shopify://shop_images/4.png",
             "logo_width": 230,
             "link": ""
           }
@@ -83,12 +94,12 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
+        "heading_color": "#ffffff",
         "heading_gradient": "",
-        "logo_item_background": "",
+        "logo_item_background": "#ffffff",
         "logo_item_border": ""
       }
     },
@@ -124,8 +135,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Comble_les_creux_Elimine_les_poches_et_les_cernes_offrant_un_regard_frais_et_repose_5.png",
-        "mobile_image": "shopify://shop_images/Comble_les_creux_Elimine_les_poches_et_les_cernes_offrant_un_regard_frais_et_repose_5.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -141,7 +150,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Elles en parlent mieux que nous...",
+        "heading": "Rejoignez le club des privilégiée",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 40,
@@ -272,7 +281,6 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/14.png",
             "column_size": "3",
             "title": "Julie, 37 ans",
             "heading_tag": "h4",
@@ -285,7 +293,6 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/15.png",
             "column_size": "3",
             "title": "Aurélie, 28 ans",
             "heading_tag": "h4",
@@ -298,7 +305,6 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/16.png",
             "column_size": "3",
             "title": "Sophie, 40 ans",
             "heading_tag": "h4",
@@ -311,7 +317,6 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/17.png",
             "column_size": "3",
             "title": "Nathalie, 35 ans",
             "heading_tag": "h4",
@@ -350,7 +355,6 @@
         "item_M8GDaa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/24.png",
             "column_size": "3",
             "title": "Julie, 42 ans",
             "heading_tag": "h4",
@@ -363,7 +367,6 @@
         "item_Uw3PYf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/18.png",
             "column_size": "3",
             "title": "Amélie, 37 ans",
             "heading_tag": "h4",
@@ -376,7 +379,6 @@
         "item_6xwnfd": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/22.png",
             "column_size": "3",
             "title": "Céline, 48 ans",
             "heading_tag": "h4",
@@ -389,7 +391,6 @@
         "item_hXUTUn": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/21.png",
             "column_size": "3",
             "title": "Claire, 51 ans",
             "heading_tag": "h4",
@@ -402,7 +403,6 @@
         "item_th6UMT": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/19.png",
             "column_size": "3",
             "title": "Elodie, 39 ans",
             "heading_tag": "h4",
@@ -415,7 +415,6 @@
         "item_wjGGPg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/20.png",
             "column_size": "3",
             "title": "Vanessa, 45 ans",
             "heading_tag": "h4",
@@ -428,7 +427,6 @@
         "item_yWBJCJ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/23.png",
             "column_size": "3",
             "title": "Isabelle, 53 ans",
             "heading_tag": "h4",
@@ -441,7 +439,6 @@
         "item_dNgzJf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/25.png",
             "column_size": "3",
             "title": "Sabrina, 36 ans",
             "heading_tag": "h4",
@@ -454,7 +451,6 @@
         "item_TabBYC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/26.png",
             "column_size": "3",
             "title": "Aurélie, 41 ans",
             "heading_tag": "h4",
@@ -467,7 +463,6 @@
         "item_T6Qy7K": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/28.png",
             "column_size": "3",
             "title": "Karine, 46 ans",
             "heading_tag": "h4",
@@ -480,7 +475,6 @@
         "item_rLiWb9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/27.png",
             "column_size": "3",
             "title": "Nathalie, 50 ans",
             "heading_tag": "h4",
@@ -535,7 +529,6 @@
         "image_zRKGyJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Ajouter_un_titre.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -706,25 +699,10 @@
     "text_with_icons_CrKgLK": {
       "type": "text-with-icons",
       "blocks": {
-        "item_XmCCA8": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/Design_sans_titre_11.png",
-            "mobile_icon_width": 80,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": "<h4><strong>Sans caféine</strong><br/><br/></h4>"
-          }
-        },
         "item_KyzEUc": {
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/Design_sans_titre_12.png",
             "mobile_icon_width": 80,
             "icon_width": 120,
             "icon_background_type": "none",
@@ -738,7 +716,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/4_5d306d83-c07f-41bf-bc02-26259a8781cf.png",
             "mobile_icon_width": 80,
             "icon_width": 120,
             "icon_background_type": "none",
@@ -752,7 +729,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/5_bf1feea5-af95-4794-9369-6149b018faf2.png",
             "mobile_icon_width": 80,
             "icon_width": 120,
             "icon_background_type": "none",
@@ -766,7 +742,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/6_be564879-99c8-4899-ad8f-280c89d7bd5e.png",
             "mobile_icon_width": 80,
             "icon_width": 120,
             "icon_background_type": "none",
@@ -778,7 +753,6 @@
         }
       },
       "block_order": [
-        "item_XmCCA8",
         "item_KyzEUc",
         "item_XzJjcx",
         "item_CyzRPJ",
@@ -809,8 +783,7 @@
             "stars_count": 5,
             "heading": "Transformation totale 😍",
             "text": "J’ai commencé Collanova pour la cellulite… et j’ai eu bien plus que ça. En 1 mois, ma peau est nettement plus lisse, mon ventre dégonflé, et mes jambes raffermies. Même mes cheveux poussent plus vite et tombent moins !Je me sens plus tonique, plus légère, avec plus d’énergie au réveil. C’est devenu mon rituel beauté du matin.",
-            "author_date": "Valérie",
-            "author_image": "shopify://shop_images/Photo_Apr_01_1_44_59_PM_200x200_dc1eadaa-20e9-4913-bfd4-0603098d44d4.jpg"
+            "author_date": "Valérie"
           }
         },
         "item_CCbkPy": {
@@ -819,8 +792,7 @@
             "stars_count": 5,
             "heading": "Je recommande.",
             "text": "Je ne m’attendais pas à un résultat aussi visible : ma peau est plus ferme, mes cuisses sont moins marquées par la cellulite, et même mon teint est plus lumineux. En plus, j’ai remarqué moins de chute de cheveux et un vrai coup de boost au quotidien. Un rituel simple… et franchement efficace.",
-            "author_date": "Sandrine",
-            "author_image": "shopify://shop_images/review4_200x200_3d2f3fcc-b2b8-420a-adf5-b1ce3500fe1a.jpg"
+            "author_date": "Sandrine"
           }
         },
         "item_xzFPXP": {
@@ -829,8 +801,7 @@
             "stars_count": 5,
             "heading": "Hyper simple",
             "text": "Je le mélange direct dans mon café le matin, ça ne change ni le goût ni la texture. Franchement, c’est facile à prendre, et pas de goût bizarre comme certains compléments. Je ne saute jamais ma dose, c’est devenu un petit rituel.",
-            "author_date": "Véronique",
-            "author_image": "shopify://shop_images/19.png"
+            "author_date": "Véronique"
           }
         },
         "item_9YbzCc": {
@@ -839,8 +810,7 @@
             "stars_count": 5,
             "heading": "Meilleur investissement !!",
             "text": "C’est le seul complément où j’ai vu une vraie différence : peau plus lisse, ventre plus plat, et cellulite atténuée en quelques semaines .Et pour le prix, franchement, c’est plus que rentable vu les résultats",
-            "author_date": "Nathalie",
-            "author_image": "shopify://shop_images/dbb40777-21f8-4f0a-978b-96f8d5cd9aa0_200x200_2dc2c815-df5f-4906-a607-77ea0e5340dd.jpg"
+            "author_date": "Nathalie"
           }
         },
         "item_AnFPdt": {
@@ -849,8 +819,7 @@
             "stars_count": 5,
             "heading": "J'étais sceptique mais...",
             "text": "À mon âge, je suis devenue méfiante avec ce genre de produits…Mais Collanova m’a bluffée : ma peau est plus tonique, la cellulite a clairement diminué, et je sens un vrai mieux au niveau de mes articulations. Même mes cheveux tombent moins, et j’ai retrouvé un peu plus d’énergie le matin. Je regrette de ne pas l’avoir essayé plus tôt.",
-            "author_date": "Françoise",
-            "author_image": "shopify://shop_images/575c2e15-da37-442c-9c0d-1e5482db829a.webp"
+            "author_date": "Françoise"
           }
         },
         "item_qJrynn": {
@@ -859,8 +828,7 @@
             "stars_count": 5,
             "heading": "Après des heures de recherche et de doute",
             "text": "J’ai passé des heures à lire des avis, à comparer les compositions, même à consulter des études sur le collagène et le SOD Et franchement, Collanova coche toutes les cases. Au bout d’un mois :ma cellulite est moins visible, ma peau est plus ferme, mes ongles ne cassent plus, mes cheveux sont plus brillants, et j’ai perdu ce petit gonflement au niveau du ventre. Je me sens plus légère, plus confiante. Une vraie découverte.",
-            "author_date": "Josiane",
-            "author_image": "shopify://shop_images/8ca6726d-c49a-4d24-9b15-6555e4359080.webp"
+            "author_date": "Josiane"
           }
         }
       },
@@ -999,137 +967,6 @@
         "content_width": 120,
         "border_thickness": 0,
         "lazy": true
-      }
-    },
-    "multi_column_wTJTNc": {
-      "type": "multi-column",
-      "blocks": {
-        "item_QdbeiM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/17_4274972a-edd8-47f2-97cb-81672b3e9fa9.png",
-            "column_size": "3",
-            "title": "SOD B Dimpless®                                              (extrait de melon anti-cellulite)",
-            "heading_tag": "h4",
-            "content": "<p><strong>SOD B Dimpless®</strong> est un extrait de melon breveté, cliniquement prouvé pour <strong>réduire la cellulite</strong>. Il protège les fibres de collagène, <strong>raffermit la peau</strong>, stimule le drainage et aide à lisser visiblement les zones comme les cuisses, les fesses et le ventre.<br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_xiaYUR": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/16_932320fc-52ed-4b11-9c35-da5487b8d51e.png",
-            "column_size": "3",
-            "title": "Collagène multi-types",
-            "heading_tag": "h4",
-            "content": "<p>Le collagène est la protéine qui maintient la peau ferme, élastique et dense.<br/>En combinant 5 types différents <strong>(I, II, III, V, X)</strong>, cette formule agit sur la <strong>peau, les articulations, les cheveux et les ongles</strong>.<br/><strong>Raffermit la peau</strong>, réduit la <strong>cellulite</strong>, aide à retrouver une <strong>silhouette tonique</strong>.<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_dPL9Rr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/19_95a9761d-30b4-41c7-ba80-88ac98638f84.png",
-            "column_size": "3",
-            "title": "Acide hyaluronique",
-            "heading_tag": "h4",
-            "content": "<p>Naturellement présent dans la peau, il retient jusqu’à 1 000 fois son poids en eau.<br/> <strong>Hydrate en profondeur</strong>, améliore <strong>l’élasticité</strong> et donne un effet <strong>repulpé</strong> visible, combiné au autres ingrédients elle nourrit en profondeur la peau <strong>atteinte de la cellulites</strong> et bien plus.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_LV4cm8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/elimine_la_cellulite_1.png",
-            "column_size": "3",
-            "title": "Fucoxanthine",
-            "heading_tag": "h4",
-            "content": "<p>Pigment naturel extrait d’algues brunes.<br/>Connu pour stimuler la <strong>thermogenèse</strong> et activer la <strong>perte de graisse abdominale</strong>.<br/> Brûleur efficace, surtout pour la <strong>graisse viscérale et rebelle</strong>.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_6nijje": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/21_ace6b3ec-3408-42d9-9670-2d7664d960f6.png",
-            "column_size": "3",
-            "title": "Sensoril® (ashwagandha)",
-            "heading_tag": "h4",
-            "content": "<p>Plante adaptogène standardisée, utilisée pour <strong>réguler le stress</strong> et l’appétit.<br/>Réduit le <strong>cortisol</strong>, apaise les <strong>fringales émotionnelles</strong>, améliore l’<strong>équilibre hormonal</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_XDL4dD": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/24_20f852d6-a52b-49c6-bbe2-92631918f14f.png",
-            "column_size": "3",
-            "title": "Thé vert décaféiné",
-            "heading_tag": "h4",
-            "content": "<p>Source naturelle de catéchines, sans les effets excitants de la caféine.<br/> Favorise le <strong>drainage</strong>, aide à <strong>éliminer les toxines</strong> et <strong>stimule le métabolisme</strong>.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_T7yCKr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/23_96d5b134-361a-4c04-954f-cb7f5f7219b8.png",
-            "column_size": "3",
-            "title": "Grains de Paradis",
-            "heading_tag": "h4",
-            "content": "<p>Épice thermogénique riche en composés bioactifs. Active la <strong>dépense calorique</strong>, aide à <strong>réduire la masse grasse</strong> en douceur.<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_wLHJfB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/20_1df98ab5-5244-4ca4-9125-73e37abec62f.png",
-            "column_size": "3",
-            "title": "Vitamine C",
-            "heading_tag": "h4",
-            "content": "<p>Essentielle à la production naturelle de collagène. <strong>Protège les cellules</strong>, améliore la <strong>fermeté</strong> et l’<strong>éclat</strong> de la peau.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_QdbeiM",
-        "item_xiaYUR",
-        "item_dPL9Rr",
-        "item_LV4cm8",
-        "item_6nijje",
-        "item_XDL4dD",
-        "item_T7yCKr",
-        "item_wLHJfB"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Ingrédients étudiés, testés et prouvés en laboratoire.",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "media_with_text_TDQaKM": {
@@ -1389,7 +1226,6 @@
     "featured-product",
     "text_with_icons_CrKgLK",
     "trust_pilot_reviews_yEVK9q",
-    "multi_column_wTJTNc",
     "media_with_text_TDQaKM",
     "media_with_text_RbytT8",
     "faq_MQHPPV",
