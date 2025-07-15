@@ -55,19 +55,19 @@
             "link": ""
           }
         },
-        "logo_pCMLRf": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/2.png",
-            "logo_width": 160,
-            "link": ""
-          }
-        },
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/4.png",
             "logo_width": 230,
+            "link": ""
+          }
+        },
+        "logo_pCMLRf": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/2.png",
+            "logo_width": 160,
             "link": ""
           }
         },
@@ -83,8 +83,8 @@
       "block_order": [
         "logo_A964Gc",
         "logo_PwVxki",
-        "logo_pCMLRf",
         "logo_fjVfnh",
+        "logo_pCMLRf",
         "logo_ThbXef"
       ],
       "settings": {
@@ -109,8 +109,8 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "Des Résultats Visibles & Concrets",
-            "heading_tag": "h3",
+            "text": "Une nouvelle créature debarque dans le monde des Labubu !",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
@@ -135,6 +135,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Comble_les_creux_Elimine_les_poches_et_les_cernes_offrant_un_regard_frais_et_repose_6.png",
+        "mobile_image": "shopify://shop_images/Comble_les_creux_Elimine_les_poches_et_les_cernes_offrant_un_regard_frais_et_repose_6.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
