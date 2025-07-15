@@ -15,7 +15,7 @@
         "heading_MhViyM": {
           "type": "heading",
           "settings": {
-            "text": "Gagnez un compagnon pour la vie !",
+            "text": "Adoptez un compagnon pour la vie !",
             "heading_tag": "h1"
           }
         }
@@ -284,7 +284,7 @@
           "type": "heading",
           "settings": {
             "text": "Vous + Labubu Stitch 💕",
-            "heading_tag": "h3",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -425,7 +425,7 @@
         ".section-full {padding-top: 0px;}"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
