@@ -1004,10 +1004,10 @@
         "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#ffffff",
         "heading_color": "",
         "heading_gradient": "",
-        "button_background": "#000000",
+        "button_background": "#ffffff",
         "button_text_color": "#ff94cc",
         "accordion_background": "#ff94cc",
         "accordion_text_color": ""
