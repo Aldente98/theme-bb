@@ -153,7 +153,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "",
+        "heading": "Nos clients en parlent le mieux",
         "heading_custom": false,
         "heading_font": "dm_sans_n4",
         "heading_size": 40,
@@ -284,28 +284,21 @@
         "heading_URMLrQ": {
           "type": "heading",
           "settings": {
-            "text": "Vous + INODARA",
+            "text": "Merci pour votre confiance",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
         },
-        "subheading_wrDgPY": {
-          "type": "subheading",
-          "settings": {
-            "text": "Merci pour votre confiance"
-          }
-        },
         "richtext_tyJfHe": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Chaque jour, des Labubu Stitch sont adoptés par de nouvelles familles. Prenez soin du vôtre comme s’il était unique… parce qu’il l’est.</p>"
+            "content": "<h5>Chaque jour des centaines de personnes reprennent confiance en eux et sont libéré des mauvaises bactéries responsable de leur désagréments</h5>"
           }
         }
       },
       "block_order": [
         "heading_URMLrQ",
-        "subheading_wrDgPY",
         "richtext_tyJfHe"
       ],
       "name": "Rich text",
@@ -480,7 +473,7 @@
         "liquid_jnATdX": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 6 Boites Mystère !</div>\n</div>"
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">ATTENTION: 6 Cure maximum par personne !</div>\n</div>"
           }
         },
         "image_h9L7gC": {
@@ -649,8 +642,8 @@
           "settings": {
             "stars_count": 5,
             "heading": "Je l'adore 😍",
-            "text": "“J’adore l’univers Pop Mart et j’ai été bluffé par la qualité. Le design est original, l’emballage propre. On voit que ce n’est pas un jouet au rabais.”",
-            "author_date": "Valérie"
+            "text": "\"J’étais sceptique mais franchement ça marche. Mon copain m’a dit qu’il avait remarqué que j’avais toujours bonne haleine, même le matin au réveil. Rien que ça, ça vaut tout l’or du monde.\"",
+            "author_date": "Valérie P."
           }
         },
         "item_CCbkPy": {
@@ -658,8 +651,8 @@
           "settings": {
             "stars_count": 5,
             "heading": "Je recommande.",
-            "text": "“Je me suis fait ce cadeau à moi-même. Pas besoin d’excuse, juste envie d’avoir un petit truc mignon sur ma table de nuit. Et franchement, je regrette pas.”",
-            "author_date": "Sandrine"
+            "text": "Je cherchais une solution naturelle parce que je ne voulais pas dépendre de chewing-gums à longueur de journée. Avec ces gélules, je sens que mon corps est plus neutre, même après un repas chargé.",
+            "author_date": "Julien M."
           }
         },
         "item_xzFPXP": {
@@ -667,8 +660,8 @@
           "settings": {
             "stars_count": 5,
             "heading": "Merci ❤️",
-            "text": "“Je travaille beaucoup seule chez moi. Avoir cette petite créature posée à côté de mon ordi, ça met un peu de vie dans mes journées. C’est bête, mais ça fait du bien.”",
-            "author_date": "Véronique"
+            "text": "\"J’ai retrouvé une vraie confiance en soirée. Avant j’avais peur qu’on sente mon odeur de transpiration, maintenant je suis beaucoup plus relax, je profite sans stress.\"",
+            "author_date": "Véronique L."
           }
         },
         "item_9YbzCc": {
@@ -676,8 +669,8 @@
           "settings": {
             "stars_count": 5,
             "heading": "Meilleur investissement !!",
-            "text": "“Je ne pensais pas ressentir autant d’attachement pour un objet. Il a une vraie personnalité. C’est plus qu’une figurine : c’est une petite présence.”",
-            "author_date": "Nathalie"
+            "text": "Je fais beaucoup de sport et forcément, l’odeur de sueur c’était un gros complexe. La cure aide vraiment à limiter ça, et c’est pas un parfum qui masque, c’est plus léger, plus naturel.",
+            "author_date": "Nathalie S."
           }
         },
         "item_AnFPdt": {
@@ -685,7 +678,7 @@
           "settings": {
             "stars_count": 5,
             "heading": "J'étais sceptique mais...",
-            "text": "“Je l’ai reçu un jour où j’étais pas bien moralement… Et l’ouvrir, découvrir la bouille qu’il avait, ça m’a fait sourire. Comme une mini dose de douceur dans la journée.”",
+            "text": "\"Je transpirais pas mal et même avec du déo, je n’étais jamais totalement tranquille. Là je remarque une vraie différence, mes t-shirts sentent beaucoup moins en fin de journée.\"",
             "author_date": "Françoise"
           }
         },
@@ -693,9 +686,9 @@
           "type": "item",
           "settings": {
             "stars_count": 5,
-            "heading": "Super !",
-            "text": "“Offert à ma compagne pour lui remonter le moral. Résultat : elle en a fait sa mascotte perso et l’emmène même au boulot. J’ai gagné des points !”",
-            "author_date": "Stéphane"
+            "heading": "Pas mal.",
+            "text": "Je vois vraiment la différence sur mon haleine, c’est plus frais au quotidien.",
+            "author_date": "Stéphane R."
           }
         }
       },
