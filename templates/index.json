@@ -690,6 +690,15 @@
             "text": "Je vois vraiment la différence sur mon haleine, c’est plus frais au quotidien.",
             "author_date": "Stéphane R."
           }
+        },
+        "item_e9cByy": {
+          "type": "item",
+          "settings": {
+            "stars_count": 5,
+            "heading": "Bon résultat.",
+            "text": "\"Simple à prendre et efficace, rien à redire.\"",
+            "author_date": "Julie S."
+          }
         }
       },
       "block_order": [
@@ -698,7 +707,8 @@
         "item_xzFPXP",
         "item_9YbzCc",
         "item_AnFPdt",
-        "item_qJrynn"
+        "item_qJrynn",
+        "item_e9cByy"
       ],
       "name": "SS - Testimonial #16",
       "settings": {
