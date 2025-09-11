@@ -699,6 +699,15 @@
             "text": "\"Simple à prendre et efficace, rien à redire.\"",
             "author_date": "Julie S."
           }
+        },
+        "item_yXnnJP": {
+          "type": "item",
+          "settings": {
+            "stars_count": 5,
+            "heading": "",
+            "text": "",
+            "author_date": ""
+          }
         }
       },
       "block_order": [
@@ -708,7 +717,8 @@
         "item_9YbzCc",
         "item_AnFPdt",
         "item_qJrynn",
-        "item_e9cByy"
+        "item_e9cByy",
+        "item_yXnnJP"
       ],
       "name": "SS - Testimonial #16",
       "settings": {
@@ -839,6 +849,84 @@
         "lazy": true
       }
     },
+    "multi_column_7xMgen": {
+      "type": "multi-column",
+      "blocks": {
+        "item_naQQhr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_15_e4fb9853-8eef-4121-83d8-7c4c268ef7f9-min.webp",
+            "column_size": "3",
+            "title": "Menthe poivrée",
+            "heading_tag": "h2",
+            "content": "<ul><li>Aide à détendre les muscles digestifs, facilite le passage des aliments.</li><li>Réduit la sensation de ballonnement et certains gaz.</li><li>Souvent utilisée en infusion ou en gélule pour apaiser les inconforts intestinaux.</li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ExaLyr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_19-min.webp",
+            "column_size": "3",
+            "title": "Chlorophylle",
+            "heading_tag": "h3",
+            "content": "<ul><li>Connue comme “désodorisant interne”.</li><li>Neutralise les odeurs liées à la digestion (gaz, haleine).</li><li>Certaines études suggèrent aussi un petit effet sur la flore intestinale.</li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qAFwKp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_18-min.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<ul><li>Plante carminative  (aide à expulser les gaz).</li><li>Stimule légèrement la digestion grâce à ses huiles essentielles.</li><li>Utilisé traditionnellement après un repas copieux pour limiter les odeurs digestives.</li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_naQQhr",
+        "item_ExaLyr",
+        "item_qAFwKp"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos Super Ingrédients :",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "scrolling_text_QF7DQC": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "media_with_text_TDQaKM": {
       "type": "media-with-text",
       "blocks": {
@@ -855,7 +943,7 @@
             "content": "<h4><br/>Une pièce de collection, pas un simple objet<br/><br/></h4><h6><br/>Chaque modèle est sélectionné à l’aveugle, pour recréer l’excitation de la découverte.<br/><br/>Ce n’est pas une peluche. Ce n’est pas un jouet.<br/><br/>C’est une édition limitée, pensée pour ceux qui veulent posséder ce que les autres n’ont pas.<br/><br/></h6>",
             "link_text": "",
             "link_url": "",
-            "background": "#ff94cc",
+            "background": "#00d2cb",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
@@ -890,7 +978,7 @@
             "content": "<p>Vous ne savez pas laquelle vous recevrez. Et c’est ce qui rend l’expérience unique.</p><p> Chaque créature est rare, imprévisible, et pourtant… dès qu’elle arrive, elle trouve sa place.<br/></p>",
             "link_text": "",
             "link_url": "",
-            "background": "#ff94cc",
+            "background": "#00d2cb",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
@@ -1004,8 +1092,8 @@
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "#ffffff",
-        "button_text_color": "#ff94cc",
-        "accordion_background": "#ff94cc",
+        "button_text_color": "#00d2cb",
+        "accordion_background": "#00d2cb",
         "accordion_text_color": ""
       }
     },
@@ -1032,6 +1120,8 @@
     "featured-product",
     "text_with_icons_CrKgLK",
     "trust_pilot_reviews_yEVK9q",
+    "multi_column_7xMgen",
+    "scrolling_text_QF7DQC",
     "media_with_text_TDQaKM",
     "media_with_text_RbytT8",
     "faq_MQHPPV",
