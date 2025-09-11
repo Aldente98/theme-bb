@@ -15,7 +15,7 @@
         "heading_MhViyM": {
           "type": "heading",
           "settings": {
-            "text": "Adoptez un compagnon pour la vie !",
+            "text": "",
             "heading_tag": "h1"
           }
         }
@@ -28,12 +28,13 @@
         "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ontwerp_zonder_titel_7.webp",
+        "image": "shopify://shop_images/Ajouter_un_titre_2.png",
+        "mobile_image": "shopify://shop_images/Ajouter_un_titre_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 14
+        "overlay_opacity": 0
       }
     },
     "logo_list_4BjWGF": {
@@ -42,7 +43,7 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1.png",
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.webp",
             "logo_width": 300,
             "link": ""
           }
@@ -50,7 +51,7 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/3.png",
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.webp",
             "logo_width": 300,
             "link": ""
           }
@@ -58,7 +59,7 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/4.png",
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.webp",
             "logo_width": 230,
             "link": ""
           }
@@ -66,7 +67,7 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/2.png",
+            "logo": "shopify://shop_images/Elle.png",
             "logo_width": 250,
             "link": ""
           }
@@ -109,7 +110,7 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "Une nouvelle créature débarque dans le monde des Labubu !",
+            "text": "Pourquoi INODARA change votre quotidien ?",
             "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
@@ -135,8 +136,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Comble_les_creux_Elimine_les_poches_et_les_cernes_offrant_un_regard_frais_et_repose_6.png",
-        "mobile_image": "shopify://shop_images/Comble_les_creux_Elimine_les_poches_et_les_cernes_offrant_un_regard_frais_et_repose_6.png",
+        "image": "shopify://shop_images/Ajouter_un_titre_3.png",
+        "mobile_image": "shopify://shop_images/Ajouter_un_titre_3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -152,7 +153,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Ils sont rares. Ceux qui en font partie le savent.",
+        "heading": "Merci pour votre confiance,",
         "heading_custom": false,
         "heading_font": "dm_sans_n4",
         "heading_size": 40,
@@ -283,7 +284,7 @@
         "heading_URMLrQ": {
           "type": "heading",
           "settings": {
-            "text": "Vous + Labubu Stitch 💕",
+            "text": "Vous + INODARA",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -323,7 +324,6 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/11.png",
             "column_size": "3",
             "title": "Aurélie, 28 ans",
             "heading_tag": "h4",
@@ -336,7 +336,6 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/8.png",
             "column_size": "3",
             "title": "Julie, 37 ans",
             "heading_tag": "h4",
@@ -349,7 +348,6 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/12.png",
             "column_size": "3",
             "title": "Sophie, 40 ans",
             "heading_tag": "h4",
@@ -362,7 +360,6 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/9.png",
             "column_size": "3",
             "title": "Nathalie, 35 ans",
             "heading_tag": "h4",
@@ -375,7 +372,6 @@
         "item_QVQMfx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/10.png",
             "column_size": "3",
             "title": "Caroline, 32 ans",
             "heading_tag": "h4",
@@ -388,7 +384,6 @@
         "item_dHXQqT": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/13.png",
             "column_size": "3",
             "title": "Marie, 33ans",
             "heading_tag": "h4",
@@ -401,7 +396,6 @@
         "item_GtVHmE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/14.png",
             "column_size": "3",
             "title": "Francoise, 38 ans",
             "heading_tag": "h4",
@@ -529,12 +523,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "kaching_bundles_app_block_Wrb9bG": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "buy_buttons_KQgEUN": {
           "type": "buy_buttons",
           "settings": {
@@ -609,7 +597,6 @@
         "description",
         "variant-picker",
         "quantity-selector",
-        "kaching_bundles_app_block_Wrb9bG",
         "buy_buttons_KQgEUN",
         "liquid_NnNFhj",
         "payment_terms_JfKhQt",
@@ -855,7 +842,6 @@
         "image_tHcQLa": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_1.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -891,7 +877,6 @@
         "image_XpN6fd": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_2.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
