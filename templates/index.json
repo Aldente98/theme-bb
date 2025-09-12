@@ -347,7 +347,7 @@
             "column_size": "3",
             "title": "Sophie, 40 ans",
             "heading_tag": "h4",
-            "content": "<p>“Ma fille traverse une période pas facile... Je lui ai offert ça pour lui faire plaisir, elle l’a gardé dans son sac toute la semaine. Elle m’a dit que ça la rassure.”</p>",
+            "content": "<p>“Mon copain me faisait souvent la remarque sur mes odeurs après le sport… ça me vexait trop. Depuis que je prends Inodara, c’est beaucoup plus neutre. Je me sens mieux quand on se retrouve.”</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -360,7 +360,7 @@
             "column_size": "3",
             "title": "Nathalie, 35 ans",
             "heading_tag": "h4",
-            "content": "<p><em>“Je l’ai pris pour mon plus jeune, mais finalement les deux se le disputaient… On a fini par en recommander un deuxième. Très doux, super bien fait, et ça les a occupés pendant des heures.”</em></p>",
+            "content": "<p>“Je prenais toujours des chewing-gums avant un rendez-vous client, juste au cas où. Depuis Inodara, j’ai arrêté. Ça m’a libérée d’un stress que j’avais même pas conscience de traîner.”<br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -369,11 +369,11 @@
         "item_QVQMfx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Ng_41dFHf.jpg",
+            "image": "shopify://shop_images/13.png",
             "column_size": "3",
             "title": "Caroline, 32 ans",
             "heading_tag": "h4",
-            "content": "<p>“Ma fille a inventé une histoire entière autour de sa petite créature. Elle ne la lâche plus. C’est mignon, ça stimule l’imagination, et le packaging est adorable.”</p>",
+            "content": "<p>\"Je changeais de t-shirt deux fois par jour tellement je stressais avec ma transpiration. Là je me rends compte que je peux finir la journée tranquille, sans parano.”</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -382,7 +382,7 @@
         "item_dHXQqT": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Ua5yh15Pe.jpg",
+            "image": "shopify://shop_images/20.png",
             "column_size": "3",
             "title": "Marie, 33ans",
             "heading_tag": "h4",
