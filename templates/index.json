@@ -947,7 +947,7 @@
         "image_tHcQLa": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Ajouter_un_titre_6.png",
+            "image": "shopify://shop_images/Ajouter_un_titre_13.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -955,7 +955,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "",
-            "content": "<h4>Bien plus qu'une simple gélule, une cure qui vous nettoie de l'intérieur.<br/></h4><p><br/>“Inodara Forte, ce n’est pas une simple gélule : c’est une cure qui agit de l’intérieur pour stopper les odeurs là où elles commencent. Chaque ingrédient travaille ensemble pour neutraliser les bactéries responsables, et vous laisser enfin tranquille.”<br/><br/></p><h6><br/></h6>",
+            "content": "<h4>Bien plus qu'une simple gélule, une cure qui vous nettoie de l'intérieur.<br/></h4><p><br/>Inodara Forte, ce n’est pas une simple gélule : c’est une cure qui agit de l’intérieur pour stopper les odeurs là où elles commencent.</p><p> Chaque ingrédient travaille ensemble pour neutraliser les bactéries responsables, et vous laisser enfin tranquille.<br/><br/></p><h6><br/></h6>",
             "link_text": "",
             "link_url": "",
             "background": "#00d2cb",
