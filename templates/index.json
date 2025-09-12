@@ -284,7 +284,7 @@
         "heading_URMLrQ": {
           "type": "heading",
           "settings": {
-            "text": "Merci pour votre confiance",
+            "text": "Merci pour votre confiance.",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -293,7 +293,7 @@
         "richtext_tyJfHe": {
           "type": "richtext",
           "settings": {
-            "content": "<h5>Chaque jour des centaines de personnes reprennent confiance en eux et sont libéré des mauvaises bactéries responsable de leur désagréments</h5>"
+            "content": "<h5>Chaque jour des centaines de personnes reprennent confiance en eux et sont libéré des mauvaises bactéries responsable de leur désagréments.</h5>"
           }
         }
       },
