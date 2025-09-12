@@ -28,8 +28,8 @@
         "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ajouter_un_titre_4.png",
-        "mobile_image": "shopify://shop_images/Ajouter_un_titre_4.png",
+        "image": "shopify://shop_images/Ajouter_un_titre_7.png",
+        "mobile_image": "shopify://shop_images/Ajouter_un_titre_7.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -321,7 +321,7 @@
             "column_size": "3",
             "title": "Aurélie, 28 ans",
             "heading_tag": "h4",
-            "content": "<p>“J’ai commandé pour ma fille mais… j’en ai pris un pour moi aussi 😅. C’est trop mignon, on s’est amusées à les ouvrir ensemble comme un rituel. Très belle surprise.”</p>",
+            "content": "<p>“Je pensais avoir trois problèmes différents : mon haleine, ma transpiration et parfois des odeurs intimes… En fait tout venait de l’intérieur. Avec Inodara, j’ai compris que c’était lié, et depuis je me sens enfin fraîche et à l’aise partout, sans stress.”</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -334,7 +334,7 @@
             "column_size": "3",
             "title": "Julie, 37 ans",
             "heading_tag": "h4",
-            "content": "<p>“Je l’ai offert à mon fils qui adore Stitch… il a dormi avec dès le premier soir ! La qualité est top, et il a adoré l’effet surprise de la boîte mystère.”</p>",
+            "content": "<p>“Franchement j’étais mal à l’aise au boulot, j’avais toujours peur que mes collègues sentent mon haleine après le café. C’était un stress constant. Avec Inodara Forte, c’est dingue, je n’y pense même plus. Mon copain m’a même dit que je paraissais plus détendue ces derniers temps.”<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
