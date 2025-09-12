@@ -317,6 +317,7 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Ajouter_un_titre_5.png",
             "column_size": "3",
             "title": "Aurélie, 28 ans",
             "heading_tag": "h4",
@@ -329,6 +330,7 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/17.png",
             "column_size": "3",
             "title": "Julie, 37 ans",
             "heading_tag": "h4",
@@ -341,6 +343,7 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/9_e4850fb1-7297-4081-837d-78d47d6001fc.png",
             "column_size": "3",
             "title": "Sophie, 40 ans",
             "heading_tag": "h4",
@@ -353,6 +356,7 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/10.png",
             "column_size": "3",
             "title": "Nathalie, 35 ans",
             "heading_tag": "h4",
@@ -365,6 +369,7 @@
         "item_QVQMfx": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Ng_41dFHf.jpg",
             "column_size": "3",
             "title": "Caroline, 32 ans",
             "heading_tag": "h4",
@@ -377,6 +382,7 @@
         "item_dHXQqT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Ua5yh15Pe.jpg",
             "column_size": "3",
             "title": "Marie, 33ans",
             "heading_tag": "h4",
@@ -389,6 +395,7 @@
         "item_GtVHmE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/19.png",
             "column_size": "3",
             "title": "Francoise, 38 ans",
             "heading_tag": "h4",
