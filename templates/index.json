@@ -490,6 +490,12 @@
             "max_width": 500
           }
         },
+        "liquid_NnNFhj": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .product__inventory {\n    padding-top: 10px; /* Adjust as needed */\n    padding-bottom: 10px; /* Adjust as needed */\n  }\n</style>\n\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"15\" height=\"15\" aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(255, 0, 0, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(255, 0, 0)\"></circle>\n</svg> 2x rupture de stock.</p>"
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -534,15 +540,15 @@
             "payment_button_text_color": "#803cee"
           }
         },
-        "liquid_NnNFhj": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .product__inventory {\n    padding-top: 10px; /* Adjust as needed */\n    padding-bottom: 10px; /* Adjust as needed */\n  }\n</style>\n\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"15\" height=\"15\" aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(255, 0, 0, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(255, 0, 0)\"></circle>\n</svg> Seulement 500 exemplaires. Pas de restocks.</p>"
-          }
-        },
         "payment_terms_JfKhQt": {
           "type": "payment_terms",
           "settings": {}
+        },
+        "liquid_F74xRb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\"></div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">“Cette cure agit directement à la source en limitant la prolifération des bactéries responsables des odeurs, qu’elles soient buccales, corporelles ou intimes, tout en aidant la digestion et en apportant une solution naturelle et durable.”</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Sophie L. Dermatologue</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>"
+          }
         },
         "image_NnVtjL": {
           "type": "image",
@@ -592,14 +598,15 @@
         "image_pRggRB",
         "liquid_jnATdX",
         "image_h9L7gC",
+        "liquid_NnNFhj",
         "rating",
         "separator",
         "description",
         "variant-picker",
         "quantity-selector",
         "buy_buttons_KQgEUN",
-        "liquid_NnNFhj",
         "payment_terms_JfKhQt",
+        "liquid_F74xRb",
         "image_NnVtjL",
         "collapsible_text_7JpyM7",
         "collapsible_text_FXtB8P",
@@ -940,6 +947,7 @@
         "image_tHcQLa": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Ajouter_un_titre_6.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -947,7 +955,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "",
-            "content": "<h4><br/>Une pièce de collection, pas un simple objet<br/><br/></h4><h6><br/>Chaque modèle est sélectionné à l’aveugle, pour recréer l’excitation de la découverte.<br/><br/>Ce n’est pas une peluche. Ce n’est pas un jouet.<br/><br/>C’est une édition limitée, pensée pour ceux qui veulent posséder ce que les autres n’ont pas.<br/><br/></h6>",
+            "content": "<h4>Bien plus qu'une simple gélule, une cure qui vous change de l'intérieur.<br/></h4><h6><br/>Chaque modèle est sélectionné à l’aveugle, pour recréer l’excitation de la découverte.<br/><br/>Ce n’est pas une peluche. Ce n’est pas un jouet.<br/><br/>C’est une édition limitée, pensée pour ceux qui veulent posséder ce que les autres n’ont pas.<br/><br/></h6>",
             "link_text": "",
             "link_url": "",
             "background": "#00d2cb",
