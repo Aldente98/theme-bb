@@ -1022,13 +1022,6 @@
             "content": "<p>Oui, car tout le monde produit les mêmes composés responsables des odeurs. Les résultats varient selon l’hygiène de vie, mais la formule agit sur les principales sources d’odeur (bouche + digestion + transpiration).</p>"
           }
         },
-        "item_P6yRzh": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je faire un retour si je n’aime pas le modèle ?",
-            "content": "<p>Non. Étant donné le principe de surprise et de rareté, <strong>aucun retour n’est accepté sauf produit endommagé</strong>.</p>"
-          }
-        },
         "item_6cJAWF": {
           "type": "item",
           "settings": {
@@ -1044,7 +1037,6 @@
         "item_mrg8b4",
         "item_K9EhFR",
         "item_XY77ii",
-        "item_P6yRzh",
         "item_6cJAWF"
       ],
       "settings": {
