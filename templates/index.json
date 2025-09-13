@@ -110,8 +110,8 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi INODARA change votre quotidien ?",
-            "heading_tag": "h4",
+            "text": "Prenez l'habitude d'aller mieux avec Inodara.",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -153,7 +153,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Nos clients en parlent le mieux",
+        "heading": "Découvrez comment Inodara à changer leur quotidiens",
         "heading_custom": false,
         "heading_font": "dm_sans_n4",
         "heading_size": 40,
@@ -557,10 +557,20 @@
             "max_width": 500
           }
         },
-        "collapsible_text_7JpyM7": {
+        "collapsible_text_7yeAC3": {
           "type": "collapsible_text",
           "settings": {
             "icon": "picto-question",
+            "icon_width": 20,
+            "title": "Comment sa marche ?",
+            "content": "<p>Notre formule agit directement <strong>à la source des mauvaises odeurs</strong> dans tout le corps.</p><ul><li>La <strong>menthe poivrée</strong> réduit les bactéries buccales responsables de la mauvaise haleine.<br/></li><li>La <strong>chlorophylle</strong> neutralise les molécules odorantes produites par la digestion et la transpiration.<br/></li><li>Le <strong>persil</strong> soutient la digestion et aide à équilibrer les odeurs corporelles, y compris dans les zones intimes.<br/></li></ul><p>👉 Résultat : une haleine plus neutre, une transpiration moins odorante et une sensation de fraîcheur globale, même là où vous en avez le plus besoin.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_7JpyM7": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "picto-jewelry",
             "icon_width": 20,
             "title": "Quels sont les bénéfices ?",
             "content": "<h4><strong>POUR EXPRIMER SA PERSONNALITÉ</strong></h4><p>Dans un monde où tout se ressemble, les détails font la différence. Ce Labubu Stitch devient l'élément distinctif qui personnalise instantanément un sac, un trousseau de clés ou un espace de travail.</p><p>Il communique un goût pour la culture et une connaissance des tendances actuelles.</p><h4><strong>POUR REJOINDRE UNE COMMUNAUTÉ</strong></h4><p>La tendance Labubu crée des connexions. Les possesseurs se reconnaissent, échangent, partagent leurs expériences sur les réseaux sociaux.</p><p>C'est l'appartenance à un mouvement culturel qui dépasse le simple accessoire.</p><h4><strong>POUR AMÉLIORER SON QUOTIDIEN</strong></h4><p>Au-delà de l'aspect esthétique, ce compagnon apporte une touche de douceur dans la routine. Il transforme des objets utilitaires en éléments plus personnels et réconfortants.</p><h4><strong>POUR ANTICIPER PLUTÔT QUE SUIVRE</strong></h4><p>Adopter cette tendance maintenant, c'est avoir de l'avance sur sa démocratisation. C'est être parmi les premiers à comprendre et adopter ce qui va devenir mainstream.</p><h2><strong>POUR LA PRATICITÉ</strong></h2><p>Livraison rapide , pas d'attente interminable. Stock disponible immédiatement, pas de précommandes incertaines.</p><p>La satisfaction est immédiate, pas différée.</p><h4><strong>POUR L'INVESTISSEMENT ÉMOTIONNEL</strong></h4><p>Plus qu'un achat, c'est l'acquisition d'un élément qui accompagne le quotidien. Un objet qui prend de la valeur sentimentale avec le temps.</p>",
@@ -608,6 +618,7 @@
         "payment_terms_JfKhQt",
         "liquid_F74xRb",
         "image_NnVtjL",
+        "collapsible_text_7yeAC3",
         "collapsible_text_7JpyM7",
         "collapsible_text_FXtB8P",
         "collapsible_text_AMhQ3X"
@@ -918,7 +929,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Nos Super Ingrédients :",
+        "title": "Des ingrédients rigoureusement sélectionnés :",
         "content": "",
         "background": "",
         "background_gradient": "",
