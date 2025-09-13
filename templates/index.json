@@ -529,15 +529,15 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "buy_buttons_KQgEUN": {
+        "buy_buttons_FdpYbt": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": false,
+            "show_payment_button": true,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#803cee",
-            "atc_button_text_color": "#803cee",
-            "payment_button_background": "#803cee",
-            "payment_button_text_color": "#803cee"
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
           }
         },
         "payment_terms_JfKhQt": {
@@ -604,7 +604,7 @@
         "description",
         "variant-picker",
         "quantity-selector",
-        "buy_buttons_KQgEUN",
+        "buy_buttons_FdpYbt",
         "payment_terms_JfKhQt",
         "liquid_F74xRb",
         "image_NnVtjL",
