@@ -987,18 +987,11 @@
             "content": "<p>Délai de traitement : 1 à 3 jours ouvrés<br/>Délai de livraison : 6 à 9 jours ouvrés</p><p><br/><strong>Victime de son succès</strong> ! la cure peut être <strong>temporairement</strong> en rupture de stock, <strong>mais nous expédions toujours par ordre de priorité.</strong></p><p> <strong>Pensez à commander à l’avance !</strong><br/><br/></p>"
           }
         },
-        "item_yDiwY9": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce un produit officiel Labubu ou Stitch ?",
-            "content": "<p>Non. Il s’agit d’une <strong>création inspirée</strong> par l’univers et les fans de figurines.<br/><br/>Nous ne sommes <strong>pas affiliés à Pop Mart ni à Disney</strong>.</p>"
-          }
-        },
         "item_8yPykD": {
           "type": "item",
           "settings": {
-            "title": "Peut-on choisir le modèle ?",
-            "content": "<p>Non. Le concept repose sur la surprise ! Chaque boîte est <strong>scellée aléatoirement</strong>, pour garantir l’effet collector et unique.</p>"
+            "title": "Est-ce que ça marche vraiment pour neutraliser les mauvaises odeurs ?",
+            "content": "<p>Oui. Notre formule agit directement sur les bactéries buccales et digestives responsables des odeurs (haleine, transpiration, gaz). Résultat : une odeur corporelle plus neutre, constatée dès les premiers jours d’utilisation.</p>"
           }
         },
         "item_Qt9h7g": {
@@ -1046,7 +1039,6 @@
       },
       "block_order": [
         "item_qfyPPE",
-        "item_yDiwY9",
         "item_8yPykD",
         "item_Qt9h7g",
         "item_mrg8b4",
