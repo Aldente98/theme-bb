@@ -1011,15 +1011,15 @@
         "item_K9EhFR": {
           "type": "item",
           "settings": {
-            "title": "Peut-on offrir la box à quelqu’un ?",
-            "content": "<p>Oui ! Le packaging est soigné et prêt à offrir. </p>"
+            "title": "Est-ce que c’est naturel et sans danger ?",
+            "content": "<p>Oui. Nos gélules contiennent uniquement des extraits végétaux (menthe poivrée, chlorophylle, persil). Aucun produit chimique agressif, ni additif controversé. C’est une solution douce, 100 % adaptée à un usage quotidien.</p>"
           }
         },
         "item_XY77ii": {
           "type": "item",
           "settings": {
-            "title": "Comment savoir si j’ai reçu un modèle rare ?",
-            "content": "<p>Chaque modèle est unique, mais certains sont édités en très petites quantités.</p>"
+            "title": "Est-ce que ça marche pour tout le monde ?",
+            "content": "<p>Oui, car tout le monde produit les mêmes composés responsables des odeurs. Les résultats varient selon l’hygiène de vie, mais la formule agit sur les principales sources d’odeur (bouche + digestion + transpiration).</p>"
           }
         },
         "item_P6yRzh": {
@@ -1032,8 +1032,8 @@
         "item_6cJAWF": {
           "type": "item",
           "settings": {
-            "title": "Comment sont fabriquées les figurines ?",
-            "content": "<p>Nos créatures sont conçues en <strong>PVC doux</strong> ou en tissu peluche (selon les modèles), avec une finition soignée.<br/><br/>La production est réalisée en petite série avec nos partenaires en Asie.</p>"
+            "title": "Combien de gélules je dois prendre par jour ?",
+            "content": "<p>1 à 2 gélules par jour suffisent, à prendre avec un verre d’eau, de préférence après un repas. Un flacon couvre 30 jours de cure complète.</p>"
           }
         }
       },
