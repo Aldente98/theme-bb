@@ -529,6 +529,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "kaching_bundles_app_block_XaXQap": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "buy_buttons_FdpYbt": {
           "type": "buy_buttons",
           "settings": {
@@ -538,12 +544,6 @@
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
-          }
-        },
-        "kaching_bundles_app_block_tVGfNw": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "inodara-formule-3-en-1"
           }
         },
         "liquid_RTmCDG": {
@@ -626,8 +626,8 @@
         "description",
         "variant-picker",
         "quantity-selector",
+        "kaching_bundles_app_block_XaXQap",
         "buy_buttons_FdpYbt",
-        "kaching_bundles_app_block_tVGfNw",
         "liquid_RTmCDG",
         "payment_terms_JfKhQt",
         "liquid_F74xRb",
@@ -638,7 +638,7 @@
         "collapsible_text_AMhQ3X"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "product": "inodara-formule-3-en-1",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
