@@ -535,13 +535,6 @@
             "product": "{{section.settings.product}}"
           }
         },
-        "image_3XMc4j": {
-          "type": "image",
-          "settings": {
-            "alignment": "start",
-            "max_width": 150
-          }
-        },
         "buy_buttons_FdpYbt": {
           "type": "buy_buttons",
           "settings": {
@@ -557,6 +550,14 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Untitled_design_20.webp",
+            "alignment": "center",
+            "max_width": 400
+          }
+        },
+        "image_3XMc4j": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ntm.webp",
             "alignment": "center",
             "max_width": 400
           }
@@ -642,9 +643,9 @@
         "variant-picker",
         "quantity-selector",
         "kaching_bundles_app_block_XaXQap",
-        "image_3XMc4j",
         "buy_buttons_FdpYbt",
         "image_wBwy9z",
+        "image_3XMc4j",
         "liquid_RTmCDG",
         "payment_terms_JfKhQt",
         "liquid_F74xRb",
