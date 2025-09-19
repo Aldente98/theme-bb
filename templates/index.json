@@ -477,12 +477,6 @@
             "max_width": 500
           }
         },
-        "kaching_bundles_app_block_FRJc93": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "liquid_jnATdX": {
           "type": "liquid",
           "settings": {
@@ -618,7 +612,6 @@
         "badges",
         "price",
         "image_pRggRB",
-        "kaching_bundles_app_block_FRJc93",
         "liquid_jnATdX",
         "image_h9L7gC",
         "liquid_NnNFhj",
@@ -983,8 +976,8 @@
             "content": "<h4>Bien plus qu'une simple gélule, une cure qui vous nettoie de l'intérieur.<br/></h4><p><br/>“Inodara Forte, ce n’est pas une simple gélule : c’est une cure qui agit de l’intérieur pour stopper les odeurs là où elles commencent. Chaque ingrédient travaille ensemble pour neutraliser les bactéries responsables, et vous laisser enfin tranquille.”<br/><br/></p><h6><br/></h6>",
             "link_text": "",
             "link_url": "",
-            "background": "#00d2cb",
-            "background_gradient": "",
+            "background": "#cacaca",
+            "background_gradient": "linear-gradient(228deg, rgba(21, 209, 252, 1) 14%, rgba(187, 48, 254, 1) 83%)",
             "text_color": "#ffffff",
             "text_gradient": "",
             "button_background": "",
