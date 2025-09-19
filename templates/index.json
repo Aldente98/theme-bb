@@ -553,6 +553,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_wBwy9z": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_20.webp",
+            "alignment": "center",
+            "max_width": 400
+          }
+        },
         "liquid_RTmCDG": {
           "type": "liquid",
           "settings": {
@@ -636,6 +644,7 @@
         "kaching_bundles_app_block_XaXQap",
         "image_3XMc4j",
         "buy_buttons_FdpYbt",
+        "image_wBwy9z",
         "liquid_RTmCDG",
         "payment_terms_JfKhQt",
         "liquid_F74xRb",
