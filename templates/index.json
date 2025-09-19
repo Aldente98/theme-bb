@@ -535,6 +535,13 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "image_3XMc4j": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
+          }
+        },
         "buy_buttons_FdpYbt": {
           "type": "buy_buttons",
           "settings": {
@@ -627,6 +634,7 @@
         "variant-picker",
         "quantity-selector",
         "kaching_bundles_app_block_XaXQap",
+        "image_3XMc4j",
         "buy_buttons_FdpYbt",
         "liquid_RTmCDG",
         "payment_terms_JfKhQt",
