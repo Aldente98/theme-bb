@@ -173,7 +173,7 @@
         "stars_count": 5,
         "stars_size": 28,
         "stars_size_mobile": 24,
-        "text": "<p>basé sur + <strong>5 429 avis</strong></p>",
+        "text": "<p>basé sur + <strong>1 258 avis</strong></p>",
         "text_custom": false,
         "text_font": "dm_sans_n4",
         "text_size": 20,
@@ -1099,6 +1099,30 @@
         "accordion_text_color": ""
       }
     },
+    "17583150360ce84011": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_homepage_JH9qTx": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "inodara-formule-3-en-1",
+            "review_data": "sample_data",
+            "max_width": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_homepage_JH9qTx"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "17359565654f612dcd": {
       "type": "apps",
       "settings": {
@@ -1126,6 +1150,7 @@
     "scrolling_text_QF7DQC",
     "media_with_text_TDQaKM",
     "faq_MQHPPV",
+    "17583150360ce84011",
     "17359565654f612dcd"
   ]
 }
