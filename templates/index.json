@@ -788,6 +788,9 @@
         "item_e9cByy",
         "item_yXnnJP"
       ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
       "name": "SS - Testimonial #16",
       "settings": {
         "content_align": "center",
@@ -1099,6 +1102,9 @@
         "item_K9EhFR",
         "item_XY77ii",
         "item_6cJAWF"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
       ],
       "settings": {
         "full_width": true,
