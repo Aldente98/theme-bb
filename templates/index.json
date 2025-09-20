@@ -173,8 +173,8 @@
         "stars_count": 5,
         "stars_size": 28,
         "stars_size_mobile": 24,
-        "text": "<p>basé sur + <strong>1 258 avis</strong></p>",
-        "text_right_image": "shopify://shop_images/profil_revendiquer_trustpilot.png",
+        "text": "<p>basé sur + <strong>1 295 avis</strong></p>",
+        "text_right_image": "shopify://shop_images/Ajouter_un_titre_18.png",
         "text_custom": false,
         "text_font": "dm_sans_n4",
         "text_size": 20,
@@ -651,6 +651,9 @@
         "collapsible_text_FXtB8P",
         "collapsible_text_AMhQ3X"
       ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
       "settings": {
         "full_width": true,
         "product": "inodara-formule-3-en-1",
@@ -797,7 +800,8 @@
         "stars_count": 5,
         "stars_size": 28,
         "stars_size_mobile": 24,
-        "text": "<p>basé sur + <strong>5429</strong> avis</p>",
+        "text": "<p>basé sur + <strong>1 295 avis</strong></p>",
+        "text_right_image": "shopify://shop_images/Ajouter_un_titre_18.png",
         "text_custom": false,
         "text_font": "dm_sans_n4",
         "text_size": 20,
