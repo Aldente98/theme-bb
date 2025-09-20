@@ -88,6 +88,9 @@
         "logo_pCMLRf",
         "logo_ThbXef"
       ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -301,6 +304,9 @@
       "block_order": [
         "heading_URMLrQ",
         "richtext_tyJfHe"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
       ],
       "name": "Rich text",
       "settings": {
