@@ -330,7 +330,7 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/17.png",
+            "image": "shopify://shop_images/reviewlyveli1.webp",
             "column_size": "3",
             "title": "Julie, 37 ans",
             "heading_tag": "h4",
@@ -358,7 +358,7 @@
           "settings": {
             "image": "shopify://shop_images/10.png",
             "column_size": "3",
-            "title": "Nathalie, 35 ans",
+            "title": "Nathalie, 44 ans",
             "heading_tag": "h4",
             "content": "<p>“Je prenais toujours des chewing-gums avant un rendez-vous client, juste au cas où. Depuis Inodara, j’ai arrêté. Ça m’a libérée d’un stress que j’avais même pas conscience de traîner.”<br/></p>",
             "link_url": "",
@@ -382,9 +382,9 @@
         "item_dHXQqT": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/20.png",
+            "image": "shopify://shop_images/reviewlyveli3.webp",
             "column_size": "3",
-            "title": "Marie, 33ans",
+            "title": "Marie, 29ans",
             "heading_tag": "h4",
             "content": "<p>“J’avais beau mettre du déo, au bout de la journée je me sentais pas fraîche… surtout sous les bras. Avec Inodara, c’est vraiment plus neutre, je me sens plus sereine.”</p>",
             "link_url": "",
@@ -1101,19 +1101,6 @@
     },
     "17583150360ce84011": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_homepage_JH9qTx": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "inodara-formule-3-en-1",
-            "review_data": "sample_data",
-            "max_width": 1200
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_homepage_JH9qTx"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
