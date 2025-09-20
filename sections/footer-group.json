@@ -73,6 +73,9 @@
         "payment",
         "free-shipping"
       ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
@@ -128,7 +131,9 @@
         "links",
         "text"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,
