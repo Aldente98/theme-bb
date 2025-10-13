@@ -289,7 +289,7 @@
           "type": "heading",
           "settings": {
             "text": "Merci pour votre confiance.🧡",
-            "heading_tag": "h4",
+            "heading_tag": "h5",
             "text_color": "",
             "gradient": ""
           }
