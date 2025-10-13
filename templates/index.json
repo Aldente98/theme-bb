@@ -28,8 +28,7 @@
         "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ajouter_un_titre_7.png",
-        "mobile_image": "shopify://shop_images/Ajouter_un_titre_7.png",
+        "image": "shopify://shop_images/Ajouter_un_titre_23.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -43,7 +42,6 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.webp",
             "logo_width": 300,
             "link": ""
           }
@@ -51,7 +49,6 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.webp",
             "logo_width": 300,
             "link": ""
           }
@@ -59,7 +56,6 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.webp",
             "logo_width": 230,
             "link": ""
           }
@@ -67,7 +63,6 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Elle.png",
             "logo_width": 250,
             "link": ""
           }
@@ -88,6 +83,7 @@
         "logo_pCMLRf",
         "logo_ThbXef"
       ],
+      "disabled": true,
       "custom_css": [
         ".section-full {padding-top: 0px;}"
       ],
@@ -145,8 +141,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ajouter_un_titre_3.png",
-        "mobile_image": "shopify://shop_images/Ajouter_un_titre_3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -162,17 +156,17 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Découvrez comment Inodara à changer leur quotidiens",
+        "heading": "Découvrez comment Curcuma Lab à changer leur quotidiens",
         "heading_custom": false,
         "heading_font": "dm_sans_n4",
         "heading_size": 40,
-        "heading_size_mobile": 24,
+        "heading_size_mobile": 20,
         "heading_height": 130,
         "rating_text": "Excellent",
         "rating_text_custom": false,
         "rating_text_font": "dm_sans_n4",
         "rating_text_size": 24,
-        "rating_text_size_mobile": 20,
+        "rating_text_size_mobile": 16,
         "rating_text_height": 130,
         "rating_text_mt": 16,
         "rating_text_mt_mobile": 20,
@@ -183,7 +177,6 @@
         "stars_size": 28,
         "stars_size_mobile": 24,
         "text": "<p>basé sur + <strong>1 295 avis</strong></p>",
-        "text_right_image": "shopify://shop_images/Ajouter_un_titre_18.png",
         "text_custom": false,
         "text_font": "dm_sans_n4",
         "text_size": 20,
@@ -294,8 +287,8 @@
         "heading_URMLrQ": {
           "type": "heading",
           "settings": {
-            "text": "Merci pour votre confiance.🩵",
-            "heading_tag": "h2",
+            "text": "Merci pour votre confiance.🧡",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
@@ -303,7 +296,7 @@
         "richtext_tyJfHe": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Chaque jour, des centaines de personnes disent adieu aux odeurs gênantes et retrouvent la tranquillité.</p>"
+            "content": "<p>Chaque jour, des centaines de personnes disent adieu à leurs douleur articulaires et retrouvent la tranquillité.</p>"
           }
         }
       },
@@ -330,7 +323,6 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Ajouter_un_titre_5.png",
             "column_size": "3",
             "title": "Aurélie, 30ans",
             "heading_tag": "h4",
@@ -343,7 +335,6 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/reviewlyveli1.webp",
             "column_size": "3",
             "title": "Julie, 37 ans",
             "heading_tag": "h4",
@@ -356,7 +347,6 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/9_e4850fb1-7297-4081-837d-78d47d6001fc.png",
             "column_size": "3",
             "title": "Sophie, 40 ans",
             "heading_tag": "h4",
@@ -369,7 +359,6 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/10.png",
             "column_size": "3",
             "title": "Nathalie, 44 ans",
             "heading_tag": "h4",
@@ -382,7 +371,6 @@
         "item_QVQMfx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/13.png",
             "column_size": "3",
             "title": "Caroline, 32 ans",
             "heading_tag": "h4",
@@ -395,7 +383,6 @@
         "item_dHXQqT": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/reviewlyveli3.webp",
             "column_size": "3",
             "title": "Marie, 29ans",
             "heading_tag": "h4",
@@ -408,7 +395,6 @@
         "item_GtVHmE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/19.png",
             "column_size": "3",
             "title": "Francoise, 38 ans",
             "heading_tag": "h4",
@@ -538,12 +524,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "kaching_bundles_app_block_XaXQap": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "buy_buttons_FdpYbt": {
           "type": "buy_buttons",
           "settings": {
@@ -558,7 +538,6 @@
         "image_wBwy9z": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_20.webp",
             "alignment": "center",
             "max_width": 400
           }
@@ -566,7 +545,6 @@
         "image_3XMc4j": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ntm.webp",
             "alignment": "center",
             "max_width": 400
           }
@@ -650,7 +628,6 @@
         "description",
         "variant-picker",
         "quantity-selector",
-        "kaching_bundles_app_block_XaXQap",
         "buy_buttons_FdpYbt",
         "image_wBwy9z",
         "image_3XMc4j",
@@ -711,8 +688,7 @@
             "stars_count": 5,
             "heading": "Top 😍",
             "text": "\"J’étais sceptique mais franchement ça marche. Mon copain m’a dit qu’il avait remarqué que j’avais toujours bonne haleine, même le matin au réveil. Rien que ça, ça vaut tout l’or du monde.\"",
-            "author_date": "Valérie P.",
-            "author_image": "shopify://shop_images/575c2e15-da37-442c-9c0d-1e5482db829a.webp"
+            "author_date": "Valérie P."
           }
         },
         "item_CCbkPy": {
@@ -721,8 +697,7 @@
             "stars_count": 5,
             "heading": "Je recommande.",
             "text": "\"Je cherchais une solution naturelle parce que je ne voulais pas dépendre de chewing-gums à longueur de journée. Avec ces gélules, je sens que mon corps est plus neutre, même après un repas chargé.\"",
-            "author_date": "Julien M.",
-            "author_image": "shopify://shop_images/portrait-professionnel-corporate-4.webp"
+            "author_date": "Julien M."
           }
         },
         "item_xzFPXP": {
@@ -731,8 +706,7 @@
             "stars_count": 5,
             "heading": "Merci ❤️",
             "text": "\"J’ai retrouvé une vraie confiance en soirée. Avant j’avais peur qu’on sente mon odeur de transpiration, maintenant je suis beaucoup plus relax, je profite sans stress.\"",
-            "author_date": "Véronique L.",
-            "author_image": "shopify://shop_images/8ca6726d-c49a-4d24-9b15-6555e4359080.webp"
+            "author_date": "Véronique L."
           }
         },
         "item_9YbzCc": {
@@ -741,8 +715,7 @@
             "stars_count": 5,
             "heading": "Meilleur investissement !!",
             "text": "\"Je fais beaucoup de sport et forcément, l’odeur de sueur c’était un gros complexe. La cure aide vraiment à limiter ça, et c’est pas un parfum qui masque, c’est plus léger, plus naturel.\"",
-            "author_date": "Nathalie S.",
-            "author_image": "shopify://shop_images/femme-heureuse-a-la-maison-pendant-la-quarantaine-du-coronavirus.jpg"
+            "author_date": "Nathalie S."
           }
         },
         "item_AnFPdt": {
@@ -751,8 +724,7 @@
             "stars_count": 5,
             "heading": "J'étais sceptique mais...",
             "text": "\"Je transpirais pas mal et même avec du déo, je n’étais jamais totalement tranquille. Là je remarque une vraie différence, mes t-shirts sentent beaucoup moins en fin de journée.\"",
-            "author_date": "Françoise",
-            "author_image": "shopify://shop_images/dbb40777-21f8-4f0a-978b-96f8d5cd9aa0_200x200_ae5507f3-b22f-44b9-9937-7e86e6689896.jpg"
+            "author_date": "Françoise"
           }
         },
         "item_qJrynn": {
@@ -761,8 +733,7 @@
             "stars_count": 5,
             "heading": "Pas mal.",
             "text": "\"Je vois vraiment la différence sur mon haleine, c’est plus frais au quotidien.\"",
-            "author_date": "Stéphane R.",
-            "author_image": "shopify://shop_images/Screenshot_2023-10-25_at_8.53.43_PM-min.png"
+            "author_date": "Stéphane R."
           }
         },
         "item_e9cByy": {
@@ -771,8 +742,7 @@
             "stars_count": 5,
             "heading": "Bon résultat.",
             "text": "\"Simple à prendre et efficace, rien à redire.\"",
-            "author_date": "Julie S.",
-            "author_image": "shopify://shop_images/PNG_image-min.jpg"
+            "author_date": "Julie S."
           }
         },
         "item_yXnnJP": {
@@ -781,8 +751,7 @@
             "stars_count": 5,
             "heading": "Sport à l'aise.",
             "text": "“Après le sport j’étais toujours gênée, j’avais peur que les autres sentent. Maintenant je me change tranquille, je sais que ça ne dérange plus.”",
-            "author_date": "Sara M.",
-            "author_image": "shopify://shop_images/PNG_image-min_555591f6-57d4-4860-8289-52951c96d70c.jpg"
+            "author_date": "Sara M."
           }
         }
       },
@@ -824,7 +793,6 @@
         "stars_size": 28,
         "stars_size_mobile": 24,
         "text": "<p>basé sur + <strong>1 295 avis</strong></p>",
-        "text_right_image": "shopify://shop_images/Ajouter_un_titre_18.png",
         "text_custom": false,
         "text_font": "dm_sans_n4",
         "text_size": 20,
@@ -935,7 +903,6 @@
         "item_naQQhr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_15_e4fb9853-8eef-4121-83d8-7c4c268ef7f9-min.webp",
             "column_size": "3",
             "title": "Menthe poivrée",
             "heading_tag": "h2",
@@ -948,7 +915,6 @@
         "item_ExaLyr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_19-min.webp",
             "column_size": "3",
             "title": "Chlorophylle",
             "heading_tag": "h2",
@@ -961,7 +927,6 @@
         "item_qAFwKp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_18-min.webp",
             "column_size": "3",
             "title": "Persil",
             "heading_tag": "h2",
@@ -1016,7 +981,6 @@
         "image_tHcQLa": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Ajouter_un_titre_14.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
