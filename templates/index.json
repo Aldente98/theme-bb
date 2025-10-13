@@ -109,7 +109,7 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "Prenez l'habitude d'aller mieux avec Inodara.",
+            "text": "",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -133,9 +133,7 @@
     },
     "image_with_text_overlay_pjaxby": {
       "type": "image-with-text-overlay",
-      "custom_css": [
-        ".section-full {padding-top: 0px;}"
-      ],
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
