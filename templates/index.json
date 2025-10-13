@@ -905,9 +905,22 @@
           "settings": {
             "image": "shopify://shop_images/1_f1857d30-154b-4419-abd1-7bf43cefe927.webp",
             "column_size": "4",
-            "title": "Menthe poivrée",
+            "title": "Curcuma Bio",
             "heading_tag": "h2",
             "content": "<ul><li>Aide à détendre les muscles digestifs, facilite le passage des aliments.</li><li>Réduit la sensation de ballonnement et certains gaz.</li><li>Souvent utilisée en infusion ou en gélule pour apaiser les inconforts intestinaux.</li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qAFwKp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_ca8cb619-6327-416e-abbc-fc1286ddf172.webp",
+            "column_size": "3",
+            "title": "Persil",
+            "heading_tag": "h2",
+            "content": "<ul><li>Plante carminative  (aide à expulser les gaz).</li><li>Stimule légèrement la digestion grâce à ses huiles essentielles.</li><li>Utilisé traditionnellement après un repas copieux pour limiter les odeurs digestives.</li></ul>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -916,6 +929,7 @@
         "item_ExaLyr": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/4_322953d3-b832-48e8-8308-39266588aff6.webp",
             "column_size": "3",
             "title": "Chlorophylle",
             "heading_tag": "h2",
@@ -925,13 +939,40 @@
             "link_style": "link"
           }
         },
-        "item_qAFwKp": {
+        "item_AGGXct": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/3_490c514f-9783-43a9-ba38-c47b7ef510b4.webp",
             "column_size": "3",
-            "title": "Persil",
-            "heading_tag": "h2",
-            "content": "<ul><li>Plante carminative  (aide à expulser les gaz).</li><li>Stimule légèrement la digestion grâce à ses huiles essentielles.</li><li>Utilisé traditionnellement après un repas copieux pour limiter les odeurs digestives.</li></ul>",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yNLYgW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_938kAg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_1c111ca4-8fe6-489a-b113-d0cff7d717f2.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -940,8 +981,11 @@
       },
       "block_order": [
         "item_naQQhr",
+        "item_qAFwKp",
         "item_ExaLyr",
-        "item_qAFwKp"
+        "item_AGGXct",
+        "item_yNLYgW",
+        "item_938kAg"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
