@@ -903,7 +903,8 @@
         "item_naQQhr": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/1_f1857d30-154b-4419-abd1-7bf43cefe927.webp",
+            "column_size": "4",
             "title": "Menthe poivrée",
             "heading_tag": "h2",
             "content": "<ul><li>Aide à détendre les muscles digestifs, facilite le passage des aliments.</li><li>Réduit la sensation de ballonnement et certains gaz.</li><li>Souvent utilisée en infusion ou en gélule pour apaiser les inconforts intestinaux.</li></ul>",
@@ -949,7 +950,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "",
         "title": "Des ingrédients rigoureusement sélectionnés :",
@@ -991,8 +992,8 @@
             "content": "<h4>Bien plus qu'une simple gélule, une cure qui vous nettoie de l'intérieur.<br/></h4><p><br/>“Inodara Forte, ce n’est pas une simple gélule : c’est une cure qui agit de l’intérieur pour stopper les odeurs là où elles commencent. Chaque ingrédient travaille ensemble pour neutraliser les bactéries responsables des mauvaises odeurs, et vous laisser enfin tranquille.”<br/><br/></p><h6><br/></h6>",
             "link_text": "",
             "link_url": "",
-            "background": "#cacaca",
-            "background_gradient": "linear-gradient(46deg, rgba(52, 133, 236, 1) 13%, rgba(170, 248, 219, 1) 86%)",
+            "background": "#d98609",
+            "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
             "button_background": "",
