@@ -135,10 +135,11 @@
       "type": "image-with-text-overlay",
       "custom_css": [],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Retrouver_la_liberte_de_bouger_sans_crainte.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
