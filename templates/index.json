@@ -135,7 +135,7 @@
       "type": "image-with-text-overlay",
       "custom_css": [],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
