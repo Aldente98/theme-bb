@@ -629,7 +629,7 @@
             "icon": "picto-happy",
             "icon_width": 20,
             "title": "Pourquoi vous allez l’aimer ?",
-            "content": "<p><br/>Parce qu’il agit en douceur mais en profondeur.<br/><br/>Parce qu’il ne masque pas les douleurs, il les apaise vraiment.<br/><br/>Et surtout, parce qu’il redonne ce qu’on avait oublié : une énergie stable, des mouvements plus libres et la sensation d’un corps apaisé, équilibré, vivant.<br/><br/></p>",
+            "content": "<ul><li>Parce qu’il agit en douceur mais en profondeur.<br/><br/></li><li>Parce qu’il ne masque pas les douleurs, il les apaise vraiment.<br/><br/></li><li>Et surtout, parce qu’il redonne ce qu’on avait oublié : une énergie stable, des mouvements plus libres et la sensation d’un corps apaisé, équilibré, vivant.<br/><br/></li></ul>",
             "page": ""
           }
         }
