@@ -320,9 +320,23 @@
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
+        "item_MwJML3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/45.png",
+            "column_size": "3",
+            "title": "Nathalie, 44 ans",
+            "heading_tag": "h4",
+            "content": "<p>“Je prenais toujours des chewing-gums avant un rendez-vous client, juste au cas où. Depuis Inodara, j’ai arrêté. Ça m’a libérée d’un stress que j’avais même pas conscience de traîner.”<br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_JJLm4U": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/42.png",
             "column_size": "3",
             "title": "Aurélie, 30ans",
             "heading_tag": "h4",
@@ -335,6 +349,7 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/44.png",
             "column_size": "3",
             "title": "Julie, 37 ans",
             "heading_tag": "h4",
@@ -347,6 +362,7 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/43.png",
             "column_size": "3",
             "title": "Sophie, 40 ans",
             "heading_tag": "h4",
@@ -356,25 +372,14 @@
             "link_style": "link"
           }
         },
-        "item_MwJML3": {
+        "item_GtVHmE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/55.png",
             "column_size": "3",
-            "title": "Nathalie, 44 ans",
+            "title": "Francoise, 38 ans",
             "heading_tag": "h4",
-            "content": "<p>“Je prenais toujours des chewing-gums avant un rendez-vous client, juste au cas où. Depuis Inodara, j’ai arrêté. Ça m’a libérée d’un stress que j’avais même pas conscience de traîner.”<br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_QVQMfx": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Caroline, 32 ans",
-            "heading_tag": "h4",
-            "content": "<p>\"Je changeais de t-shirt deux fois par jour tellement je stressais avec ma transpiration. Là je me rends compte que je peux finir la journée tranquille, sans parano.”</p>",
+            "content": "<p>“C’est un peu tabou mais j’avais ce souci d’odeur intime, je le vivais mal. Franchement, depuis Inodara ça s’est calmé et je me sens mieux dans mon corps.”</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -383,6 +388,7 @@
         "item_dHXQqT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Ajouter_un_titre_20.png",
             "column_size": "3",
             "title": "Marie, 29ans",
             "heading_tag": "h4",
@@ -392,13 +398,40 @@
             "link_style": "link"
           }
         },
-        "item_GtVHmE": {
+        "item_Gf3Fea": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/48.png",
             "column_size": "3",
-            "title": "Francoise, 38 ans",
+            "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>“C’est un peu tabou mais j’avais ce souci d’odeur intime, je le vivais mal. Franchement, depuis Inodara ça s’est calmé et je me sens mieux dans mon corps.”</p>",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tXhkFJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/53.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_W9jMi8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/51.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -406,13 +439,15 @@
         }
       },
       "block_order": [
+        "item_MwJML3",
         "item_JJLm4U",
         "item_7BdeiK",
         "item_GECyWQ",
-        "item_MwJML3",
-        "item_QVQMfx",
+        "item_GtVHmE",
         "item_dHXQqT",
-        "item_GtVHmE"
+        "item_Gf3Fea",
+        "item_tXhkFJ",
+        "item_W9jMi8"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
