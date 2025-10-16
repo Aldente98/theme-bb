@@ -937,7 +937,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/2_ca8cb619-6327-416e-abbc-fc1286ddf172.webp",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Poivre Bio",
             "heading_tag": "h2",
             "content": "<ul><li>Multiplie l’assimilation de la curcumine jusqu’à 20 fois.</li><li>Renforce l’efficacité anti-inflammatoire du curcuma.</li><li>Stimule la digestion et améliore l’équilibre intestinal.</li></ul>",
@@ -950,7 +950,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/4_322953d3-b832-48e8-8308-39266588aff6.webp",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Ginbembre Bio",
             "heading_tag": "h2",
             "content": "<ul><li>Favorise la mobilité et la récupération après l’effort.</li><li>Soutient la circulation et aide à réduire les tensions musculaires.</li><li>Apporte une énergie naturelle et un tonus durable.</li></ul>",
@@ -963,9 +963,9 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/3_490c514f-9783-43a9-ba38-c47b7ef510b4.webp",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Propolis Pure",
-            "heading_tag": "h4",
+            "heading_tag": "h2",
             "content": "<ul><li>Renforce les défenses naturelles face aux agressions extérieures.</li><li>Apaise les inflammations internes et soutient la respiration cellulaire.</li><li>Protège le corps grâce à sa richesse en antioxydants naturels.</li></ul>",
             "link_url": "",
             "link_text": "",
@@ -976,9 +976,9 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/6.webp",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Vitamine C liposomal",
-            "heading_tag": "h4",
+            "heading_tag": "h2",
             "content": "<ul><li>Réduit la fatigue et soutient l’énergie cellulaire.</li><li>Renforce le système immunitaire au quotidien.</li><li>Participe à la régénération des tissus et à la production de collagène.</li></ul>",
             "link_url": "",
             "link_text": "",
@@ -989,9 +989,9 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/5_1c111ca4-8fe6-489a-b113-d0cff7d717f2.webp",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Huile de Coco Bio",
-            "heading_tag": "h4",
+            "heading_tag": "h2",
             "content": "<ul><li>Facilite l’absorption des actifs liposolubles comme la curcumine.</li><li>Protège la muqueuse digestive et améliore la tolérance du produit.</li><li>Apporte un effet adoucissant et rééquilibrant au système digestif.</li></ul>",
             "link_url": "",
             "link_text": "",
