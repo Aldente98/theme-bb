@@ -823,7 +823,7 @@
         "scrolling_velocity": 80,
         "scrolling_velocity_mobile": 100,
         "reverse_direction": false,
-        "pause_hover": true,
+        "pause_hover": false,
         "scrolling_mt": 36,
         "scrolling_mt_mobile": 36,
         "scrolling_gap": 20,
