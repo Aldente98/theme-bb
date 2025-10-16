@@ -338,7 +338,7 @@
           "settings": {
             "image": "shopify://shop_images/42.png",
             "column_size": "3",
-            "title": "Aurélie, 30ans",
+            "title": "Aurélie, 36 ans",
             "heading_tag": "h4",
             "content": "<p>\"Je craignais l’hiver à cause de mes douleurs et de mon immunité fragile. Grâce à la propolis et au curcuma, je traverse la saison sans crise ni fatigue.\"</p>",
             "link_url": "",
@@ -366,7 +366,7 @@
             "column_size": "3",
             "title": "Sophie, 40 ans",
             "heading_tag": "h4",
-            "content": "<p><em>\"Je travaille dans le domaine du bien-être, et c’est rare de trouver une composition aussi intelligente. Chaque ingrédient a un sens précis, sans remplissage inutile. Très bon ressenti global.\"</em></p>",
+            "content": "<p>\"Je travaille dans le domaine du bien-être, et c’est rare de trouver une composition aussi intelligente. Chaque ingrédient a un sens précis, sans remplissage inutile. Très bon ressenti global.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -379,7 +379,7 @@
             "column_size": "3",
             "title": "Francoise, 38 ans",
             "heading_tag": "h4",
-            "content": "<p><em>\"J’ai testé plusieurs marques, souvent trop fortes ou mal formulées. C'est est le seul que je tolère parfaitement tout en ayant un effet durable sur mes douleurs articulaires. En plus, je sens une vraie amélioration sur mon énergie et mon immunité, je tombe beaucoup moins malade depuis que je le prends.\"</em></p>",
+            "content": "<p>\"J’ai testé plusieurs marques, souvent trop fortes ou mal formulées. C'est le seul que je tolère parfaitement tout en ayant un effet durable sur mes douleurs articulaires. En plus, je sens une vraie amélioration sur mon énergie et mon immunité, je tombe beaucoup moins malade depuis que je le prends.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -392,7 +392,7 @@
             "column_size": "3",
             "title": "Marie, 29ans",
             "heading_tag": "h4",
-            "content": "<p><em>\"Ce qui me frappe, c’est la tolérance. Pas d’inconfort digestif, pas de montée d’acidité. L’huile de coco équilibre parfaitement la formule, et les effets sont constants dans le temps.\"</em></p>",
+            "content": "<p>\"Ce qui me frappe, c’est la tolérance. Pas d’inconfort digestif, pas de montée d’acidité. L’huile de coco équilibre parfaitement la formule, et les effets sont constants dans le temps.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -403,7 +403,7 @@
           "settings": {
             "image": "shopify://shop_images/48.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Sophie, 47 ans",
             "heading_tag": "h4",
             "content": "<p>\"On sent que la formule a été pensée sérieusement : curcuma et poivre noir pour l’action, propolis et vitamine C pour la défense. Résultat : moins de douleurs, moins de fatigue, et plus de tonus.\"</p>",
             "link_url": "",
@@ -416,7 +416,7 @@
           "settings": {
             "image": "shopify://shop_images/53.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Isabelle, 56 ans",
             "heading_tag": "h4",
             "content": "<p>\"Enfin une formule qui comprend l’importance du poivre noir pour l’absorption du curcuma. Avec la propolis et la vitamine C, l’action est complète : articulations, immunité et énergie.\"</p>",
             "link_url": "",
@@ -429,9 +429,9 @@
           "settings": {
             "image": "shopify://shop_images/51.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Claire, 42 ans",
             "heading_tag": "h4",
-            "content": "<p><em>\"Je connaissais déjà les bienfaits du curcuma, mais je ne savais pas à quel point le poivre noir change tout. Avec la propolis et la vitamine C, je sens une vraie différence : plus d’énergie, et mes douleurs se font discrètes.\"</em></p>",
+            "content": "<p>\"Je connaissais déjà les bienfaits du curcuma, mais je ne savais pas à quel point le poivre noir change tout. Avec la propolis et la vitamine C, je sens une vraie différence : plus d’énergie, et mes douleurs se font discrètes.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
