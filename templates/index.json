@@ -609,7 +609,7 @@
             "icon": "picto-jewelry",
             "icon_width": 20,
             "title": "Quels sont les bénéfices ?",
-            "content": "<p>🌿 Apaise naturellement les douleurs et raideurs articulaires.</p><p><br/>⚡ Réduit l’inflammation chronique sans agresser l’estomac.<br/></p><p><br/>💪 Améliore la mobilité et la récupération physique.<br/></p><p><br/>🛡️ Renforce les défenses naturelles et soutient l’immunité.<br/></p><p><br/>✨ Apporte une énergie stable et une meilleure clarté mentale.<br/></p><p><br/>💧 Favorise un équilibre digestif et un bien-être global durable.</p>",
+            "content": "<ul><li>🌿 Apaise naturellement les douleurs et raideurs articulaires.</li></ul><p></p><ul><li>⚡ Réduit l’inflammation chronique sans agresser l’estomac.</li></ul><p></p><ul><li>💪 Améliore la mobilité et la récupération physique.<br/></li><li>🛡️ Renforce les défenses naturelles et soutient l’immunité.</li></ul><p></p><ul><li>✨ Apporte une énergie stable et une meilleure clarté mentale.</li></ul><p></p><ul><li>💧 Favorise un équilibre digestif et un bien-être global durable.</li></ul>",
             "page": ""
           }
         },
