@@ -103,25 +103,20 @@
         "logo_item_border": ""
       }
     },
-    "rich_text_c9UmPD": {
+    "rich_text_HKP3Q9": {
       "type": "rich-text",
       "blocks": {
-        "heading_JGUWbW": {
-          "type": "heading",
+        "richtext_MG3U86": {
+          "type": "richtext",
           "settings": {
-            "text": "",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
+            "content": "<h4>Des bénéfices visibles et bien plus</h4>"
           }
         }
       },
       "block_order": [
-        "heading_JGUWbW"
+        "richtext_MG3U86"
       ],
-      "custom_css": [
-        ".section-full {padding-top: 0px;}"
-      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -1032,6 +1027,79 @@
         "text_color": ""
       }
     },
+    "rich_text_cC9kGz": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_izhkD6": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3>Vous doutez encore ?</h3>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_izhkD6"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_kRhnNB": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Retrouver_la_liberte_de_bouger_sans_crainte_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "blog_posts_b8FDbX": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog_93WUEh": {
+          "type": "blog",
+          "settings": {
+            "blog": "news",
+            "posts_count": 3,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "blog_93WUEh"
+      ],
+      "name": "Blog posts",
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": true,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": true,
+        "subheading": "",
+        "title": "",
+        "content": "<h4><br/>Des études concrètes<br/><br/></h4>",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "media_with_text_TDQaKM": {
       "type": "media-with-text",
       "blocks": {
@@ -1069,21 +1137,6 @@
         "full_width": false,
         "alternate_media_position": false,
         "spacing": "small"
-      }
-    },
-    "image_with_text_overlay_kRhnNB": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Retrouver_la_liberte_de_bouger_sans_crainte_1.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "faq_MQHPPV": {
@@ -1199,7 +1252,7 @@
   "order": [
     "image-with-text-overlay",
     "logo_list_4BjWGF",
-    "rich_text_c9UmPD",
+    "rich_text_HKP3Q9",
     "image_with_text_overlay_pjaxby",
     "trust_pilot_reviews_AxNB3A",
     "rich_text_JAypN7",
@@ -1208,8 +1261,10 @@
     "text_with_icons_CrKgLK",
     "trust_pilot_reviews_yEVK9q",
     "multi_column_7xMgen",
-    "media_with_text_TDQaKM",
+    "rich_text_cC9kGz",
     "image_with_text_overlay_kRhnNB",
+    "blog_posts_b8FDbX",
+    "media_with_text_TDQaKM",
     "faq_MQHPPV",
     "17583150360ce84011",
     "17359565654f612dcd"
