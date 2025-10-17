@@ -1041,7 +1041,7 @@
         "richtext_izhkD6"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px}"
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "name": "Rich text",
       "settings": {
@@ -1098,7 +1098,7 @@
         "image_tHcQLa"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px;}"
+        ".section-full {padding-top: 25px;}"
       ],
       "name": "Media with text",
       "settings": {
