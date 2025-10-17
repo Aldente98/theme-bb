@@ -1011,7 +1011,7 @@
         "item_938kAg"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px}"
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "name": "Multi-column",
       "settings": {
@@ -1039,6 +1039,9 @@
       },
       "block_order": [
         "richtext_izhkD6"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 0px}"
       ],
       "name": "Rich text",
       "settings": {
