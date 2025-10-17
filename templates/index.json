@@ -135,7 +135,7 @@
       "type": "image-with-text-overlay",
       "custom_css": [],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
@@ -1032,22 +1032,6 @@
         "text_color": ""
       }
     },
-    "scrolling_text_QF7DQC": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "media_with_text_TDQaKM": {
       "type": "media-with-text",
       "blocks": {
@@ -1085,6 +1069,21 @@
         "full_width": false,
         "alternate_media_position": false,
         "spacing": "small"
+      }
+    },
+    "image_with_text_overlay_kRhnNB": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Retrouver_la_liberte_de_bouger_sans_crainte_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "faq_MQHPPV": {
@@ -1209,8 +1208,8 @@
     "text_with_icons_CrKgLK",
     "trust_pilot_reviews_yEVK9q",
     "multi_column_7xMgen",
-    "scrolling_text_QF7DQC",
     "media_with_text_TDQaKM",
+    "image_with_text_overlay_kRhnNB",
     "faq_MQHPPV",
     "17583150360ce84011",
     "17359565654f612dcd"
