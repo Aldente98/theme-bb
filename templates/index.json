@@ -1011,7 +1011,7 @@
         "item_938kAg"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px;}"
+        ".section-full {padding-top: 0px; padding-bottom: 0px}"
       ],
       "name": "Multi-column",
       "settings": {
@@ -1065,41 +1065,6 @@
         "overlay_opacity": 0
       }
     },
-    "blog_posts_b8FDbX": {
-      "type": "blog-posts",
-      "blocks": {
-        "blog_93WUEh": {
-          "type": "blog",
-          "settings": {
-            "blog": "news",
-            "posts_count": 3,
-            "stack_items": false
-          }
-        }
-      },
-      "block_order": [
-        "blog_93WUEh"
-      ],
-      "name": "Blog posts",
-      "settings": {
-        "full_width": true,
-        "show_excerpt": true,
-        "show_date": true,
-        "show_author": false,
-        "show_comments_count": false,
-        "show_category": true,
-        "subheading": "",
-        "title": "",
-        "content": "<h4><br/>Des études concrètes<br/><br/></h4>",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "media_with_text_TDQaKM": {
       "type": "media-with-text",
       "blocks": {
@@ -1137,6 +1102,41 @@
         "full_width": false,
         "alternate_media_position": false,
         "spacing": "small"
+      }
+    },
+    "blog_posts_b8FDbX": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog_93WUEh": {
+          "type": "blog",
+          "settings": {
+            "blog": "news",
+            "posts_count": 3,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "blog_93WUEh"
+      ],
+      "name": "Blog posts",
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": true,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": true,
+        "subheading": "",
+        "title": "",
+        "content": "<h4><br/>Des études concrètes<br/><br/></h4>",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "faq_MQHPPV": {
@@ -1263,8 +1263,8 @@
     "multi_column_7xMgen",
     "rich_text_cC9kGz",
     "image_with_text_overlay_kRhnNB",
-    "blog_posts_b8FDbX",
     "media_with_text_TDQaKM",
+    "blog_posts_b8FDbX",
     "faq_MQHPPV",
     "17583150360ce84011",
     "17359565654f612dcd"
