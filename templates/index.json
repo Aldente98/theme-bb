@@ -576,6 +576,12 @@
             "max_width": 470
           }
         },
+        "text_h9L7JC": {
+          "type": "text",
+          "settings": {
+            "text": "<h6><strong>Les résultats parlent d’eux-mêmes. Et nos clients aussi.</strong></h6>"
+          }
+        },
         "liquid_RTmCDG": {
           "type": "liquid",
           "settings": {
@@ -657,6 +663,7 @@
         "buy_buttons_FdpYbt",
         "image_wBwy9z",
         "image_3XMc4j",
+        "text_h9L7JC",
         "liquid_RTmCDG",
         "payment_terms_JfKhQt",
         "liquid_F74xRb",
@@ -667,7 +674,7 @@
         "collapsible_text_AMhQ3X"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+        ".section-full {padding-top: 0px;}"
       ],
       "settings": {
         "full_width": true,
@@ -1220,7 +1227,7 @@
         "item_6cJAWF"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+        ".section-full {padding-top: 0px; padding-bottom: 0;}"
       ],
       "settings": {
         "full_width": true,
