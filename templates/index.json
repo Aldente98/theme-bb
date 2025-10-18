@@ -555,9 +555,9 @@
             "show_payment_button": true,
             "show_gift_card_recipient": true,
             "atc_button_background": "#ffb74a",
-            "atc_button_text_color": "",
+            "atc_button_text_color": "#f1c40f",
             "payment_button_background": "#f1c40f",
-            "payment_button_text_color": ""
+            "payment_button_text_color": "#ffffff"
           }
         },
         "image_wBwy9z": {
@@ -1116,7 +1116,7 @@
         "subheading": "",
         "title": "",
         "content": "<h4>Des études concrètes<br/><br/></h4>",
-        "link_url": "",
+        "link_url": "https://curcumalab.com/blogs/news",
         "link_text": "Voir toutes les études scientifiques",
         "background": "#f9f9f9",
         "background_gradient": "",
