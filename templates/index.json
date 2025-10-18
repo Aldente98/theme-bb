@@ -1084,13 +1084,13 @@
         "blog_93WUEh"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px}"
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "name": "Blog posts",
       "settings": {
         "full_width": true,
         "show_excerpt": true,
-        "show_date": true,
+        "show_date": false,
         "show_author": false,
         "show_comments_count": false,
         "show_category": true,
@@ -1098,8 +1098,8 @@
         "title": "",
         "content": "<h4><br/>Des études concrètes<br/><br/></h4>",
         "link_url": "",
-        "link_text": "View all",
-        "background": "",
+        "link_text": "Voir toute les études scientifiques",
+        "background": "#f9f9f9ff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
