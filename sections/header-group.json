@@ -35,10 +35,10 @@
             "url": ""
           }
         },
-        "message_HLwFgX": {
+        "message_GJYJpg": {
           "type": "message",
           "settings": {
-            "text": "SEULEMENT 500 EXEMPLAIRES",
+            "text": "- 50 % OFFRE LIMITÉ",
             "url": ""
           }
         }
@@ -47,7 +47,7 @@
         "message",
         "message_h3JjH9",
         "message_fmnkC9",
-        "message_HLwFgX"
+        "message_GJYJpg"
       ],
       "settings": {
         "enable_sticky": false,
