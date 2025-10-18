@@ -1075,7 +1075,7 @@
           "type": "blog",
           "settings": {
             "blog": "news",
-            "posts_count": 3,
+            "posts_count": 6,
             "stack_items": false
           }
         }
@@ -1099,7 +1099,7 @@
         "content": "<h4><br/>Des études concrètes<br/><br/></h4>",
         "link_url": "",
         "link_text": "Voir toute les études scientifiques",
-        "background": "#f9f9f9ff",
+        "background": "#f9f9f9",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
