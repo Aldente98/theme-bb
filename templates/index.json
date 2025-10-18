@@ -116,6 +116,9 @@
       "block_order": [
         "richtext_MG3U86"
       ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -300,7 +303,7 @@
         "richtext_tyJfHe"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px;}"
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "name": "Rich text",
       "settings": {
@@ -445,7 +448,7 @@
         "item_W9jMi8"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px;}"
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "settings": {
         "full_width": true,
