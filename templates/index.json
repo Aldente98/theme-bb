@@ -565,7 +565,7 @@
           "settings": {
             "image": "shopify://shop_images/Untitled_design_20.webp",
             "alignment": "center",
-            "max_width": 400
+            "max_width": 450
           }
         },
         "image_3XMc4j": {
@@ -573,7 +573,7 @@
           "settings": {
             "image": "shopify://shop_images/ntm.webp",
             "alignment": "center",
-            "max_width": 400
+            "max_width": 470
           }
         },
         "liquid_RTmCDG": {
