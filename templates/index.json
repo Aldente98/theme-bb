@@ -667,7 +667,7 @@
         "collapsible_text_AMhQ3X"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px;}"
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "settings": {
         "full_width": true,
@@ -1220,7 +1220,7 @@
         "item_6cJAWF"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px}"
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "settings": {
         "full_width": true,
