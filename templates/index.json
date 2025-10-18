@@ -1053,7 +1053,7 @@
         "richtext_izhkD6"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+        ".section-full {padding-top: 20px; padding-bottom: 0px;}"
       ],
       "name": "Rich text",
       "settings": {
