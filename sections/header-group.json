@@ -17,44 +17,20 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "OFFRE SPÉCIALE BLACK FRIDAY",
-            "url": ""
-          }
-        },
-        "message_h3JjH9": {
-          "type": "message",
-          "settings": {
-            "text": "STOCKS LIMITÉ",
-            "url": ""
-          }
-        },
-        "message_fmnkC9": {
-          "type": "message",
-          "settings": {
-            "text": "LIVRAISON OFFERTE",
-            "url": ""
-          }
-        },
-        "message_GJYJpg": {
-          "type": "message",
-          "settings": {
-            "text": "- 50 % OFFRE LIMIT",
+            "text": "🎁 Cadeaux exclusifs réservés aux premières commandes.",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message",
-        "message_h3JjH9",
-        "message_fmnkC9",
-        "message_GJYJpg"
+        "message"
       ],
       "settings": {
-        "enable_sticky": false,
+        "enable_sticky": true,
         "autoplay": false,
-        "cycle_speed": 6,
-        "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "cycle_speed": 11,
+        "text_size": "text-lg",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#044936",
         "background_gradient": "",
