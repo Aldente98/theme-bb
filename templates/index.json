@@ -295,7 +295,7 @@
         "richtext_tyJfHe": {
           "type": "richtext",
           "settings": {
-            "content": "<h6>Chaque jour, des centaines de personnes se libèrent de l'inflammation et de leurs douleurs articulaires et redécouvrent le plaisir de bouger librement. </h6>"
+            "content": ""
           }
         }
       },
@@ -326,7 +326,7 @@
             "column_size": "3",
             "title": "Nathalie, 44 ans",
             "heading_tag": "h4",
-            "content": "<p>\"Je souffre de douleurs aux mains depuis des années. Curcuma Lab a rendu mes mouvements beaucoup plus souples. L’association curcuma-gingembre-poivre noir est impressionnante.\"<br/><br/></p>",
+            "content": "<p>\"Je souffre d'arthrose du genoux depuis des années. Cette cure a rendu mes mouvements beaucoup plus souples et SURTOUT plus de douleurs. L’association curcuma-gingembre-poivre noir est impressionnante.\"<br/><br/></p>",
             "link_url": "",
             "link_text": "Client vérifié ✓",
             "link_style": "link"
@@ -404,7 +404,7 @@
             "column_size": "3",
             "title": "Sophie, 47 ans",
             "heading_tag": "h4",
-            "content": "<p>\"On sent que la formule a été pensée sérieusement : curcuma et poivre noir pour l’action, propolis et vitamine C pour la défense. Résultat : moins de douleurs, moins de fatigue, et plus de tonus.\"</p>",
+            "content": "<p>\"On sent que la formule a été pensée sérieusement : curcuma et poivre noir pour l’action, propolis et vitamine C pour la défense. Résultat : moins de douleurs du a mon arthrose , moins de fatigue, et plus de tonus.\"</p>",
             "link_url": "",
             "link_text": "Client vérifié ✓",
             "link_style": "link"
