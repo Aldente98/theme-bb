@@ -464,6 +464,69 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_pPkHRi": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Blue_Joint_Prosthetics_Medical_Instagram_Post.png",
+        "mobile_image": "shopify://shop_images/Blue_Joint_Prosthetics_Medical_Instagram_Post.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 16
+      }
+    },
+    "rich_text_eGQePi": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_mbpChV": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_YKF9x6": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_txxX6c": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>« Curcuma Lab utilise une technologie d’extraction avancée qui maximise l’assimilation du curcuma, du gingembre, de la propolis et de la vitamine C.<br/>Cette synergie naturelle aide à réduire l’inflammation et à soulager les douleurs liées à l’arthrose, aux tendinites et aux raideurs articulaires. »<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_mbpChV",
+        "heading_YKF9x6",
+        "richtext_txxX6c"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -675,7 +738,7 @@
         "collapsible_text_AMhQ3X"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px;}"
+        ".section-full {padding-top: 10px;}"
       ],
       "settings": {
         "full_width": true,
@@ -1283,6 +1346,8 @@
     "trust_pilot_reviews_AxNB3A",
     "rich_text_JAypN7",
     "multi_column_BKPLPt",
+    "image_with_text_overlay_pPkHRi",
+    "rich_text_eGQePi",
     "featured-product",
     "text_with_icons_CrKgLK",
     "trust_pilot_reviews_yEVK9q",
