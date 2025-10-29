@@ -464,6 +464,32 @@
         "text_color": ""
       }
     },
+    "rich_text_DE3LKx": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_3nMDLx": {
+          "type": "subheading",
+          "settings": {
+            "text": "Formulé par des experts. Approuvé par la science."
+          }
+        }
+      },
+      "block_order": [
+        "subheading_3nMDLx"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_pPkHRi": {
       "type": "image-with-text-overlay",
       "custom_css": [
@@ -1346,6 +1372,7 @@
     "trust_pilot_reviews_AxNB3A",
     "rich_text_JAypN7",
     "multi_column_BKPLPt",
+    "rich_text_DE3LKx",
     "image_with_text_overlay_pPkHRi",
     "rich_text_eGQePi",
     "featured-product",
