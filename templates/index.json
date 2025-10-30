@@ -1193,7 +1193,7 @@
         "blog_93WUEh"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
       ],
       "name": "Blog posts",
       "settings": {
