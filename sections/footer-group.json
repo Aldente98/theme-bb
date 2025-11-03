@@ -11,6 +11,17 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "1762208816db2e7f19": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -146,6 +157,7 @@
     }
   },
   "order": [
+    "1762208816db2e7f19",
     "text-with-icons",
     "footer"
   ]
