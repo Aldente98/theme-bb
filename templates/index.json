@@ -519,25 +519,15 @@
             "text": ""
           }
         },
-        "heading_YKF9x6": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
         "richtext_txxX6c": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>« Curcuma Lab utilise une technologie d’extraction avancée qui maximise l’assimilation du curcuma, du gingembre, de la propolis et de la vitamine C.<br/>Cette synergie naturelle aide à réduire l’inflammation et à soulager les douleurs liées à l’arthrose, aux tendinites et aux raideurs articulaires. »<br/></strong><br/></p>"
+            "content": "<p><strong>« Curcuma Lab utilise une technologie d’extraction avancée qui maximise l’assimilation du curcuma, du gingembre, de la propolis et de la vitamine C.<br/>Cette synergie naturelle aide à réduire l’inflammation et à soulager les douleurs liées à l’arthrose, aux tendinites et aux raideurs articulaires.»<br/></strong><br/></p>"
           }
         }
       },
       "block_order": [
         "subheading_mbpChV",
-        "heading_YKF9x6",
         "richtext_txxX6c"
       ],
       "custom_css": [
