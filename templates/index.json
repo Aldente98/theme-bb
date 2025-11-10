@@ -864,9 +864,9 @@
           "settings": {
             "image": "shopify://shop_images/6.webp",
             "column_size": "4",
-            "title": "Vitamine C liposomal",
+            "title": "Vitamine C",
             "heading_tag": "h2",
-            "content": "<h6><strong>Le soutien du collagène.</strong></h6><h6>Favorise la<strong> formation naturelle du collagène</strong>, essentiel à la santé des cartilages et des tissus conjonctifs.<br/><br/></h6>",
+            "content": "<h6><strong>Le soutien du collagène.</strong></h6><h6>Favorise la<strong> formation naturelle du collagène</strong>, essentiel à la santé des cartilages et des tissus conjonctifs.<br/></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -877,7 +877,7 @@
           "settings": {
             "image": "shopify://shop_images/5_1c111ca4-8fe6-489a-b113-d0cff7d717f2.webp",
             "column_size": "4",
-            "title": "Huile de Coco Bio",
+            "title": "Huile de Coco",
             "heading_tag": "h2",
             "content": "<h6><strong>Le multiplicateur d’assimilation.</strong></h6><h6>Favorise une <strong>meilleure assimilation de tout les actifs</strong> liposolubles et <strong>protège le confort digestif.</strong></h6>",
             "link_url": "",
