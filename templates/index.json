@@ -154,7 +154,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Découvrez comment Curcuma Lab à changer leur quotidiens",
+        "heading": "Découvrez comment Curcuma Lab à changé leur quotidiens",
         "heading_custom": true,
         "heading_font": "montagu_slab_n4",
         "heading_size": 40,
@@ -286,7 +286,7 @@
         "heading_URMLrQ": {
           "type": "heading",
           "settings": {
-            "text": "Merci pour votre confiance.🧡",
+            "text": "",
             "heading_tag": "h5",
             "text_color": "",
             "gradient": ""
@@ -470,7 +470,7 @@
         "subheading_3nMDLx": {
           "type": "subheading",
           "settings": {
-            "text": "Formulé par des experts. Approuvé par la science."
+            "text": ""
           }
         }
       },
@@ -479,59 +479,6 @@
       ],
       "custom_css": [
         ".section-full {padding-top: 0px; padding-bottom: 0px;}"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_pPkHRi": {
-      "type": "image-with-text-overlay",
-      "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Blue_Joint_Prosthetics_Medical_Instagram_Post.png",
-        "mobile_image": "shopify://shop_images/Blue_Joint_Prosthetics_Medical_Instagram_Post.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 16
-      }
-    },
-    "rich_text_eGQePi": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_mbpChV": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "richtext_txxX6c": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>« Curcuma Lab utilise une technologie d’extraction avancée qui maximise l’assimilation du curcuma, du gingembre, de la propolis et de la vitamine C.<br/>Cette synergie naturelle aide à réduire l’inflammation et à soulager les douleurs liées à l’arthrose, aux tendinites et aux raideurs articulaires.»<br/></strong><br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_mbpChV",
-        "richtext_txxX6c"
-      ],
-      "custom_css": [
-        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
       ],
       "name": "Rich text",
       "settings": {
@@ -763,7 +710,7 @@
         "collapsible_text_AMhQ3X"
       ],
       "custom_css": [
-        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "settings": {
         "full_width": true,
@@ -781,6 +728,59 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "image_with_text_overlay_pPkHRi": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Blue_Joint_Prosthetics_Medical_Instagram_Post.png",
+        "mobile_image": "shopify://shop_images/Blue_Joint_Prosthetics_Medical_Instagram_Post.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 16
+      }
+    },
+    "rich_text_eGQePi": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_mbpChV": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "richtext_txxX6c": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>« Curcuma Lab utilise une technologie d’extraction avancée qui maximise l’assimilation du curcuma, du gingembre, de la propolis et de la vitamine C.<br/>Cette synergie naturelle aide à réduire l’inflammation et à soulager les douleurs liées à l’arthrose, aux tendinites et aux raideurs articulaires.»<br/></strong><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_mbpChV",
+        "richtext_txxX6c"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "text_with_icons_CrKgLK": {
@@ -1378,9 +1378,9 @@
     "rich_text_JAypN7",
     "multi_column_BKPLPt",
     "rich_text_DE3LKx",
+    "featured-product",
     "image_with_text_overlay_pPkHRi",
     "rich_text_eGQePi",
-    "featured-product",
     "text_with_icons_CrKgLK",
     "trust_pilot_reviews_yEVK9q",
     "multi_column_7xMgen",
