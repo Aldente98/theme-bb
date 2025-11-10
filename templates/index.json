@@ -750,6 +750,27 @@
         "overlay_opacity": 16
       }
     },
+    "image_link_blocks_VhwPgj": {
+      "type": "image-link-blocks",
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "small",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "shopify://blogs/news",
+        "link_text": "Consulter les revus scientifique",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "rich_text_eGQePi": {
       "type": "rich-text",
       "blocks": {
@@ -771,13 +792,120 @@
         "richtext_txxX6c"
       ],
       "custom_css": [
-        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_7xMgen": {
+      "type": "multi-column",
+      "blocks": {
+        "item_naQQhr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1_f1857d30-154b-4419-abd1-7bf43cefe927.webp",
+            "column_size": "4",
+            "title": "Curcuma Bio",
+            "heading_tag": "h2",
+            "content": "<ul><li><strong>Apaise naturellement les inflammations articulaires </strong>et musculaires.</li><li>Soutient la souplesse et <strong>le confort des mouvements.</strong></li><li>Possède une <strong>forte action antioxydante</strong>, qui protège les cellules du stress oxydatif.<br/></li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qAFwKp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_ca8cb619-6327-416e-abbc-fc1286ddf172.webp",
+            "column_size": "4",
+            "title": "Poivre Bio",
+            "heading_tag": "h2",
+            "content": "<ul><li>Possède lui aussi des <strong>propriétés anti-inflammatoires et antioxydantes</strong>.</li><li>Multiplie l’assimilation de la curcumine jusqu’à<strong> 20 fois.</strong></li><li><strong>Renforce l’efficacité anti-inflammatoire </strong>du curcuma.</li><li><strong>Stimule la digestion </strong>et améliore <strong>l’équilibre intestinal</strong>.<br/></li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ExaLyr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_322953d3-b832-48e8-8308-39266588aff6.webp",
+            "column_size": "4",
+            "title": "Ginbembre Bio",
+            "heading_tag": "h2",
+            "content": "<ul><li>Connu pour ses effets <strong>anti-inflammatoires, antinauséeux et digestifs</strong>.</li><li>Favorise l<strong>a mobilité</strong> et<strong> la récupération </strong>après l’effort.</li><li><strong>Soutient la circulation sanguine</strong> et aide à <strong>réduire les tensions musculaires et articulaires.</strong></li><li>Apporte <strong>une énergie naturelle</strong> et un <strong>tonus durable.</strong></li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AGGXct": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_490c514f-9783-43a9-ba38-c47b7ef510b4.webp",
+            "column_size": "4",
+            "title": "Propolis Pure",
+            "heading_tag": "h2",
+            "content": "<ul><li>Possède des propriétés <strong>antibactériennes, antivirales et anti-inflammatoires</strong>.</li><li>Soutient le <strong>système immunitaire</strong> et aide à combattre les infections.</li><li>Protège le corps grâce à sa richesse en <strong>antioxydants naturels.</strong></li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yNLYgW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6.webp",
+            "column_size": "4",
+            "title": "Vitamine C liposomal",
+            "heading_tag": "h2",
+            "content": "<ul><li>Aide à <strong>réduire la fatigue</strong> et à <strong>protéger les cellules du stress oxydatif</strong>.</li><li><strong>Renforce le système immunitaire </strong>au quotidien.</li><li>Joue un <strong>rôle clé </strong>dans la <strong>production de collagène</strong> pour les os, la peau et les articulations.</li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_938kAg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_1c111ca4-8fe6-489a-b113-d0cff7d717f2.webp",
+            "column_size": "4",
+            "title": "Huile de Coco Bio",
+            "heading_tag": "h2",
+            "content": "<ul><li>Possède des <strong>propriétés antimicrobiennes et antifongiques</strong> naturelles.</li><li><strong>Facilite l’absorption </strong>des actifs liposolubles comme la curcumine.</li><li><strong>Protège la muqueuse digestive</strong> et <strong>améliore la tolérance </strong>du produit.</li><li>Apporte un effet <strong>adoucissant et rééquilibrant au système digestif.</strong></li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_naQQhr",
+        "item_qAFwKp",
+        "item_ExaLyr",
+        "item_AGGXct",
+        "item_yNLYgW",
+        "item_938kAg"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Des ingrédients rigoureusement sélectionnés :",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -799,6 +927,47 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "rich_text_cC9kGz": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_izhkD6": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3>Vous doutez encore ?</h3>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_izhkD6"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 20px; padding-bottom: 0px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_kRhnNB": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Retrouver_la_liberte_de_bouger_sans_crainte_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "trust_pilot_reviews_yEVK9q": {
@@ -1028,154 +1197,6 @@
         "lazy": true
       }
     },
-    "multi_column_7xMgen": {
-      "type": "multi-column",
-      "blocks": {
-        "item_naQQhr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1_f1857d30-154b-4419-abd1-7bf43cefe927.webp",
-            "column_size": "4",
-            "title": "Curcuma Bio",
-            "heading_tag": "h2",
-            "content": "<ul><li><strong>Apaise naturellement les inflammations articulaires </strong>et musculaires.</li><li>Soutient la souplesse et <strong>le confort des mouvements.</strong></li><li>Possède une <strong>forte action antioxydante</strong>, qui protège les cellules du stress oxydatif.<br/></li></ul>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_qAFwKp": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2_ca8cb619-6327-416e-abbc-fc1286ddf172.webp",
-            "column_size": "4",
-            "title": "Poivre Bio",
-            "heading_tag": "h2",
-            "content": "<ul><li>Possède lui aussi des <strong>propriétés anti-inflammatoires et antioxydantes</strong>.</li><li>Multiplie l’assimilation de la curcumine jusqu’à<strong> 20 fois.</strong></li><li><strong>Renforce l’efficacité anti-inflammatoire </strong>du curcuma.</li><li><strong>Stimule la digestion </strong>et améliore <strong>l’équilibre intestinal</strong>.<br/></li></ul>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_ExaLyr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4_322953d3-b832-48e8-8308-39266588aff6.webp",
-            "column_size": "4",
-            "title": "Ginbembre Bio",
-            "heading_tag": "h2",
-            "content": "<ul><li>Connu pour ses effets <strong>anti-inflammatoires, antinauséeux et digestifs</strong>.</li><li>Favorise l<strong>a mobilité</strong> et<strong> la récupération </strong>après l’effort.</li><li><strong>Soutient la circulation sanguine</strong> et aide à <strong>réduire les tensions musculaires et articulaires.</strong></li><li>Apporte <strong>une énergie naturelle</strong> et un <strong>tonus durable.</strong></li></ul>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AGGXct": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3_490c514f-9783-43a9-ba38-c47b7ef510b4.webp",
-            "column_size": "4",
-            "title": "Propolis Pure",
-            "heading_tag": "h2",
-            "content": "<ul><li>Possède des propriétés <strong>antibactériennes, antivirales et anti-inflammatoires</strong>.</li><li>Soutient le <strong>système immunitaire</strong> et aide à combattre les infections.</li><li>Protège le corps grâce à sa richesse en <strong>antioxydants naturels.</strong></li></ul>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yNLYgW": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/6.webp",
-            "column_size": "4",
-            "title": "Vitamine C liposomal",
-            "heading_tag": "h2",
-            "content": "<ul><li>Aide à <strong>réduire la fatigue</strong> et à <strong>protéger les cellules du stress oxydatif</strong>.</li><li><strong>Renforce le système immunitaire </strong>au quotidien.</li><li>Joue un <strong>rôle clé </strong>dans la <strong>production de collagène</strong> pour les os, la peau et les articulations.</li></ul>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_938kAg": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5_1c111ca4-8fe6-489a-b113-d0cff7d717f2.webp",
-            "column_size": "4",
-            "title": "Huile de Coco Bio",
-            "heading_tag": "h2",
-            "content": "<ul><li>Possède des <strong>propriétés antimicrobiennes et antifongiques</strong> naturelles.</li><li><strong>Facilite l’absorption </strong>des actifs liposolubles comme la curcumine.</li><li><strong>Protège la muqueuse digestive</strong> et <strong>améliore la tolérance </strong>du produit.</li><li>Apporte un effet <strong>adoucissant et rééquilibrant au système digestif.</strong></li></ul>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_naQQhr",
-        "item_qAFwKp",
-        "item_ExaLyr",
-        "item_AGGXct",
-        "item_yNLYgW",
-        "item_938kAg"
-      ],
-      "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Des ingrédients rigoureusement sélectionnés :",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_cC9kGz": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_izhkD6": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h3>Vous doutez encore ?</h3>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_izhkD6"
-      ],
-      "custom_css": [
-        ".section-full {padding-top: 20px; padding-bottom: 0px;}"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_kRhnNB": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Retrouver_la_liberte_de_bouger_sans_crainte_1.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "blog_posts_b8FDbX": {
       "type": "blog-posts",
       "blocks": {
@@ -1191,6 +1212,7 @@
       "block_order": [
         "blog_93WUEh"
       ],
+      "disabled": true,
       "custom_css": [
         ".section-full {padding-top: 10px; padding-bottom: 0px;}"
       ],
@@ -1243,6 +1265,7 @@
       "block_order": [
         "image_tHcQLa"
       ],
+      "disabled": true,
       "custom_css": [
         ".section-full {padding-top: 25px;}"
       ],
@@ -1331,12 +1354,12 @@
         "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "#ffffff",
+        "text_color": "#1a1a1a",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "#ffffff",
         "button_text_color": "#044936",
-        "accordion_background": "#044936",
+        "accordion_background": "#f2f2f2",
         "accordion_text_color": ""
       }
     },
@@ -1380,12 +1403,13 @@
     "rich_text_DE3LKx",
     "featured-product",
     "image_with_text_overlay_pPkHRi",
+    "image_link_blocks_VhwPgj",
     "rich_text_eGQePi",
-    "text_with_icons_CrKgLK",
-    "trust_pilot_reviews_yEVK9q",
     "multi_column_7xMgen",
+    "text_with_icons_CrKgLK",
     "rich_text_cC9kGz",
     "image_with_text_overlay_kRhnNB",
+    "trust_pilot_reviews_yEVK9q",
     "blog_posts_b8FDbX",
     "media_with_text_TDQaKM",
     "faq_MQHPPV",
