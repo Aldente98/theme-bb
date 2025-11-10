@@ -623,6 +623,14 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "image_ADk7VP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Soulagement_rapide_des_douleurs_articulaires_et_musculaires.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "kaching_bundles_app_block_xHYxAn": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -739,6 +747,7 @@
         "rating",
         "variant-picker",
         "quantity-selector",
+        "image_ADk7VP",
         "kaching_bundles_app_block_xHYxAn",
         "buy_buttons_FdpYbt",
         "image_wBwy9z",
