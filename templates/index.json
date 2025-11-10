@@ -573,7 +573,7 @@
         "image_ADk7VP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Soulagement_rapide_des_douleurs_articulaires_et_musculaires.png",
+            "image": "shopify://shop_images/Soulagement_rapide_des_douleurs_articulaires_et_musculaires_1.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -710,7 +710,7 @@
         "collapsible_text_AMhQ3X"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
       ],
       "settings": {
         "full_width": true,
