@@ -154,7 +154,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Découvrez comment Curcuma Lab à changé leur quotidiens",
+        "heading": "Découvrez comment Curcuma Lab a changé leur quotidien",
         "heading_custom": true,
         "heading_font": "montagu_slab_n4",
         "heading_size": 40,
@@ -589,8 +589,8 @@
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#ffb74a",
-            "atc_button_text_color": "#1a1a1a",
+            "atc_button_background": "#1a1a1a",
+            "atc_button_text_color": "#ffffff",
             "payment_button_background": "#ffffff",
             "payment_button_text_color": "#ffffff"
           }
