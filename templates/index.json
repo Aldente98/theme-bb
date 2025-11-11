@@ -1352,13 +1352,13 @@
         "button_text": "Contactez-nous en cliquant ici !",
         "button_url": "shopify://pages/contact",
         "text_position": "center",
-        "background": "",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": "#1a1a1a",
         "heading_color": "",
         "heading_gradient": "",
-        "button_background": "#ffffff",
-        "button_text_color": "#044936",
+        "button_background": "#044936",
+        "button_text_color": "#ffffff",
         "accordion_background": "#f2f2f2",
         "accordion_text_color": ""
       }
