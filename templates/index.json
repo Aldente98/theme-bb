@@ -109,7 +109,7 @@
         "richtext_MG3U86": {
           "type": "richtext",
           "settings": {
-            "content": "<h4>Des bénéfices visibles et bien plus</h4>"
+            "content": "<h4>Des résultats visibles et bien plus</h4>"
           }
         }
       },
@@ -573,7 +573,7 @@
         "image_ADk7VP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Soulagement_rapide_des_douleurs_articulaires_et_musculaires_1.png",
+            "image": "shopify://shop_images/Soulagement_rapide_des_douleurs_articulaires_et_musculaires_2.png",
             "alignment": "center",
             "max_width": 500
           }
