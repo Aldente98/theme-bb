@@ -584,6 +584,14 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "image_jbgPDV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_mois_OFFERT_1Pilulier_OFFERT.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "buy_buttons_FdpYbt": {
           "type": "buy_buttons",
           "settings": {
@@ -696,6 +704,7 @@
         "quantity-selector",
         "image_ADk7VP",
         "kaching_bundles_app_block_xHYxAn",
+        "image_jbgPDV",
         "buy_buttons_FdpYbt",
         "image_wBwy9z",
         "image_3XMc4j",
