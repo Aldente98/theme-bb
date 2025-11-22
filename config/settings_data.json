@@ -32,6 +32,7 @@
     "product_card_text_color": "#1a1a1a",
     "product_rating_color": "#00b67a",
     "product_on_sale_accent": "#2e4147",
+    "product_sold_out_badge_background": "#f83a3a",
     "product_primary_badge_background": "#1a1a1a",
     "heading_font": "montagu_slab_n4",
     "heading_font_size": "large",
