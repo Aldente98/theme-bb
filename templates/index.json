@@ -110,14 +110,13 @@
         "richtext_MG3U86": {
           "type": "richtext",
           "settings": {
-            "content": "<h5>Retrouvez une mobilité sans douleur naturellement.<br/><br/></h5>"
+            "content": "<h4>Ne dépendez plus des autres...</h4>"
           }
         }
       },
       "block_order": [
         "richtext_MG3U86"
       ],
-      "disabled": true,
       "custom_css": [
         ".section-full {padding-top: 20px; padding-bottom: 5px;}"
       ],
