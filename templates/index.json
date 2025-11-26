@@ -28,7 +28,8 @@
         "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ajouter_un_titre_29.png",
+        "image": "shopify://shop_images/excellent_4.85_1200_avis_1.png",
+        "mobile_image": "shopify://shop_images/excellent_4.85_1200_avis_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -109,13 +110,14 @@
         "richtext_MG3U86": {
           "type": "richtext",
           "settings": {
-            "content": "<h5>Retrouvez une mobilité sans douleur en 30 jours naturellement.<br/><br/></h5>"
+            "content": "<h5>Retrouvez une mobilité sans douleur naturellement.<br/><br/></h5>"
           }
         }
       },
       "block_order": [
         "richtext_MG3U86"
       ],
+      "disabled": true,
       "custom_css": [
         ".section-full {padding-top: 20px; padding-bottom: 5px;}"
       ],
@@ -131,7 +133,9 @@
     },
     "image_with_text_overlay_pjaxby": {
       "type": "image-with-text-overlay",
-      "custom_css": [],
+      "custom_css": [
+        ".section-full {padding-top: 30px; padding-bottom: 0px;}"
+      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
