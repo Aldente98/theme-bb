@@ -1288,13 +1288,6 @@
     "faq_MQHPPV": {
       "type": "faq",
       "blocks": {
-        "item_qfyPPE": {
-          "type": "item",
-          "settings": {
-            "title": "Quels sont les délais de livraison ?",
-            "content": "<p>Délai de traitement : 1 à 3 jours ouvrés<br/>Délai de livraison : 6 à 9 jours ouvrés</p><p><br/><strong>Victime de son succès</strong> ! la cure peut être <strong>temporairement</strong> en rupture de stock, cette rupture peut durer 2 à 3 semaine <strong>mais nous expédions toujours par ordre de priorité.</strong></p><p> <strong>Pensez à commander à l’avance !</strong><br/><br/></p>"
-          }
-        },
         "item_8yPykD": {
           "type": "item",
           "settings": {
@@ -1336,16 +1329,23 @@
             "title": "Combien de gélules je dois prendre par jour ?",
             "content": "<p>1 à 2 gélules par jour suffisent, à prendre avec un verre d’eau, de préférence après un repas. Un flacon couvre 30 jours de cure complète.</p>"
           }
+        },
+        "item_qfyPPE": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Délai de traitement : 1 à 3 jours ouvrés<br/>Délai de livraison : 6 à 9 jours ouvrés</p><p><br/><strong>Victime de son succès</strong> ! la cure peut être <strong>temporairement</strong> en rupture de stock, cette rupture peut durer 2 à 3 semaine <strong>mais nous expédions toujours par ordre de priorité.</strong></p><p> <strong>Pensez à commander à l’avance !</strong><br/><br/></p>"
+          }
         }
       },
       "block_order": [
-        "item_qfyPPE",
         "item_8yPykD",
         "item_Qt9h7g",
         "item_mrg8b4",
         "item_K9EhFR",
         "item_XY77ii",
-        "item_6cJAWF"
+        "item_6cJAWF",
+        "item_qfyPPE"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px; padding-bottom: 0;}"
