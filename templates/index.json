@@ -490,6 +490,44 @@
         "text_color": ""
       }
     },
+    "blog_posts_b8FDbX": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog_93WUEh": {
+          "type": "blog",
+          "settings": {
+            "blog": "news",
+            "posts_count": 6,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "blog_93WUEh"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
+      ],
+      "name": "Blog posts",
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": false,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": true,
+        "subheading": "",
+        "title": "",
+        "content": "<h4>Des études concrètes<br/><br/></h4>",
+        "link_url": "https://curcumalab.com/blogs/news",
+        "link_text": "Voir toutes les études scientifiques",
+        "background": "#f9f9f9",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -543,12 +581,6 @@
             "max_width": 500
           }
         },
-        "liquid_NnNFhj": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .product__inventory {\n    padding-top: 10px; /* Adjust as needed */\n    padding-bottom: 10px; /* Adjust as needed */\n  }\n</style>\n\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"15\" height=\"15\" aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(255, 0, 0, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(255, 0, 0)\"></circle>\n</svg> Plus que 6 en stock !</p>"
-          }
-        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -576,6 +608,12 @@
             "image": "shopify://shop_images/Soulagement_rapide_des_douleurs_articulaires_et_musculaires_2.png",
             "alignment": "center",
             "max_width": 500
+          }
+        },
+        "liquid_NnNFhj": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .product__inventory {\n    padding-top: 10px; /* Adjust as needed */\n    padding-bottom: 10px; /* Adjust as needed */\n  }\n</style>\n\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"15\" height=\"15\" aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(255, 0, 0, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(255, 0, 0)\"></circle>\n</svg> Plus que 6 en stock !</p>"
           }
         },
         "kaching_bundles_app_block_xHYxAn": {
@@ -698,11 +736,11 @@
         "price",
         "image_pRggRB",
         "image_h9L7gC",
-        "liquid_NnNFhj",
         "rating",
         "variant-picker",
         "quantity-selector",
         "image_ADk7VP",
+        "liquid_NnNFhj",
         "kaching_bundles_app_block_xHYxAn",
         "image_jbgPDV",
         "buy_buttons_FdpYbt",
@@ -848,6 +886,7 @@
     },
     "image_with_text_overlay_pPkHRi": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "custom_css": [
         ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
@@ -868,6 +907,7 @@
     },
     "image_link_blocks_VhwPgj": {
       "type": "image-link-blocks",
+      "disabled": true,
       "custom_css": [
         ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
@@ -907,6 +947,7 @@
         "subheading_mbpChV",
         "richtext_txxX6c"
       ],
+      "disabled": true,
       "custom_css": [
         ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
@@ -951,6 +992,7 @@
       "block_order": [
         "richtext_izhkD6"
       ],
+      "disabled": true,
       "custom_css": [
         ".section-full {padding-top: 20px; padding-bottom: 0px;}"
       ],
@@ -966,6 +1008,7 @@
     },
     "image_with_text_overlay_kRhnNB": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -1206,45 +1249,6 @@
         "lazy": true
       }
     },
-    "blog_posts_b8FDbX": {
-      "type": "blog-posts",
-      "blocks": {
-        "blog_93WUEh": {
-          "type": "blog",
-          "settings": {
-            "blog": "news",
-            "posts_count": 6,
-            "stack_items": false
-          }
-        }
-      },
-      "block_order": [
-        "blog_93WUEh"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
-      ],
-      "name": "Blog posts",
-      "settings": {
-        "full_width": true,
-        "show_excerpt": true,
-        "show_date": false,
-        "show_author": false,
-        "show_comments_count": false,
-        "show_category": true,
-        "subheading": "",
-        "title": "",
-        "content": "<h4>Des études concrètes<br/><br/></h4>",
-        "link_url": "https://curcumalab.com/blogs/news",
-        "link_text": "Voir toutes les études scientifiques",
-        "background": "#f9f9f9",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "media_with_text_TDQaKM": {
       "type": "media-with-text",
       "blocks": {
@@ -1410,6 +1414,7 @@
     "rich_text_JAypN7",
     "multi_column_BKPLPt",
     "rich_text_DE3LKx",
+    "blog_posts_b8FDbX",
     "featured-product",
     "multi_column_7xMgen",
     "image_with_text_overlay_pPkHRi",
@@ -1419,7 +1424,6 @@
     "rich_text_cC9kGz",
     "image_with_text_overlay_kRhnNB",
     "trust_pilot_reviews_yEVK9q",
-    "blog_posts_b8FDbX",
     "media_with_text_TDQaKM",
     "faq_MQHPPV",
     "1762211037bc5982f6"
