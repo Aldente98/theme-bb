@@ -28,8 +28,8 @@
         "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/excellent_4.85_1200_avis_10.png",
-        "mobile_image": "shopify://shop_images/excellent_4.85_1200_avis_10.png",
+        "image": "shopify://shop_images/excellent_4.85_1200_avis_12.png",
+        "mobile_image": "shopify://shop_images/excellent_4.85_1200_avis_12.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -110,7 +110,7 @@
         "richtext_MG3U86": {
           "type": "richtext",
           "settings": {
-            "content": "<h5><strong>2 gélules par jour facile à avaler, sans effets secondaires.</strong></h5>"
+            "content": "<h6><strong>2 gélules par jour, faciles à avaler, sans effets secondaires.</strong></h6>"
           }
         }
       },
