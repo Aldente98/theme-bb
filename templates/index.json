@@ -110,7 +110,7 @@
         "richtext_MG3U86": {
           "type": "richtext",
           "settings": {
-            "content": "<h4>Ne dépendez plus des autres...</h4>"
+            "content": "<h5><strong>2 gélules par jour facile à avaler, sans effets secondaires.</strong></h5>"
           }
         }
       },
@@ -498,6 +498,7 @@
       "blocks": {
         "blog_93WUEh": {
           "type": "blog",
+          "disabled": true,
           "settings": {
             "blog": "news",
             "posts_count": 6,
@@ -518,7 +519,7 @@
         "show_date": false,
         "show_author": false,
         "show_comments_count": false,
-        "show_category": true,
+        "show_category": false,
         "subheading": "",
         "title": "",
         "content": "<h4>Des études concrètes<br/><br/></h4>",
