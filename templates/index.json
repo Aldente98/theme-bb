@@ -527,7 +527,7 @@
         "item_W9jMi8"
       ],
       "custom_css": [
-        ".section-full {padding-top: 20px; padding-bottom: 0px;}"
+        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
       ],
       "settings": {
         "full_width": true,
