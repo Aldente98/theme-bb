@@ -10119,7 +10119,7 @@ shopify-accelerated-checkout, shopify-accelerated-checkout-cart {
 .icon-search {
   display: none;
 }
-/* Cacher complètement la section "Numéro de suivi" */
+
 .track-order__tracking-number,
 .track-order__tracking-number input,
 .track-order__tracking-number label,
