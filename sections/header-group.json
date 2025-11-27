@@ -16,6 +16,7 @@
       "blocks": {
         "message": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Livraison Offerte",
             "url": ""
@@ -23,6 +24,7 @@
         },
         "message_tFdNKn": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Satisfait ou Remboursé",
             "url": ""
@@ -30,8 +32,16 @@
         },
         "message_hnydnq": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Black Friday Offre Spéciale",
+            "url": ""
+          }
+        },
+        "message_fVhYaJ": {
+          "type": "message",
+          "settings": {
+            "text": "⚡OFFRE SPÉCIAL BLACK FRIDAY -60%⚡",
             "url": ""
           }
         }
@@ -39,16 +49,17 @@
       "block_order": [
         "message",
         "message_tFdNKn",
-        "message_hnydnq"
+        "message_hnydnq",
+        "message_fVhYaJ"
       ],
       "settings": {
         "enable_sticky": true,
         "autoplay": true,
         "cycle_speed": 11,
         "text_size": "text-xxs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#044936",
+        "background": "#ffad0d",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
