@@ -467,6 +467,81 @@
         "text_color": ""
       }
     },
+    "multi_column_haLU7R": {
+      "type": "multi-column",
+      "blocks": {
+        "item_LaUFra": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GhtjYg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JN3q43": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Xq79zi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5.png",
+            "column_size": "3",
+            "title": "Sophie, 55 ans",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_LaUFra",
+        "item_GhtjYg",
+        "item_JN3q43",
+        "item_Xq79zi"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_DE3LKx": {
       "type": "rich-text",
       "blocks": {
@@ -1431,6 +1506,7 @@
     "trust_pilot_reviews_AxNB3A",
     "rich_text_JAypN7",
     "multi_column_BKPLPt",
+    "multi_column_haLU7R",
     "rich_text_DE3LKx",
     "blog_posts_b8FDbX",
     "featured-product",
