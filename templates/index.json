@@ -696,12 +696,6 @@
             "max_width": 500
           }
         },
-        "liquid_K7XPef": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "{% comment %}\n  Snippet d'Avertissement de Stock Bas\n  Usage: {% render 'avertissement-stock-bas', fois_vendu: 12 %}\n{% endcomment %}\n\n{% assign fois_vendu = fois_vendu | default: 12 %}\n\n<div class=\"avertissement-stock-bas\">\n  <div class=\"entete-avertissement\">\n    <span class=\"icone-avertissement\">⚠️\n</span>\n    <span class=\"titre-avertissement\">ATTENTION : Avis de Stock Limité</span>\n  </div>\n\n  <div class=\"contenu-avertissement\">\n    <p class=\"message-avertissement\">\n      Ce produit a été en rupture de stock <strong>{{ fois_vendu }} fois</strong> l'année dernière. Nous vous encourageons à profiter de la vente limitée et à acheter maintenant.\n    </p>\n\n    <p class=\"avertissement-ps\">\n      <strong>PS :</strong> Uniquement disponible ici, n'achetez pas de <strong>contrefaçons sur Amazon/eBay</strong>.\n    </p>\n  </div>\n</div>\n\n<style>\n  .avertissement-stock-bas {\n    background-color: #fff5f5;\n    border: 1px solid #fed7d7;\n    border-radius: 8px;\n    padding: 16px;\n    margin: 20px 0;\n    font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Arial, sans-serif;\n  }\n\n  .entete-avertissement {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    margin-bottom: 12px;\n  }\n\n  .icone-avertissement {\n    font-size: 20px;\n  }\n\n  .titre-avertissement {\n    font-size: 16px;\n    font-weight: 600;\n    color: #2d3748;\n  }\n\n  .contenu-avertissement {\n    color: #4a5568;\n    font-size: 14px;\n    line-height: 1.6;\n  }\n\n  .message-avertissement {\n    margin: 0 0 12px 0;\n  }\n\n  .avertissement-ps {\n    margin: 0;\n    color: #718096;\n    font-size: 13px;\n  }\n\n  .contenu-avertissement strong {\n    color: #2d3748;\n    font-weight: 600;\n  }\n</style>"
-          }
-        },
         "liquid_NnNFhj": {
           "type": "liquid",
           "settings": {
@@ -833,7 +827,6 @@
         "variant-picker",
         "quantity-selector",
         "image_ADk7VP",
-        "liquid_K7XPef",
         "liquid_NnNFhj",
         "kaching_bundles_app_block_xHYxAn",
         "image_jbgPDV",
