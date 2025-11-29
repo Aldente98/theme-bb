@@ -569,6 +569,7 @@
         },
         "image_jbgPDV": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Copie_de_derniere_chance_livraison_premium_4.png",
             "alignment": "center",
