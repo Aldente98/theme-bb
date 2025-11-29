@@ -319,6 +319,154 @@
         "text_color": ""
       }
     },
+    "multi_column_BKPLPt": {
+      "type": "multi-column",
+      "blocks": {
+        "item_MwJML3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_21282528-56b3-4dce-85ba-f7106e9cf19d.png",
+            "column_size": "3",
+            "title": "Nathalie, 45 ans",
+            "heading_tag": "h4",
+            "content": "<p>“Je me réveillais la nuit à cause de la douleur au poignet. Depuis que j’ai commencé la cure de 3 mois, la douleur et les gonflements liés à mon arthrose ont nettement diminué. Quel soulagement.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "Client vérifié ✓",
+            "link_style": "link"
+          }
+        },
+        "item_JJLm4U": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_b1cb5490-76a9-4d89-b4e7-68b11bfca4c3.png",
+            "column_size": "3",
+            "title": "Aurélie, 52 ans",
+            "heading_tag": "h4",
+            "content": "<p>\"J’avais tout essayé pour mes douleurs chroniques… rien ne tenait. j'ai pris la cure 3 mois et c’est la première fois que je ressens un soulagement durable. Je suis trop contente.\"</p>",
+            "link_url": "",
+            "link_text": "Client vérifié ✓",
+            "link_style": "link"
+          }
+        },
+        "item_7BdeiK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_6a2343fb-6ddd-4f95-bca1-99ff7db402b1.png",
+            "column_size": "3",
+            "title": "Julie, 47 ans",
+            "heading_tag": "h4",
+            "content": "<p>\"Je prends des compléments depuis des années pour mes douleurs… et honnêtement, peu ont donné un résultat aussi complet. Cette cure apaise vraiment et me redonne de l’énergie pour la journée\"</p>",
+            "link_url": "",
+            "link_text": "Client vérifié ✓",
+            "link_style": "link"
+          }
+        },
+        "item_GECyWQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_4518f163-3e02-4e70-968d-fd19d82b18e5.png",
+            "column_size": "3",
+            "title": "Sophie, 55 ans",
+            "heading_tag": "h4",
+            "content": "<p>\"Ma cheville était gonflée et douloureuse depuis des mois. Après la cure CurcumaLab, le gonflement a nettement diminué et je remarche enfin sans gêne. Très satisfaite.\"</p>",
+            "link_url": "",
+            "link_text": "Client vérifié ✓",
+            "link_style": "link"
+          }
+        },
+        "item_GtVHmE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/55.png",
+            "column_size": "3",
+            "title": "Francoise, 51 ans",
+            "heading_tag": "h4",
+            "content": "<p>\"Moins de raideur, moins de crispation le soir. Je sens la différence chaque jour. Hyper simple à suivre.\"</p>",
+            "link_url": "",
+            "link_text": "Client vérifié ✓",
+            "link_style": "link"
+          }
+        },
+        "item_dHXQqT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Ajouter_un_titre_20.png",
+            "column_size": "3",
+            "title": "Marie, 49ans",
+            "heading_tag": "h4",
+            "content": "<p>\"Ce qui me frappe, c’est la tolérance. Pas d’inconfort digestif, pas de montée d’acidité. L’huile de coco équilibre parfaitement la formule, et les effets sont constants dans le temps.\"</p>",
+            "link_url": "",
+            "link_text": "Client vérifié ✓",
+            "link_style": "link"
+          }
+        },
+        "item_Gf3Fea": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/48.png",
+            "column_size": "3",
+            "title": "Sophie, 57 ans",
+            "heading_tag": "h4",
+            "content": "<p>“Je voulais éviter la chirurgie et les anti-inflammatoires. Après quelques semaines, la douleur à l’épaule a diminué et mes mains sont beaucoup moins douloureuses au réveil. Je suis contente du résultat.”</p>",
+            "link_url": "",
+            "link_text": "Client vérifié ✓",
+            "link_style": "link"
+          }
+        },
+        "item_tXhkFJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/53.png",
+            "column_size": "3",
+            "title": "Isabelle, 56 ans",
+            "heading_tag": "h4",
+            "content": "<p>Mon médecin m’avait conseillé le curcuma pour les douleurs liées à la ménopause. Après quelques mois, mes raideurs et mes douleurs ont énormément diminué. Je n’ai plus besoin d’antidouleurs. Très facile à avaler et produit de super qualité.</p>",
+            "link_url": "",
+            "link_text": "Client vérifié ✓",
+            "link_style": "link"
+          }
+        },
+        "item_W9jMi8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/51.png",
+            "column_size": "3",
+            "title": "Claire, 54 ans",
+            "heading_tag": "h4",
+            "content": "<p>\"Pas de maux d’estomac comme avec d’autres marques. Je continue la cure pour voir les résultats sur la durée.\"</p>",
+            "link_url": "",
+            "link_text": "Client vérifié ✓",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_MwJML3",
+        "item_JJLm4U",
+        "item_7BdeiK",
+        "item_GECyWQ",
+        "item_GtVHmE",
+        "item_dHXQqT",
+        "item_Gf3Fea",
+        "item_tXhkFJ",
+        "item_W9jMi8"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -574,154 +722,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "multi_column_BKPLPt": {
-      "type": "multi-column",
-      "blocks": {
-        "item_MwJML3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2_21282528-56b3-4dce-85ba-f7106e9cf19d.png",
-            "column_size": "3",
-            "title": "Nathalie, 45 ans",
-            "heading_tag": "h4",
-            "content": "<p>“Je me réveillais la nuit à cause de la douleur au poignet. Depuis que j’ai commencé la cure de 3 mois, la douleur et les gonflements liés à mon arthrose ont nettement diminué. Quel soulagement.<br/><br/></p>",
-            "link_url": "",
-            "link_text": "Client vérifié ✓",
-            "link_style": "link"
-          }
-        },
-        "item_JJLm4U": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4_b1cb5490-76a9-4d89-b4e7-68b11bfca4c3.png",
-            "column_size": "3",
-            "title": "Aurélie, 52 ans",
-            "heading_tag": "h4",
-            "content": "<p>\"J’avais tout essayé pour mes douleurs chroniques… rien ne tenait. j'ai pris la cure 3 mois et c’est la première fois que je ressens un soulagement durable. Je suis trop contente.\"</p>",
-            "link_url": "",
-            "link_text": "Client vérifié ✓",
-            "link_style": "link"
-          }
-        },
-        "item_7BdeiK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5_6a2343fb-6ddd-4f95-bca1-99ff7db402b1.png",
-            "column_size": "3",
-            "title": "Julie, 47 ans",
-            "heading_tag": "h4",
-            "content": "<p>\"Je prends des compléments depuis des années pour mes douleurs… et honnêtement, peu ont donné un résultat aussi complet. Cette cure apaise vraiment et me redonne de l’énergie pour la journée\"</p>",
-            "link_url": "",
-            "link_text": "Client vérifié ✓",
-            "link_style": "link"
-          }
-        },
-        "item_GECyWQ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3_4518f163-3e02-4e70-968d-fd19d82b18e5.png",
-            "column_size": "3",
-            "title": "Sophie, 55 ans",
-            "heading_tag": "h4",
-            "content": "<p>\"Ma cheville était gonflée et douloureuse depuis des mois. Après la cure CurcumaLab, le gonflement a nettement diminué et je remarche enfin sans gêne. Très satisfaite.\"</p>",
-            "link_url": "",
-            "link_text": "Client vérifié ✓",
-            "link_style": "link"
-          }
-        },
-        "item_GtVHmE": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/55.png",
-            "column_size": "3",
-            "title": "Francoise, 51 ans",
-            "heading_tag": "h4",
-            "content": "<p>\"Moins de raideur, moins de crispation le soir. Je sens la différence chaque jour. Hyper simple à suivre.\"</p>",
-            "link_url": "",
-            "link_text": "Client vérifié ✓",
-            "link_style": "link"
-          }
-        },
-        "item_dHXQqT": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Ajouter_un_titre_20.png",
-            "column_size": "3",
-            "title": "Marie, 49ans",
-            "heading_tag": "h4",
-            "content": "<p>\"Ce qui me frappe, c’est la tolérance. Pas d’inconfort digestif, pas de montée d’acidité. L’huile de coco équilibre parfaitement la formule, et les effets sont constants dans le temps.\"</p>",
-            "link_url": "",
-            "link_text": "Client vérifié ✓",
-            "link_style": "link"
-          }
-        },
-        "item_Gf3Fea": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/48.png",
-            "column_size": "3",
-            "title": "Sophie, 57 ans",
-            "heading_tag": "h4",
-            "content": "<p>“Je voulais éviter la chirurgie et les anti-inflammatoires. Après quelques semaines, la douleur à l’épaule a diminué et mes mains sont beaucoup moins douloureuses au réveil. Je suis contente du résultat.”</p>",
-            "link_url": "",
-            "link_text": "Client vérifié ✓",
-            "link_style": "link"
-          }
-        },
-        "item_tXhkFJ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/53.png",
-            "column_size": "3",
-            "title": "Isabelle, 56 ans",
-            "heading_tag": "h4",
-            "content": "<p>Mon médecin m’avait conseillé le curcuma pour les douleurs liées à la ménopause. Après quelques mois, mes raideurs et mes douleurs ont énormément diminué. Je n’ai plus besoin d’antidouleurs. Très facile à avaler et produit de super qualité.</p>",
-            "link_url": "",
-            "link_text": "Client vérifié ✓",
-            "link_style": "link"
-          }
-        },
-        "item_W9jMi8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/51.png",
-            "column_size": "3",
-            "title": "Claire, 54 ans",
-            "heading_tag": "h4",
-            "content": "<p>\"Pas de maux d’estomac comme avec d’autres marques. Je continue la cure pour voir les résultats sur la durée.\"</p>",
-            "link_url": "",
-            "link_text": "Client vérifié ✓",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_MwJML3",
-        "item_JJLm4U",
-        "item_7BdeiK",
-        "item_GECyWQ",
-        "item_GtVHmE",
-        "item_dHXQqT",
-        "item_Gf3Fea",
-        "item_tXhkFJ",
-        "item_W9jMi8"
-      ],
-      "custom_css": [
-        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "rich_text_DE3LKx": {
@@ -1423,8 +1423,8 @@
     "image_with_text_overlay_pjaxby",
     "trust_pilot_reviews_AxNB3A",
     "rich_text_JAypN7",
-    "featured-product",
     "multi_column_BKPLPt",
+    "featured-product",
     "rich_text_DE3LKx",
     "blog_posts_b8FDbX",
     "multi_column_7xMgen",
