@@ -549,7 +549,6 @@
         },
         "image_ADk7VP": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Soulagement_rapide_des_douleurs_articulaires_et_musculaires_2.png",
             "alignment": "center",
