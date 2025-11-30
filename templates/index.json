@@ -322,19 +322,6 @@
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
-        "item_MwJML3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2_21282528-56b3-4dce-85ba-f7106e9cf19d.png",
-            "column_size": "3",
-            "title": "Nathalie, 45 ans",
-            "heading_tag": "h4",
-            "content": "<p>“Je me réveillais la nuit à cause de la douleur au poignet. Depuis que j’ai commencé la cure de 3 mois, la douleur et les gonflements liés à mon arthrose ont nettement diminué. Quel soulagement.<br/><br/></p>",
-            "link_url": "",
-            "link_text": "Client vérifié ✓",
-            "link_style": "link"
-          }
-        },
         "item_JJLm4U": {
           "type": "item",
           "settings": {
@@ -343,6 +330,19 @@
             "title": "Aurélie, 52 ans",
             "heading_tag": "h4",
             "content": "<p>\"J’avais tout essayé pour mes douleurs chroniques… rien ne tenait. j'ai pris la cure 3 mois et c’est la première fois que je ressens un soulagement durable. Je suis trop contente.\"</p>",
+            "link_url": "",
+            "link_text": "Client vérifié ✓",
+            "link_style": "link"
+          }
+        },
+        "item_MwJML3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_21282528-56b3-4dce-85ba-f7106e9cf19d.png",
+            "column_size": "3",
+            "title": "Nathalie, 45 ans",
+            "heading_tag": "h4",
+            "content": "<p>“Je me réveillais la nuit à cause de la douleur au poignet. Depuis que j’ai commencé la cure de 3 mois, la douleur et les gonflements liés à mon arthrose ont nettement diminué. Quel soulagement.<br/><br/></p>",
             "link_url": "",
             "link_text": "Client vérifié ✓",
             "link_style": "link"
@@ -441,8 +441,8 @@
         }
       },
       "block_order": [
-        "item_MwJML3",
         "item_JJLm4U",
+        "item_MwJML3",
         "item_7BdeiK",
         "item_GECyWQ",
         "item_GtVHmE",
