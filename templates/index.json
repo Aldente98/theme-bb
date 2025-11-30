@@ -753,45 +753,6 @@
         "text_color": ""
       }
     },
-    "blog_posts_b8FDbX": {
-      "type": "blog-posts",
-      "blocks": {
-        "blog_93WUEh": {
-          "type": "blog",
-          "disabled": true,
-          "settings": {
-            "blog": "news",
-            "posts_count": 6,
-            "stack_items": false
-          }
-        }
-      },
-      "block_order": [
-        "blog_93WUEh"
-      ],
-      "custom_css": [
-        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
-      ],
-      "name": "Blog posts",
-      "settings": {
-        "full_width": true,
-        "show_excerpt": true,
-        "show_date": false,
-        "show_author": false,
-        "show_comments_count": false,
-        "show_category": false,
-        "subheading": "",
-        "title": "",
-        "content": "<h4>Des études concrètes<br/><br/></h4>",
-        "link_url": "https://curcumalab.com/blogs/news",
-        "link_text": "Voir toutes les études scientifiques",
-        "background": "#f9f9f9",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "multi_column_7xMgen": {
       "type": "multi-column",
       "blocks": {
@@ -897,6 +858,45 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "blog_posts_b8FDbX": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog_93WUEh": {
+          "type": "blog",
+          "disabled": true,
+          "settings": {
+            "blog": "news",
+            "posts_count": 6,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "blog_93WUEh"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
+      ],
+      "name": "Blog posts",
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": false,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": false,
+        "subheading": "",
+        "title": "",
+        "content": "<h4>Des études concrètes<br/><br/></h4>",
+        "link_url": "https://curcumalab.com/blogs/news",
+        "link_text": "Voir toutes les études scientifiques",
+        "background": "#f9f9f9",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "image_with_text_overlay_pPkHRi": {
@@ -1429,8 +1429,8 @@
     "multi_column_BKPLPt",
     "featured-product",
     "rich_text_DE3LKx",
-    "blog_posts_b8FDbX",
     "multi_column_7xMgen",
+    "blog_posts_b8FDbX",
     "image_with_text_overlay_pPkHRi",
     "image_link_blocks_VhwPgj",
     "rich_text_eGQePi",
