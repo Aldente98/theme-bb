@@ -110,7 +110,7 @@
         "richtext_MG3U86": {
           "type": "richtext",
           "settings": {
-            "content": "<h6><strong>Pourquoi choisir cette cure ?</strong></h6>"
+            "content": "<h3><strong>Pourquoi choisir cette cure ?</strong></h3>"
           }
         }
       },
