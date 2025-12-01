@@ -335,6 +335,19 @@
             "link_style": "link"
           }
         },
+        "item_GtVHmE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Soulage_les_douleurs_articulaires_7.png",
+            "column_size": "3",
+            "title": "Francoise, 51 ans",
+            "heading_tag": "h4",
+            "content": "<p>Je vous raconte pas… j’avais tellement mal au pied que je devais prendre une pointure de plus juste pour réussir à mettre mes chaussures. Depuis que les gonflements ont enfin diminué, je revis. Je peux marcher, sortir, faire ma petite vie sans penser à la douleur. Ça fait vraiment bizarre de vivre sans souffrir. Merci.</p>",
+            "link_url": "",
+            "link_text": "Client vérifié ✓",
+            "link_style": "link"
+          }
+        },
         "item_7BdeiK": {
           "type": "item",
           "settings": {
@@ -369,19 +382,6 @@
             "title": "Sophie, 55 ans",
             "heading_tag": "h4",
             "content": "<p>\"Ma cheville était gonflée et douloureuse depuis des mois. Après la cure CurcumaLab, le gonflement a nettement diminué et je remarche enfin sans gêne. Très satisfaite.\"</p>",
-            "link_url": "",
-            "link_text": "Client vérifié ✓",
-            "link_style": "link"
-          }
-        },
-        "item_GtVHmE": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Soulage_les_douleurs_articulaires_7.png",
-            "column_size": "3",
-            "title": "Francoise, 51 ans",
-            "heading_tag": "h4",
-            "content": "<p>Je vous raconte pas… j’avais tellement mal au pied que je devais prendre une pointure de plus juste pour réussir à mettre mes chaussures. Depuis que les gonflements ont enfin diminué, je revis. Je peux marcher, sortir, faire ma petite vie sans penser à la douleur. Ça fait vraiment bizarre de vivre sans souffrir. Merci.</p>",
             "link_url": "",
             "link_text": "Client vérifié ✓",
             "link_style": "link"
@@ -442,10 +442,10 @@
       },
       "block_order": [
         "item_JJLm4U",
+        "item_GtVHmE",
         "item_7BdeiK",
         "item_MwJML3",
         "item_GECyWQ",
-        "item_GtVHmE",
         "item_dHXQqT",
         "item_Gf3Fea",
         "item_tXhkFJ",
