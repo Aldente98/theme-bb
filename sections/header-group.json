@@ -41,7 +41,7 @@
         "message_fVhYaJ": {
           "type": "message",
           "settings": {
-            "text": "⚡OFFRE SPÉCIAL CYBER WEEK⚡",
+            "text": "OFFRE SPÉCIAL CYBER WEEK",
             "url": ""
           }
         }
@@ -59,7 +59,7 @@
         "text_size": "text-xs",
         "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#ffad0d",
+        "background": "#044936",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
