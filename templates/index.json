@@ -1405,11 +1405,11 @@
         "loox_reviews_loox_agg_section_CkY89U": {
           "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "only_photos": false,
+            "only_photos": true,
             "hide_thumbnails": false,
-            "product_handle": "",
+            "product_handle": "gelule-puissante-au-curcuma",
             "aggregated": true,
-            "data-limit": 20,
+            "data-limit": 5,
             "maxwidth": 1080,
             "is_sample": false
           }
