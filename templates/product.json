@@ -136,6 +136,22 @@
     },
     "173998905724905a15": {
       "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_EkqEjd": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": false
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_EkqEjd"
+      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -158,22 +174,6 @@
     },
     "17470084070befa8e8": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_eHVKrp": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 10,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_eHVKrp"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -193,6 +193,33 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "1764943507fdbc18a1": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_tqDGy7": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": false
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_tqDGy7"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -201,6 +228,7 @@
     "173998905724905a15",
     "17399958338b7cfeb3",
     "17470084070befa8e8",
-    "174700909694892b1c"
+    "174700909694892b1c",
+    "1764943507fdbc18a1"
   ]
 }
