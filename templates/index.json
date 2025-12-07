@@ -110,7 +110,7 @@
         "richtext_MG3U86": {
           "type": "richtext",
           "settings": {
-            "content": "<h5>Pourquoi les rhumatologue en parlent ?</h5>"
+            "content": "<h5>Pourquoi les rhumatologues en parlent ?</h5>"
           }
         }
       },
@@ -639,7 +639,7 @@
         "collapsible_text_7yeAC3": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-question",
+            "icon": "none",
             "icon_width": 20,
             "title": "Comment sa marche ?",
             "content": "<ul><li>Curcuma Lab agit au cœur de l’inflammation grâce à une synergie précise d’ingrédients naturels.<br/></li><li>Le <strong>curcuma</strong> soulage et apaise, tandis que le <strong>poivre noir</strong> en décuple l’absorption pour une efficacité réelle et durable.<br/></li><li>Le <strong>gingembre</strong> soutient la circulation et la mobilité, pendant que la <strong>propolis</strong> et la <strong>vitamine C</strong> renforcent les défenses naturelles.<br/></li><li>Enfin, l’<strong>huile de coco</strong> facilite l’assimilation et protège la digestion, pour un confort quotidien et des effets visibles au fil du temps.<br/><br/></li></ul>",
@@ -1024,6 +1024,7 @@
     },
     "image_with_text_overlay_kRhnNB": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
