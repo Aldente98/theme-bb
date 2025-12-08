@@ -348,6 +348,19 @@
             "link_style": "link"
           }
         },
+        "item_W9jMi8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Product_consistency_5.jpg",
+            "column_size": "3",
+            "title": "Claire, 54 ans",
+            "heading_tag": "h4",
+            "content": "<p>\"Pas de maux d’estomac comme avec d’autres marques. Je continue la cure pour voir les résultats sur la durée.\"</p>",
+            "link_url": "",
+            "link_text": "Client vérifié ✓",
+            "link_style": "link"
+          }
+        },
         "item_JJLm4U": {
           "type": "item",
           "settings": {
@@ -425,31 +438,18 @@
             "link_text": "Client vérifié ✓",
             "link_style": "link"
           }
-        },
-        "item_W9jMi8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/51.png",
-            "column_size": "3",
-            "title": "Claire, 54 ans",
-            "heading_tag": "h4",
-            "content": "<p>\"Pas de maux d’estomac comme avec d’autres marques. Je continue la cure pour voir les résultats sur la durée.\"</p>",
-            "link_url": "",
-            "link_text": "Client vérifié ✓",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_Gf3Fea",
         "item_tXhkFJ",
+        "item_W9jMi8",
         "item_JJLm4U",
         "item_GtVHmE",
         "item_7BdeiK",
         "item_MwJML3",
         "item_GECyWQ",
-        "item_dHXQqT",
-        "item_W9jMi8"
+        "item_dHXQqT"
       ],
       "custom_css": [
         ".section-full {padding-top: 10px; padding-bottom: 0px;}"
