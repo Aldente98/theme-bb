@@ -416,11 +416,11 @@
         "item_tXhkFJ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/53.png",
+            "image": "shopify://shop_images/Product_consistency_4.jpg",
             "column_size": "3",
-            "title": "Isabelle, 56 ans",
+            "title": "Martin, 54 ans",
             "heading_tag": "h4",
-            "content": "<p>Mon médecin m’avait conseillé le curcuma pour les douleurs liées à la ménopause. Après quelques mois, mes raideurs et mes douleurs ont énormément diminué. Je n’ai plus besoin d’antidouleurs. Très facile à avaler et produit de super qualité.</p>",
+            "content": "<p>Mon rhumatologue m’avait conseillé le curcuma pour les douleurs liées à la ménopause. Après quelques mois, mes raideurs et mes douleurs ont énormément diminué. Je n’ai plus besoin d’antidouleurs. Très facile à avaler et produit de super qualité.</p>",
             "link_url": "",
             "link_text": "Client vérifié ✓",
             "link_style": "link"
