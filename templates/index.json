@@ -322,6 +322,19 @@
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
+        "item_Gf3Fea": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Product_consistency_1.jpg",
+            "column_size": "3",
+            "title": "Sophie, 57 ans",
+            "heading_tag": "h4",
+            "content": "<p>“Je voulais éviter la chirurgie et les anti-inflammatoires. Après quelques semaines, la douleur à l’épaule a diminué et mes mains sont beaucoup moins douloureuses au réveil. Je suis contente du résultat.”</p>",
+            "link_url": "",
+            "link_text": "Client vérifié ✓",
+            "link_style": "link"
+          }
+        },
         "item_JJLm4U": {
           "type": "item",
           "settings": {
@@ -400,19 +413,6 @@
             "link_style": "link"
           }
         },
-        "item_Gf3Fea": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/48.png",
-            "column_size": "3",
-            "title": "Sophie, 57 ans",
-            "heading_tag": "h4",
-            "content": "<p>“Je voulais éviter la chirurgie et les anti-inflammatoires. Après quelques semaines, la douleur à l’épaule a diminué et mes mains sont beaucoup moins douloureuses au réveil. Je suis contente du résultat.”</p>",
-            "link_url": "",
-            "link_text": "Client vérifié ✓",
-            "link_style": "link"
-          }
-        },
         "item_tXhkFJ": {
           "type": "item",
           "settings": {
@@ -441,13 +441,13 @@
         }
       },
       "block_order": [
+        "item_Gf3Fea",
         "item_JJLm4U",
         "item_GtVHmE",
         "item_7BdeiK",
         "item_MwJML3",
         "item_GECyWQ",
         "item_dHXQqT",
-        "item_Gf3Fea",
         "item_tXhkFJ",
         "item_W9jMi8"
       ],
