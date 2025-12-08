@@ -649,7 +649,7 @@
         "collapsible_text_7JpyM7": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-jewelry",
+            "icon": "none",
             "icon_width": 20,
             "title": "Quels sont les bénéfices ?",
             "content": "<ul><li> Apaise naturellement les douleurs et raideurs articulaires.</li></ul><p></p><ul><li> Réduit l’inflammation chronique sans agresser l’estomac.</li></ul><p></p><ul><li> Améliore la mobilité et la récupération physique.<br/></li><li> Renforce les défenses naturelles et soutient l’immunité.</li></ul><p></p><ul><li> Apporte une énergie stable et une meilleure clarté mentale.</li></ul><p></p><ul><li> Favorise un équilibre digestif et un bien-être global durable.</li></ul>",
@@ -659,7 +659,7 @@
         "collapsible_text_FXtB8P": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-love",
+            "icon": "none",
             "icon_width": 20,
             "title": "Ce qui le rend unique",
             "content": "<p>Curcuma Lab ne se limite pas à un simple extrait de curcuma.<br/><br/>Sa formule associe <strong>six actifs complémentaires</strong> : curcuma, poivre noir, gingembre, propolis, huile de coco et vitamine C, chacun choisi pour son rôle précis et sa synergie naturelle.<br/><br/>Cette combinaison rare agit à plusieurs niveaux du corps : inflammation, énergie, immunité et confort digestif.<br/><br/>Une approche complète et cohérente du bien-être, pensée pour durer.<br/><br/></p>",
@@ -669,7 +669,7 @@
         "collapsible_text_AMhQ3X": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-happy",
+            "icon": "none",
             "icon_width": 20,
             "title": "Pourquoi vous allez l’aimer ?",
             "content": "<ul><li>Parce qu’il agit en douceur mais en profondeur.<br/><br/></li><li>Parce qu’il ne masque pas les douleurs, il les apaise vraiment.<br/><br/></li><li>Et surtout, parce qu’il redonne ce qu’on avait oublié : une énergie stable, des mouvements plus libres et la sensation d’un corps apaisé, équilibré, vivant.<br/><br/></li></ul>",
