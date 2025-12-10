@@ -866,7 +866,6 @@
       "blocks": {
         "blog_93WUEh": {
           "type": "blog",
-          "disabled": true,
           "settings": {
             "blog": "news",
             "posts_count": 6,
