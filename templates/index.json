@@ -109,6 +109,7 @@
       "blocks": {
         "richtext_MG3U86": {
           "type": "richtext",
+          "disabled": true,
           "settings": {
             "content": "<h5>1000mg de pure soulagement</h5>"
           }
