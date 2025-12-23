@@ -40,9 +40,8 @@
         },
         "message_fVhYaJ": {
           "type": "message",
-          "disabled": true,
           "settings": {
-            "text": "3X Rupture de Stock",
+            "text": "Ruptures de stock répétées : une cure ne peut être garantie pour tous.",
             "url": ""
           }
         }
@@ -57,7 +56,7 @@
         "enable_sticky": true,
         "autoplay": true,
         "cycle_speed": 9,
-        "text_size": "text-xs",
+        "text_size": "text-base",
         "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#044936",
