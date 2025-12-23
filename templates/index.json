@@ -587,13 +587,14 @@
         "liquid_NnNFhj": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .product__inventory {\n    padding-top: 10px; /* Adjust as needed */\n    padding-bottom: 10px; /* Adjust as needed */\n  }\n</style>\n\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"15\" height=\"15\" aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(255, 0, 0, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(255, 0, 0)\"></circle>\n</svg> Plus que 5 cures en stock !</p>"
+            "liquid": "<style>\n  .product__inventory {\n    padding-top: 10px; /* Adjust as needed */\n    padding-bottom: 10px; /* Adjust as needed */\n  }\n</style>\n\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"15\" height=\"15\" aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(255, 0, 0, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(255, 0, 0)\"></circle>\n</svg> Plus que 4 cures en stock !</p>"
           }
         },
         "kaching_bundles_app_block_xHYxAn": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "product": "{{section.settings.product}}"
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
           }
         },
         "image_jbgPDV": {
